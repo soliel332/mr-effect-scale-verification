@@ -1,0 +1,1 @@
+adequacy threshold tau (99th percentile, tuning set, P1-P3 pooled over core grid) = 0.163276

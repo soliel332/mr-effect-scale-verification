@@ -1,0 +1,58 @@
+setting,grp,css_alarm,adq_alarm,css_na,sig_na
+A1 lamz10,P1 linear,1.0,1.0,0.0,0.0
+A1 lamz10,P2 standardised,1.0,1.0,0.0,0.0
+A1 lamz10,P3-P7 log odds,0.0225,0.0015,0.0,0.0
+A1 lamz20,P1 linear,1.0,1.0,0.0,0.0
+A1 lamz20,P2 standardised,1.0,1.0,0.0,0.0
+A1 lamz20,P3-P7 log odds,0.02825,0.011,0.0,0.0
+A2 maf0.01-0.05,P1 linear,0.62125,1.0,0.37875,0.0
+A2 maf0.01-0.05,P2 standardised,0.62125,1.0,0.37875,0.0
+A2 maf0.01-0.05,P3-P7 log odds,0.06725,0.2855,0.3945,0.0
+A3 gammaLog2,P1 linear,1.0,1.0,0.0,0.0
+A3 gammaLog2,P2 standardised,1.0,1.0,0.0,0.0
+A3 gammaLog2,P3-P7 log odds,0.04925,0.003,0.0,0.0
+A3 gammaLog4,P1 linear,0.995,0.98125,0.005,0.01875
+A3 gammaLog4,P2 standardised,0.995,0.98125,0.005,0.01875
+A3 gammaLog4,P3-P7 log odds,0.0435,0.0015,0.006,0.01375
+A4 prev0.01,P1 linear,1.0,1.0,0.0,0.0
+A4 prev0.01,P2 standardised,1.0,1.0,0.0,0.0
+A4 prev0.01,P3-P7 log odds,0.0,0.0,0.0,0.0
+A5 Nx0.5,P1 linear,1.0,1.0,0.0,0.0
+A5 Nx0.5,P2 standardised,1.0,1.0,0.0,0.0
+A5 Nx0.5,P3-P7 log odds,0.99675,1.0,0.0,0.0
+A5 Nx2.0,P1 linear,1.0,1.0,0.0,0.0
+A5 Nx2.0,P2 standardised,1.0,1.0,0.0,0.0
+A5 Nx2.0,P3-P7 log odds,0.94625,0.9995,0.0,0.0
+A5 Nx5.0,P1 linear,1.0,1.0,0.0,0.0
+A5 Nx5.0,P2 standardised,0.5,0.5,0.0,0.0
+A5 Nx5.0,P3-P7 log odds,0.9945,1.0,0.0,0.0
+A6 freqerr_0.2,P1 linear,1.0,1.0,0.0,0.0
+A6 freqerr_0.2,P2 standardised,1.0,1.0,0.0,0.0
+A6 freqerr_0.2,P3-P7 log odds,0.0345,0.003,0.0,0.0
+A6 freqerr_0.5,P1 linear,1.0,0.99875,0.0,0.00125
+A6 freqerr_0.5,P2 standardised,1.0,0.99875,0.0,0.00125
+A6 freqerr_0.5,P3-P7 log odds,0.0475,0.00575,0.0,0.00125
+A6 freqerr_flip,P1 linear,1.0,1.0,0.0,0.0
+A6 freqerr_flip,P2 standardised,1.0,1.0,0.0,0.0
+A6 freqerr_flip,P3-P7 log odds,0.04225,0.00175,0.001,0.00075
+A7 nhet_matched,P1 linear,1.0,0.99875,0.0,0.00125
+A7 nhet_matched,P2 standardised,1.0,0.99875,0.0,0.00125
+A7 nhet_matched,P3-P7 log odds,0.0445,0.00025,0.00175,0.00475
+A7 nhet_severe,P1 linear,0.99375,0.965,0.00625,0.035
+A7 nhet_severe,P2 standardised,0.99375,0.965,0.00625,0.035
+A7 nhet_severe,P3-P7 log odds,0.07225,0.0035,0.01425,0.044
+A8 info0.5,P1 linear,0.34625,0.07125,0.65375,0.92875
+A8 info0.5,P2 standardised,0.34625,0.07125,0.65375,0.92875
+A8 info0.5,P3-P7 log odds,0.3005,0.0665,0.6615,0.9335
+A8 info0.8,P1 linear,0.995,0.9775,0.005,0.0225
+A8 info0.8,P2 standardised,0.995,0.9775,0.005,0.0225
+A8 info0.8,P3-P7 log odds,0.0505,0.00075,0.00675,0.0245
+core K=10,P1 linear,0.996875,0.99875,0.003125,0.00125
+core K=10,P2 standardised,0.996875,0.99875,0.003125,0.00125
+core K=10,P3-P7 log odds,0.0555,0.014,0.006,0.00225
+core K=30,P1 linear,0.930625,0.929375,0.069375,0.070625
+core K=30,P2 standardised,0.930625,0.929375,0.069375,0.070625
+core K=30,P3-P7 log odds,0.0675,0.013375,0.085,0.092125
+core K=5,P1 linear,0.979375,0.985625,0.020625,0.014375
+core K=5,P2 standardised,0.979375,0.985625,0.020625,0.014375
+core K=5,P3-P7 log odds,0.1095,0.012375,0.022125,0.019125

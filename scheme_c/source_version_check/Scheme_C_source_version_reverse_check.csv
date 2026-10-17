@@ -1,0 +1,8 @@
+analysis_label,retained_unique_snps,hm3_snps_found,alleles_aligned_n,alleles_aligned_fraction,beta_max_abs_difference,beta_median_abs_difference,beta_within_1e-4_fraction,p_max_abs_difference,p_within_1e-4_fraction,assessment
+T1,132,49,49,1.0,0.0,0.0,1.0,4.311039799864691e-07,1.0,exact_or_rounding_equivalent
+T2,124,49,49,1.0,0.0,0.0,1.0,3.79794121041499e-07,1.0,exact_or_rounding_equivalent
+T3,146,55,55,1.0,0.0037,0.0,0.9636363636363636,0.003347701,0.9818181818181818,mostly_equivalent_with_local_discrepancy
+ADHD,101,39,39,1.0,0.005206862670672999,0.0015045631587475988,0.02564102564102564,0.20640000000000003,0.07692307692307693,alleles_match_but_numeric_version_differs
+NEURO,174,64,64,1.0,0.0,0.0,1.0,1.9999999999881224e-07,1.0,exact_or_rounding_equivalent
+ASTHMA,138,52,52,1.0,0.0,0.0,1.0,4.955929040484364e-07,1.0,exact_or_rounding_equivalent
+ASD,0,0,0,nan,nan,nan,nan,nan,nan,not_applicable_no_frozen_effect_file

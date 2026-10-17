@@ -1,0 +1,7 @@
+"exposure","outcome","n_clumped","n_harmonised","IVW_se","power_OR_1_20"
+"Tier 1 affective instability","UK Biobank asthma",46,41,0.0463020234859384,0.976018412705705
+"Tier 1 affective instability","FinnGen asthma",46,38,0.0751151344844275,0.679850237922044
+"Tier 2 help-seeking corrected","UK Biobank asthma",30,26,0.0991582044999579,0.451811182410098
+"Tier 2 help-seeking corrected","FinnGen asthma",30,26,0.0827381615471393,0.596258101726255
+"Tier 3 clinical MDD","UK Biobank asthma",50,39,0.0564732194328137,0.897689754295438
+"Tier 3 clinical MDD","FinnGen asthma",50,46,0.0793721758684701,0.631982905780925

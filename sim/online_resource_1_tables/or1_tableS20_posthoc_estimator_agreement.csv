@@ -1,0 +1,5 @@
+quantity,min,median,p99,max
+per_release_median_factor,1.00016,1.00096,1.00484,1.00548
+per_release_max_variant_factor,1.00020,1.00141,1.00612,1.00839
+release_ratio_sd_est_totalN_over_sigma_hat,1.00015,1.00099,1.00492,1.00624
+release_ratio_sd_est_default_ncontrol_over_sigma_hat,0.49344,0.89584,0.99610,0.99765

@@ -1,0 +1,8 @@
+python 3.11.15
+numpy 2.4.6
+scipy 1.17.1
+pandas 2.3.3
+pyarrow 25.0.0
+statsmodels 0.14.6
+platform: darwin (macOS), 10 CPUs
+frozen run environment: see 1_frozen_prespecified/FREEZE.txt

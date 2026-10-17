@@ -1,0 +1,4 @@
+set,cell,logistic_nonconverged
+test,A2_maf0.01-0.05_p0.02,170
+test,A7_nhet_matched_p0.02,4
+test,A7_nhet_severe_p0.02,1

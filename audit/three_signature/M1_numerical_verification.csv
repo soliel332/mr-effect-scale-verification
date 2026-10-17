@@ -1,0 +1,12 @@
+check,result,lowest_level_source,verdict
+41 classifiable records satisfy N = ncase + ncontrol,41 of 41,repository_sample_98_reconstructed.csv; repository_scale_reanalysis.csv,verified
+audit prev column equals analysis-sample p = ncase/(ncase+ncontrol) for the 41,max |diff| 4.4e-16,repository_scale_reanalysis.csv (prev) vs sample ledger counts,verified
+sampled records with N != ncase + ncontrol,"3 of 98: ebi-a-GCST006907, ieu-b-69, ukb-a-217; all unclassifiable",repository_sample_98_reconstructed.csv (classifiable_in_preserved_output),verified
+eligible pool records with N != ncase + ncontrol,"45 of 2,658 (per the verified reconstruction's own documentation)",build_eligible_catalogue.py docstring,"documented, not re-derived this pass"
+eligibility quantity used by the frozen sampling rule,"ncase / N (reported N), between 0.01 and 0.9","build_eligible_catalogue.py lines 17-21, 55, 65",verified; renamed case-to-reported-N eligibility ratio
+frozen repository perturbation implementation,"sigma_obs x sqrt(factor) against fixed expectations (p fixed), TWO signatures (linear vs log odds) only",effect_scale_mr_analysis.R lines 69-81; N_perturbation_sensitivity.csv,p already fixed; two-signature rule
+"corrected implementation: three signatures, p fixed, N x 0.8",0.0 of 41 assignments changed; min separation 0.3713; max distance to assigned 0.3757,"repository_scale_reanalysis.csv (sigma_obs, prev); recomputed in m1_and_direct_diagnostic_verification.py",verified
+"corrected implementation: three signatures, p fixed, N x 0.9",0.0 of 41 assignments changed; min separation 0.4891; max distance to assigned 0.3168,"repository_scale_reanalysis.csv (sigma_obs, prev); recomputed in m1_and_direct_diagnostic_verification.py",verified
+"corrected implementation: three signatures, p fixed, N x 1.1",0.0 of 41 assignments changed; min separation 0.6168; max distance to assigned 0.2936,"repository_scale_reanalysis.csv (sigma_obs, prev); recomputed in m1_and_direct_diagnostic_verification.py",verified
+"corrected implementation: three signatures, p fixed, N x 1.2",0.0 of 41 assignments changed; min separation 0.5298; max distance to assigned 0.3371,"repository_scale_reanalysis.csv (sigma_obs, prev); recomputed in m1_and_direct_diagnostic_verification.py",verified
+corrected implementation at N x 1.0 reproduces frozen assignments,41 of 41,repository_scale_reanalysis.csv inferred_recomputed,verified

@@ -1,0 +1,17 @@
+quantity,max_abs_diff,na_pattern_identical,note,all_numeric_mrpresso_quantities_identical
+n_outliers,1.0,True,differs ONLY because of the parser fix: the sentinel 'No significant outliers' was previously counted as one index,True
+outlier_indices,,False,differs ONLY because of the parser fix: the sentinel 'No significant outliers' was previously counted as one index,True
+outlier_SNPs,,True,,True
+raw_estimate,0.0,True,,True
+raw_se,0.0,True,,True
+raw_p,0.0,True,,True
+corrected_estimate,0.0,True,,True
+corrected_se,0.0,True,,True
+corrected_p,0.0,True,,True
+global_RSSobs,0.0,True,,True
+global_p,,True,,True
+distortion_coef,0.0,True,,True
+distortion_p,0.0,True,,True
+NbDistribution,0.0,True,,True
+SignifThreshold,0.0,True,,True
+seed,0.0,True,,True

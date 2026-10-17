@@ -1,0 +1,22 @@
+.DS_Store
+.Rhistory
+.RData
+.Renviron
+__pycache__/
+*.pyc
+*.Rproj.user/
+conversations*.json
+conversations*.zip
+*token*
+*credential*
+scheme_c/code/private_raw_inputs/
+scheme_c/code/ldsc_sumstats/
+scheme_c/code/ldsc_results/
+scheme_c/code/ldsc_software/
+scheme_c/code/ldsc_reference_repo/
+scheme_c/code/ldsc_pydeps/
+
+# written by effect_scale_mr_analysis.R; diagnostic plots, not the submitted figures (see figures/)
+results/figures/
+# record-level simulation outputs are release assets, not Git objects (see release_assets/)
+*.parquet

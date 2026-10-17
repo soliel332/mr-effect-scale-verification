@@ -1,0 +1,2 @@
+"model","outlier_status","n_outliers","outlier_indices","outlier_SNPs","raw_estimate","raw_se","raw_p","corrected_estimate","corrected_se","corrected_p","corrected_applicable","global_RSSobs","global_p","distortion_coef","distortion_p","distortion_applicable","NbDistribution","SignifThreshold","seed","R_version","MRPRESSO_version"
+"Tier_3_major_depression_meta_analysis__UK_Biobank_asthma","no significant outliers",0,"","",0.267994673442606,0.0564732194328137,2.93023066111585e-05,,,,FALSE,78.563103503538,"6e-04",,,FALSE,10000,0.05,20260909,"4.4.1","1.0"

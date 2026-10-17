@@ -1,0 +1,99 @@
+sample_order,id,trait,population,unit,ncase,ncontrol,N,prevalence,identifier_family,inferred_scale_preserved,usable_instruments_preserved,classifiable_in_preserved_output
+1,ebi-a-GCST90012791,Acceptance of an invitation to wear a physical activity monitor,European,,96035,119092,215127,0.44641072482766,ebi-a,,,False
+2,ebi-a-GCST90018890,Peripheral artery disease,European,,7114,475964,483078,0.0147264002914643,ebi-a,logOR,5.0,True
+3,ebi-a-GCST010778,COVID-19 (covid vs lab/self reported negative) RELEASE 4,European,,8818,101806,110624,0.0797114550188024,ebi-a,,,False
+4,ebi-a-GCST005413,Type 2 diabetes,European,logOR,12931,57196,70127,0.184394027977812,ebi-a,logOR,16.0,True
+5,ebi-a-GCST90018910,Rheumatoid arthritis,European,,8255,409001,417256,0.0197840174856683,ebi-a,logOR,25.0,True
+6,ebi-a-GCST006907,Ischemic stroke (large artery atherosclerosis),European,logOR,4373,406111,150765,0.0290054057639373,ebi-a,,,False
+7,ebi-a-GCST90012794,Participation in an health questionnaire (not invited vs invited),European,,336633,114464,451097,0.746254131594757,ebi-a,linear,28.0,True
+8,ebi-a-GCST90018915,Stable angina pectoris,European,,17894,325132,343026,0.0521651420008979,ebi-a,logOR,53.0,True
+9,ebi-a-GCST005903,Major depressive disorder (ICD-10 coded),European,logOR,8276,209308,217584,0.0380358849915435,ebi-a,,,False
+10,ebi-a-GCST006862,Asthma,European,logOR,19954,107715,127669,0.156294793567742,ebi-a,,,False
+11,ebi-a-GCST90007529,Low hand grip strength (60 years and older) (FNIH),European,,20335,236188,256523,0.0792716442580197,ebi-a,logOR,5.0,True
+12,ebi-a-GCST90018839,Endometriosis,European,,4511,227260,231771,0.0194631770152435,ebi-a,logOR,8.0,True
+13,ebi-a-GCST90018934,Uterine fibroids,European,,21024,237694,258718,0.0812622237339497,ebi-a,logOR,49.0,True
+14,ebi-a-GCST90086063,Dermatophytosis,European,,7676,48961,56637,0.135529777354027,ebi-a,,,False
+15,finn-b-N14_FEMALEINFERT,Female infertility,European,,6481,68969,75450,0.0858979456593771,finn-b,,,False
+16,finn-b-COPD_EARLY,Early onset COPD,European,,3508,212197,215705,0.0162629517164646,finn-b,,,False
+17,finn-b-PRIM_KNEEARTHROSIS,"Primary gonarthrosis, bilateral",European,,8410,195996,204406,0.041143606352064,finn-b,,,False
+18,finn-b-F5_Dementia_U_EXMORE,Undefined dementia (more controls excluded),European,,1589,111471,113060,0.0140544843445958,finn-b,,,False
+19,finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA,Endometriosis of rectovaginal septum and vagina,European,,1360,68969,70329,0.0193376843123036,finn-b,,,False
+20,finn-b-L12_ATOPIC,Atopic dermatitis,European,,7024,198740,205764,0.034136194864019,finn-b,logOR,20.0,True
+21,finn-b-R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN,Other symptoms and signs involving the digestive system and abdomen,European,,2592,161968,164560,0.0157510938259601,finn-b,,,False
+22,finn-b-ASTHMA_ALLERG,Asthma and allergy,European,,2215,135449,137664,0.01608990004649,finn-b,,,False
+23,finn-b-ST19_INJURI_ABDOMEN_LOWER_BACK_LUMBAR_SPINE_PELVIS,"Injuries to the abdomen, lower back, lumbar spine and pelvis",European,,5953,212839,218792,0.0272084902555852,finn-b,,,False
+24,finn-b-ST19_FRACT_SHOUL_UPPER_ARM,Fracture of shoulder and upper arm,European,,5824,202866,208690,0.0279074224926925,finn-b,,,False
+25,finn-b-H7_AMD,Age-related macular degeneration (whether dry or wet),European,,3763,205359,209122,0.0179942808504127,finn-b,logOR,10.0,True
+26,finn-b-L12_PSORI_VULG,Psoriasis vulgaris,European,,2802,212242,215044,0.0130298915570767,finn-b,logOR,10.0,True
+27,finn-b-H8_OTHHEARINGLOSS,Other hearing loss,European,,4157,196592,200749,0.0207074505975123,finn-b,,,False
+28,finn-b-N14_OTHNONINFUTER,"Other noninflammatory disorders of uterus, except cervix",European,,5280,68969,74249,0.0711120688494121,finn-b,,,False
+29,ieu-a-8,Coronary heart disease,European,log odds,22233,64762,86995,0.255566411862751,ieu-a,logOR,15.0,True
+30,ieu-a-1183,ADHD,European,\\N,20183,35191,55374,0.364485137429118,ieu-a,,,False
+31,ieu-a-297,Alzheimer's disease,European,log odds,17008,37154,54162,0.314020900262176,ieu-a,,,False
+32,ieu-a-803,PGC cross-disorder traits,European,log odds,33332,27888,61220,0.544462593923554,ieu-a,,,False
+33,ieu-a-92,Obesity class 3,European,log odds,2896,47468,50364,0.0575013898816615,ieu-a,,,False
+34,ieu-a-91,Obesity class 2,European,log odds,9889,62657,72546,0.136313511427232,ieu-a,logOR,11.0,True
+35,ieu-a-12,Crohn's disease,European,log odds,17897,33977,51874,0.345009060415622,ieu-a,logOR,123.0,True
+36,ieu-a-1162,Breast cancer (iCOGS),European,log odds,46785,42892,89677,0.521705677040936,ieu-a,logOR,52.0,True
+37,ieu-a-984,Lung adenocarcinoma,European,,11245,54619,65864,0.17073059638042,ieu-a,logOR,14.0,True
+38,ieu-a-1188,Major Depressive Disorder,European,\\N,59851,113154,173005,0.345949539030664,ieu-a,,,False
+39,ieu-a-1128,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),European,log odds,21468,105974,127442,0.168453100233832,ieu-a,logOR,37.0,True
+40,ieu-a-93,Overweight,European,log odds,93015,65840,158855,0.585533977526675,ieu-a,logOR,14.0,True
+41,ieu-a-1090,Type 2 diabetes,European,log odds,4040,116246,120286,0.0335866185591008,ieu-a,,,False
+42,ieu-a-1160,ER- Breast cancer (iCOGS),European,log odds,7333,42892,50225,0.146002986560478,ieu-a,logOR,6.0,True
+43,ieu-b-5143,Late-onset hypertension,European,beta_bolt,95583,329146,424729,0.225044675546054,ieu-b,linear,92.0,True
+44,ieu-b-106,FEV1/FVC < 0.7,European,,55907,297408,353315,0.158235568826684,ieu-b,linear,118.0,True
+45,ieu-b-4878,haemotological cancer,European,,4552,372016,376568,0.0120881221983812,ieu-b,,,False
+46,ieu-b-4965,Colorectal cancer,European,,5657,372016,377673,0.0149785661140722,ieu-b,linear,9.0,True
+47,ieu-b-42,schizophrenia,European,,33640,43456,77096,0.436339109681436,ieu-b,logOR,81.0,True
+48,ieu-b-69,sepsis,European,,10154,454764,462918,0.021934770304892,ieu-b,,,False
+49,ieu-b-4980,Sepsis,European,,11643,474841,486484,0.0239329556573289,ieu-b,,,False
+50,ieu-b-4810,Breast cancer,European,,13879,198523,212402,0.0653430758655757,ieu-b,linear,34.0,True
+51,ieu-b-5102,Schizophrenia,European,logOR,52017,75889,127906,0.406681469203947,ieu-b,logOR,156.0,True
+52,ieu-b-4809,Prostate cancer,European,,9132,173493,182625,0.0500041067761807,ieu-b,linear,39.0,True
+53,ieu-b-18,multiple sclerosis,European,,47429,68374,115803,0.409566246124885,ieu-b,,,False
+54,ieu-b-4959,Malignant non-melanoma skin cancer,European,,23694,372016,395710,0.0598771827853731,ieu-b,linear,67.0,True
+55,ieu-b-85,Prostate cancer,European,,79148,61106,140254,0.564319021204386,ieu-b,logOR,138.0,True
+56,ieu-b-4964,Pan cancer,European,,50643,372016,422659,0.119819996734957,ieu-b,linear,12.0,True
+57,ukb-a-302,Hair/balding pattern: Pattern 3,European,SD,41584,113404,154988,0.268304642940099,ukb-a,linear,43.0,True
+58,ukb-a-324,Ever used hormone-replacement therapy (HRT),European,SD,71377,109254,180631,0.395153655795517,ukb-a,linear,5.0,True
+59,ukb-a-582,Diagnoses - main ICD10: R10 Abdominal and pelvic pain,European,SD,14203,322996,337199,0.0421205282340695,ukb-a,,,False
+60,ukb-a-424,Eye problems/disorders: Glaucoma,European,SD,4758,104059,108817,0.0437247856493011,ukb-a,linear,10.0,True
+61,ukb-a-443,Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Blood clot in the leg (DVT),European,SD,6905,329877,336782,0.0205028772321561,ukb-a,linear,9.0,True
+62,ukb-a-354,Headaches for 3+ months,European,SD,29979,35604,65583,0.457115411005901,ukb-a,,,False
+63,ukb-a-48,Sensitivity / hurt feelings,European,SD,182340,145492,327832,0.556199516825691,ukb-a,linear,24.0,True
+64,ukb-a-254,Doctor diagnosed hayfever or allergic rhinitis,European,SD,18934,64595,83529,0.226675765303068,ukb-a,linear,18.0,True
+65,ukb-a-489,Medication for cholesterol  blood pressure or diabetes: None of the above,European,SD,103004,51698,154702,0.665822032035785,ukb-a,linear,43.0,True
+66,ukb-a-128,Treatment/medication code: tramadol,European,SD,3724,333435,337159,0.011045233851091,ukb-a,,,False
+67,ukb-a-406,Current employment status: Looking after home and/or family,European,SD,16722,319530,336252,0.0497305592234396,ukb-a,,,False
+68,ukb-a-87,Non-cancer illness code  self-reported: osteoporosis,European,SD,5266,331893,337159,0.0156187436787984,ukb-a,linear,8.0,True
+69,ukb-a-39,Maternal smoking around birth,European,SD,88601,201126,289727,0.305808571517325,ukb-a,linear,7.0,True
+70,ukb-a-217,Illnesses of siblings: Heart disease,European,SD,26382,235200,259921,0.101500071175473,ukb-a,,,False
+71,ukb-b-17456,Diagnoses - main ICD10: R10.3 Pain localised to other parts of lower abdomen,European,SD,4823,458187,463010,0.0104166216712382,ukb-b,,,False
+72,ukb-b-14017,PCT where patients GP was registered: NORTH TYNESIDE PCT,European,SD,5312,457698,463010,0.0114727543681562,ukb-b,,,False
+73,ukb-b-5011,Thickness of butter/margarine spread on bread rolls: medium,European,SD,2403,62546,64949,0.0369982601733668,ukb-b,,,False
+74,ukb-b-1799,Methods of admission to hospital (recoded): Transfer,European,SD,7703,454739,462442,0.0166572240410689,ukb-b,,,False
+75,ukb-b-13891,Mineral and other dietary supplements: Zinc,European,SD,18826,442558,461384,0.0408033221784891,ukb-b,,,False
+76,ukb-b-5474,Vitamin and/or mineral supplement use: Vitamin B12,European,SD,1330,63619,64949,0.0204776055058584,ukb-b,,,False
+77,ukb-b-13184,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)",European,SD,197006,263370,460376,0.427924131579405,ukb-b,linear,18.0,True
+78,ukb-b-14372,Operative procedures - main OPCS: G45.9 Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract,European,SD,25609,437401,463010,0.0553098205222349,ukb-b,,,False
+79,ukb-b-7110,Vitamin and/or mineral supplement use: Multivitamin with multimineral,European,SD,3791,61158,64949,0.0583688740396311,ukb-b,,,False
+80,ukb-b-14181,PCT where patients GP was registered: NORTH SOMERSET PCT,European,SD,5193,457817,463010,0.0112157404807672,ukb-b,,,False
+81,ukb-b-10008,Treatment/medication code: atorvastatin,European,SD,13851,449082,462933,0.0299200964286409,ukb-b,linear,23.0,True
+82,ukb-b-12511,Type of fat/oil used in cooking: Low fat polyunsaturated margarine,European,SD,2380,62569,64949,0.0366441361683783,ukb-b,,,False
+83,ukb-b-19550,Vitamin and/or mineral supplement use: Calcium,European,SD,3680,61269,64949,0.0566598407981647,ukb-b,,,False
+84,ukb-b-4277,Savoury snack consumers,European,SD,23148,41801,64949,0.356402715977151,ukb-b,,,False
+85,ukb-d-20502,Ever had period extreme irritability,European,,29747,84675,114422,0.259976228347695,ukb-d,,,False
+86,ukb-d-100920_2104,Type milk consumed: wholemilk,European,,2934,48493,51427,0.0570517432477103,ukb-d,,,False
+87,ukb-d-L12_SKINSUBCUTISNAS,Other and unspecified disorders of skin and subcutaneous tissue,European,,3801,357393,361194,0.0105234306217711,ukb-d,,,False
+88,ukb-d-M13_LIMBPAIN,Pain in limb,European,,3674,357520,361194,0.0101718190224644,ukb-d,,,False
+89,ukb-d-PNEUMONIA,Pneumonias (Asthma/COPD co-morbidities),European,,5900,355294,361194,0.0163347120937779,ukb-d,,,False
+90,ukb-d-22617_3563,Job SOC coding: Vocational and industrial trainers and instructors,European,,1015,90134,91149,0.0111356131169843,ukb-d,,,False
+91,ukb-d-XIV_GENITOURINARY,Diseases of the genitourinary system,European,,71620,289574,361194,0.198286793246842,ukb-d,,,False
+92,ukb-d-C_SKIN,Cancer of skin,European,,16531,344663,361194,0.0457676484105495,ukb-d,linear,44.0,True
+93,ukb-d-22601_31113033,"Job coding: laboratory technician, scientific assistant, cytology screener; hospital, medical or health technician",European,,2162,87704,89866,0.0240580419736051,ukb-d,,,False
+94,ukb-d-20548_3,Manifestations of mania or irritability: My thoughts were racing,European,,10580,103842,114422,0.0924647358025555,ukb-d,,,False
+95,ukb-d-22617_4131,Job SOC coding: Filing and other records assistants/clerks,European,,1537,89612,91149,0.0168624998628619,ukb-d,,,False
+96,ukb-d-2654_4,Non-butter spread type details: Soft (tub) margarine,European,,23625,166469,190094,0.124280619062148,ukb-d,,,False
+97,ukb-d-K11_GIBLEEDING,GI-bleeding,European,,5235,355959,361194,0.0144935962391402,ukb-d,,,False
+98,ukb-d-1428_3,Spread type: Other type of spread/margarine,European,,190593,169698,360291,0.528997393773367,ukb-d,,,False

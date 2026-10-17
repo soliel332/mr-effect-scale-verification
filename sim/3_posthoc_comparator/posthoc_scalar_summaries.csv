@@ -1,0 +1,16 @@
+,value
+records,120400.0
+test_cells,86.0
+label_agreement_sd_est_totalN_vs_sigma_hat,0.99671926910299
+label_disagreements,395.0
+corr_log_declSD_slope_vs_minus_log_sigma_hat,0.9978368794916043
+median_declSD_slope_times_sigma_hat,0.9984206979522006
+selfnormalised_alarm_P1_core,0.0
+core_label_accuracy_default_ncontrol_p0.01,1.0
+core_label_accuracy_default_ncontrol_p0.02,1.0
+core_label_accuracy_default_ncontrol_p0.05,1.0
+core_label_accuracy_default_ncontrol_p0.1,1.0
+core_label_accuracy_default_ncontrol_p0.2,1.0
+core_label_accuracy_default_ncontrol_p0.35,1.0
+core_label_accuracy_default_ncontrol_p0.5,0.8012392755004767
+core_label_accuracy_default_ncontrol_p0.75,0.14285714285714285

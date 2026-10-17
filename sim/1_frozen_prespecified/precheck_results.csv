@@ -1,0 +1,12 @@
+check,value
+V1 OLS vs statsmodels max abs diff,9.846e-15
+V1 logistic vs statsmodels max abs diff,4.274e-15
+V1 logistic+covariate+mask vs statsmodels,2.637e-16
+V2 Firth vs penalised-likelihood optimum,1.384e-07
+"V3a SPA vs normal, common variant p=0.5, max rel diff log P",0.0005
+"V3b-first (20k MC, uninformative: 2 of 3 variants below MC floor)",
+"V3b SPA mean |error| in MC SE (6 variants, 100k MC)",1.37
+V3b normal mean |error| in MC SE,8.69
+V4 runtime K=30 per data set (s),1.57
+V4 runtime K=10 per data set (s),0.41
+V4 runtime case-control (s),1.92

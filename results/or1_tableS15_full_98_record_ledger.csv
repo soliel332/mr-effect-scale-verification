@@ -1,0 +1,99 @@
+sample_order,id,trait,family,declared_unit,has_declaration,ncase,ncontrol,N,case_fraction,usable_variants,classifiable,non_classification,scale_preserved,discordant
+1,ebi-a-GCST90012791,Acceptance of an invitation to wear a physical activity monitor,ebi-a,,0,96035,119092,215127,0.4464,,0,not classified — usable-variant count not preserved in the frozen output,,0
+2,ebi-a-GCST90018890,Peripheral artery disease,ebi-a,,0,7114,475964,483078,0.0147,5,1,classified,logOR,0
+3,ebi-a-GCST010778,COVID-19 (covid vs lab/self reported negative) RELEASE 4,ebi-a,,0,8818,101806,110624,0.0797,,0,not classified — usable-variant count not preserved in the frozen output,,0
+4,ebi-a-GCST005413,Type 2 diabetes,ebi-a,logOR,1,12931,57196,70127,0.1844,16,1,classified,logOR,0
+5,ebi-a-GCST90018910,Rheumatoid arthritis,ebi-a,,0,8255,409001,417256,0.0198,25,1,classified,logOR,0
+6,ebi-a-GCST006907,Ischemic stroke (large artery atherosclerosis),ebi-a,logOR,1,4373,406111,150765,0.029,,0,not classified — usable-variant count not preserved in the frozen output,,0
+7,ebi-a-GCST90012794,Participation in an health questionnaire (not invited vs invited),ebi-a,,0,336633,114464,451097,0.7463,28,1,classified,linear,0
+8,ebi-a-GCST90018915,Stable angina pectoris,ebi-a,,0,17894,325132,343026,0.0522,53,1,classified,logOR,0
+9,ebi-a-GCST005903,Major depressive disorder (ICD-10 coded),ebi-a,logOR,1,8276,209308,217584,0.038,,0,not classified — usable-variant count not preserved in the frozen output,,0
+10,ebi-a-GCST006862,Asthma,ebi-a,logOR,1,19954,107715,127669,0.1563,,0,not classified — usable-variant count not preserved in the frozen output,,0
+11,ebi-a-GCST90007529,Low hand grip strength (60 years and older) (FNIH),ebi-a,,0,20335,236188,256523,0.0793,5,1,classified,logOR,0
+12,ebi-a-GCST90018839,Endometriosis,ebi-a,,0,4511,227260,231771,0.0195,8,1,classified,logOR,0
+13,ebi-a-GCST90018934,Uterine fibroids,ebi-a,,0,21024,237694,258718,0.0813,49,1,classified,logOR,0
+14,ebi-a-GCST90086063,Dermatophytosis,ebi-a,,0,7676,48961,56637,0.1355,,0,not classified — usable-variant count not preserved in the frozen output,,0
+15,finn-b-N14_FEMALEINFERT,Female infertility,finn-b,,0,6481,68969,75450,0.0859,,0,not classified — usable-variant count not preserved in the frozen output,,0
+16,finn-b-COPD_EARLY,Early onset COPD,finn-b,,0,3508,212197,215705,0.0163,,0,not classified — usable-variant count not preserved in the frozen output,,0
+17,finn-b-PRIM_KNEEARTHROSIS,"Primary gonarthrosis, bilateral",finn-b,,0,8410,195996,204406,0.0411,,0,not classified — usable-variant count not preserved in the frozen output,,0
+18,finn-b-F5_Dementia_U_EXMORE,Undefined dementia (more controls excluded),finn-b,,0,1589,111471,113060,0.0141,,0,not classified — usable-variant count not preserved in the frozen output,,0
+19,finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA,Endometriosis of rectovaginal septum and vagina,finn-b,,0,1360,68969,70329,0.0193,,0,not classified — usable-variant count not preserved in the frozen output,,0
+20,finn-b-L12_ATOPIC,Atopic dermatitis,finn-b,,0,7024,198740,205764,0.0341,20,1,classified,logOR,0
+21,finn-b-R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN,Other symptoms and signs involving the digestive system and abdomen,finn-b,,0,2592,161968,164560,0.0158,,0,not classified — usable-variant count not preserved in the frozen output,,0
+22,finn-b-ASTHMA_ALLERG,Asthma and allergy,finn-b,,0,2215,135449,137664,0.0161,,0,not classified — usable-variant count not preserved in the frozen output,,0
+23,finn-b-ST19_INJURI_ABDOMEN_LOWER_BACK_LUMBAR_SPINE_PELVIS,"Injuries to the abdomen, lower back, lumbar spine and pelvis",finn-b,,0,5953,212839,218792,0.0272,,0,not classified — usable-variant count not preserved in the frozen output,,0
+24,finn-b-ST19_FRACT_SHOUL_UPPER_ARM,Fracture of shoulder and upper arm,finn-b,,0,5824,202866,208690,0.0279,,0,not classified — usable-variant count not preserved in the frozen output,,0
+25,finn-b-H7_AMD,Age-related macular degeneration (whether dry or wet),finn-b,,0,3763,205359,209122,0.018,10,1,classified,logOR,0
+26,finn-b-L12_PSORI_VULG,Psoriasis vulgaris,finn-b,,0,2802,212242,215044,0.013,10,1,classified,logOR,0
+27,finn-b-H8_OTHHEARINGLOSS,Other hearing loss,finn-b,,0,4157,196592,200749,0.0207,,0,not classified — usable-variant count not preserved in the frozen output,,0
+28,finn-b-N14_OTHNONINFUTER,"Other noninflammatory disorders of uterus, except cervix",finn-b,,0,5280,68969,74249,0.0711,,0,not classified — usable-variant count not preserved in the frozen output,,0
+29,ieu-a-8,Coronary heart disease,ieu-a,log odds,1,22233,64762,86995,0.2556,15,1,classified,logOR,0
+30,ieu-a-1183,ADHD,ieu-a,\\N,1,20183,35191,55374,0.3645,,0,not classified — usable-variant count not preserved in the frozen output,,0
+31,ieu-a-297,Alzheimer's disease,ieu-a,log odds,1,17008,37154,54162,0.314,,0,not classified — usable-variant count not preserved in the frozen output,,0
+32,ieu-a-803,PGC cross-disorder traits,ieu-a,log odds,1,33332,27888,61220,0.5445,,0,not classified — usable-variant count not preserved in the frozen output,,0
+33,ieu-a-92,Obesity class 3,ieu-a,log odds,1,2896,47468,50364,0.0575,,0,not classified — usable-variant count not preserved in the frozen output,,0
+34,ieu-a-91,Obesity class 2,ieu-a,log odds,1,9889,62657,72546,0.1363,11,1,classified,logOR,0
+35,ieu-a-12,Crohn's disease,ieu-a,log odds,1,17897,33977,51874,0.345,123,1,classified,logOR,0
+36,ieu-a-1162,Breast cancer (iCOGS),ieu-a,log odds,1,46785,42892,89677,0.5217,52,1,classified,logOR,0
+37,ieu-a-984,Lung adenocarcinoma,ieu-a,,0,11245,54619,65864,0.1707,14,1,classified,logOR,0
+38,ieu-a-1188,Major Depressive Disorder,ieu-a,\\N,1,59851,113154,173005,0.3459,,0,not classified — usable-variant count not preserved in the frozen output,,0
+39,ieu-a-1128,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis),ieu-a,log odds,1,21468,105974,127442,0.1685,37,1,classified,logOR,0
+40,ieu-a-93,Overweight,ieu-a,log odds,1,93015,65840,158855,0.5855,14,1,classified,logOR,0
+41,ieu-a-1090,Type 2 diabetes,ieu-a,log odds,1,4040,116246,120286,0.0336,,0,not classified — usable-variant count not preserved in the frozen output,,0
+42,ieu-a-1160,ER- Breast cancer (iCOGS),ieu-a,log odds,1,7333,42892,50225,0.146,6,1,classified,logOR,0
+43,ieu-b-5143,Late-onset hypertension,ieu-b,beta_bolt,1,95583,329146,424729,0.225,92,1,classified,linear,0
+44,ieu-b-106,FEV1/FVC < 0.7,ieu-b,,0,55907,297408,353315,0.1582,118,1,classified,linear,0
+45,ieu-b-4878,haemotological cancer,ieu-b,,0,4552,372016,376568,0.0121,,0,not classified — usable-variant count not preserved in the frozen output,,0
+46,ieu-b-4965,Colorectal cancer,ieu-b,,0,5657,372016,377673,0.015,9,1,classified,linear,0
+47,ieu-b-42,schizophrenia,ieu-b,,0,33640,43456,77096,0.4363,81,1,classified,logOR,0
+48,ieu-b-69,sepsis,ieu-b,,0,10154,454764,462918,0.0219,,0,not classified — usable-variant count not preserved in the frozen output,,0
+49,ieu-b-4980,Sepsis,ieu-b,,0,11643,474841,486484,0.0239,,0,not classified — usable-variant count not preserved in the frozen output,,0
+50,ieu-b-4810,Breast cancer,ieu-b,,0,13879,198523,212402,0.0653,34,1,classified,linear,0
+51,ieu-b-5102,Schizophrenia,ieu-b,logOR,1,52017,75889,127906,0.4067,156,1,classified,logOR,0
+52,ieu-b-4809,Prostate cancer,ieu-b,,0,9132,173493,182625,0.05,39,1,classified,linear,0
+53,ieu-b-18,multiple sclerosis,ieu-b,,0,47429,68374,115803,0.4096,,0,not classified — usable-variant count not preserved in the frozen output,,0
+54,ieu-b-4959,Malignant non-melanoma skin cancer,ieu-b,,0,23694,372016,395710,0.0599,67,1,classified,linear,0
+55,ieu-b-85,Prostate cancer,ieu-b,,0,79148,61106,140254,0.5643,138,1,classified,logOR,0
+56,ieu-b-4964,Pan cancer,ieu-b,,0,50643,372016,422659,0.1198,12,1,classified,linear,0
+57,ukb-a-302,Hair/balding pattern: Pattern 3,ukb-a,SD,1,41584,113404,154988,0.2683,43,1,classified,linear,1
+58,ukb-a-324,Ever used hormone-replacement therapy (HRT),ukb-a,SD,1,71377,109254,180631,0.3952,5,1,classified,linear,1
+59,ukb-a-582,Diagnoses - main ICD10: R10 Abdominal and pelvic pain,ukb-a,SD,1,14203,322996,337199,0.0421,,0,not classified — usable-variant count not preserved in the frozen output,,0
+60,ukb-a-424,Eye problems/disorders: Glaucoma,ukb-a,SD,1,4758,104059,108817,0.0437,10,1,classified,linear,1
+61,ukb-a-443,Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Blood clot in the leg (DVT),ukb-a,SD,1,6905,329877,336782,0.0205,9,1,classified,linear,1
+62,ukb-a-354,Headaches for 3+ months,ukb-a,SD,1,29979,35604,65583,0.4571,,0,not classified — usable-variant count not preserved in the frozen output,,0
+63,ukb-a-48,Sensitivity / hurt feelings,ukb-a,SD,1,182340,145492,327832,0.5562,24,1,classified,linear,1
+64,ukb-a-254,Doctor diagnosed hayfever or allergic rhinitis,ukb-a,SD,1,18934,64595,83529,0.2267,18,1,classified,linear,1
+65,ukb-a-489,Medication for cholesterol  blood pressure or diabetes: None of the above,ukb-a,SD,1,103004,51698,154702,0.6658,43,1,classified,linear,1
+66,ukb-a-128,Treatment/medication code: tramadol,ukb-a,SD,1,3724,333435,337159,0.011,,0,not classified — usable-variant count not preserved in the frozen output,,0
+67,ukb-a-406,Current employment status: Looking after home and/or family,ukb-a,SD,1,16722,319530,336252,0.0497,,0,not classified — usable-variant count not preserved in the frozen output,,0
+68,ukb-a-87,Non-cancer illness code  self-reported: osteoporosis,ukb-a,SD,1,5266,331893,337159,0.0156,8,1,classified,linear,1
+69,ukb-a-39,Maternal smoking around birth,ukb-a,SD,1,88601,201126,289727,0.3058,7,1,classified,linear,1
+70,ukb-a-217,Illnesses of siblings: Heart disease,ukb-a,SD,1,26382,235200,259921,0.1015,,0,not classified — usable-variant count not preserved in the frozen output,,0
+71,ukb-b-17456,Diagnoses - main ICD10: R10.3 Pain localised to other parts of lower abdomen,ukb-b,SD,1,4823,458187,463010,0.0104,,0,not classified — usable-variant count not preserved in the frozen output,,0
+72,ukb-b-14017,PCT where patients GP was registered: NORTH TYNESIDE PCT,ukb-b,SD,1,5312,457698,463010,0.0115,,0,not classified — usable-variant count not preserved in the frozen output,,0
+73,ukb-b-5011,Thickness of butter/margarine spread on bread rolls: medium,ukb-b,SD,1,2403,62546,64949,0.037,,0,not classified — usable-variant count not preserved in the frozen output,,0
+74,ukb-b-1799,Methods of admission to hospital (recoded): Transfer,ukb-b,SD,1,7703,454739,462442,0.0167,,0,not classified — usable-variant count not preserved in the frozen output,,0
+75,ukb-b-13891,Mineral and other dietary supplements: Zinc,ukb-b,SD,1,18826,442558,461384,0.0408,,0,not classified — usable-variant count not preserved in the frozen output,,0
+76,ukb-b-5474,Vitamin and/or mineral supplement use: Vitamin B12,ukb-b,SD,1,1330,63619,64949,0.0205,,0,not classified — usable-variant count not preserved in the frozen output,,0
+77,ukb-b-13184,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)",ukb-b,SD,1,197006,263370,460376,0.4279,18,1,classified,linear,1
+78,ukb-b-14372,Operative procedures - main OPCS: G45.9 Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract,ukb-b,SD,1,25609,437401,463010,0.0553,,0,not classified — usable-variant count not preserved in the frozen output,,0
+79,ukb-b-7110,Vitamin and/or mineral supplement use: Multivitamin with multimineral,ukb-b,SD,1,3791,61158,64949,0.0584,,0,not classified — usable-variant count not preserved in the frozen output,,0
+80,ukb-b-14181,PCT where patients GP was registered: NORTH SOMERSET PCT,ukb-b,SD,1,5193,457817,463010,0.0112,,0,not classified — usable-variant count not preserved in the frozen output,,0
+81,ukb-b-10008,Treatment/medication code: atorvastatin,ukb-b,SD,1,13851,449082,462933,0.0299,23,1,classified,linear,1
+82,ukb-b-12511,Type of fat/oil used in cooking: Low fat polyunsaturated margarine,ukb-b,SD,1,2380,62569,64949,0.0366,,0,not classified — usable-variant count not preserved in the frozen output,,0
+83,ukb-b-19550,Vitamin and/or mineral supplement use: Calcium,ukb-b,SD,1,3680,61269,64949,0.0567,,0,not classified — usable-variant count not preserved in the frozen output,,0
+84,ukb-b-4277,Savoury snack consumers,ukb-b,SD,1,23148,41801,64949,0.3564,,0,not classified — usable-variant count not preserved in the frozen output,,0
+85,ukb-d-20502,Ever had period extreme irritability,ukb-d,,0,29747,84675,114422,0.26,,0,not classified — usable-variant count not preserved in the frozen output,,0
+86,ukb-d-100920_2104,Type milk consumed: wholemilk,ukb-d,,0,2934,48493,51427,0.0571,,0,not classified — usable-variant count not preserved in the frozen output,,0
+87,ukb-d-L12_SKINSUBCUTISNAS,Other and unspecified disorders of skin and subcutaneous tissue,ukb-d,,0,3801,357393,361194,0.0105,,0,not classified — usable-variant count not preserved in the frozen output,,0
+88,ukb-d-M13_LIMBPAIN,Pain in limb,ukb-d,,0,3674,357520,361194,0.0102,,0,not classified — usable-variant count not preserved in the frozen output,,0
+89,ukb-d-PNEUMONIA,Pneumonias (Asthma/COPD co-morbidities),ukb-d,,0,5900,355294,361194,0.0163,,0,not classified — usable-variant count not preserved in the frozen output,,0
+90,ukb-d-22617_3563,Job SOC coding: Vocational and industrial trainers and instructors,ukb-d,,0,1015,90134,91149,0.0111,,0,not classified — usable-variant count not preserved in the frozen output,,0
+91,ukb-d-XIV_GENITOURINARY,Diseases of the genitourinary system,ukb-d,,0,71620,289574,361194,0.1983,,0,not classified — usable-variant count not preserved in the frozen output,,0
+92,ukb-d-C_SKIN,Cancer of skin,ukb-d,,0,16531,344663,361194,0.0458,44,1,classified,linear,0
+93,ukb-d-22601_31113033,"Job coding: laboratory technician, scientific assistant, cytology screener; hospital, medical or health technician",ukb-d,,0,2162,87704,89866,0.0241,,0,not classified — usable-variant count not preserved in the frozen output,,0
+94,ukb-d-20548_3,Manifestations of mania or irritability: My thoughts were racing,ukb-d,,0,10580,103842,114422,0.0925,,0,not classified — usable-variant count not preserved in the frozen output,,0
+95,ukb-d-22617_4131,Job SOC coding: Filing and other records assistants/clerks,ukb-d,,0,1537,89612,91149,0.0169,,0,not classified — usable-variant count not preserved in the frozen output,,0
+96,ukb-d-2654_4,Non-butter spread type details: Soft (tub) margarine,ukb-d,,0,23625,166469,190094,0.1243,,0,not classified — usable-variant count not preserved in the frozen output,,0
+97,ukb-d-K11_GIBLEEDING,GI-bleeding,ukb-d,,0,5235,355959,361194,0.0145,,0,not classified — usable-variant count not preserved in the frozen output,,0
+98,ukb-d-1428_3,Spread type: Other type of spread/margarine,ukb-d,,0,190593,169698,360291,0.529,,0,not classified — usable-variant count not preserved in the frozen output,,0

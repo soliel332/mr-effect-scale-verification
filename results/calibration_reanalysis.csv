@@ -1,0 +1,4 @@
+"pair","shared_snps","prevalence","observed_slope","slope_se","predicted_lambda","correlation","placement"
+"Help-seeking: MRC-IEU linear vs logistic",35,0.3450365567,4.49327980089621,0.0682153486059538,4.42504639333828,0.995888626690661,"Main"
+"Help-seeking: Neale linear vs logistic",15,0.3441517,4.28617287964186,0.0781917971463709,4.430438207001,0.997444240042205,"Main"
+"Mood swings: MRC-IEU linear vs logistic",54,0.4526205,4.06922121854665,0.0491415357341367,4.03624250347866,0.996397468989447,"Main"

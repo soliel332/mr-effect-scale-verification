@@ -1,0 +1,6 @@
+N_multiplier,n_records,agree_with_frozen_assignment,changed,min_separation,max_distance_to_assigned
+0.8,41,41,0,0.3713,0.3757
+0.9,41,41,0,0.4891,0.3168
+1.0,41,41,0,0.5945,0.2642
+1.1,41,41,0,0.6168,0.2936
+1.2,41,41,0,0.5298,0.3371

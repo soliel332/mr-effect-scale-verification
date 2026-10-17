@@ -1,0 +1,324 @@
+Multivariate ld-score regression of 7 traits (<SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz) began at: 2026-09-11 22:55:20.90453
+Reading in LD scores
+Read in summary statistics [1/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz
+Out of 1182384 SNPs, 1182237 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 407.746; 1182237 remain
+Read in summary statistics [2/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz
+Out of 1182384 SNPs, 1182237 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 407.746; 1182237 remain
+Read in summary statistics [3/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+Out of 1163325 SNPs, 1163271 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 500.199; 1163271 remain
+Read in summary statistics [4/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Out of 1063229 SNPs, 1063271 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 80; 1063271 remain
+Read in summary statistics [5/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Out of 1046070 SNPs, 1046088 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 80; 1046088 remain
+Read in summary statistics [6/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Out of 1193094 SNPs, 1192446 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 393.411; 1192446 remain
+Read in summary statistics [7/7] from: <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Out of 1182384 SNPs, 1182237 remain after merging with LD-score files
+Removing 5 SNPs with Chi^2 > 401.847; 1182232 remain
+          
+Estimating heritability [1/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.5441
+Lambda GC: 1.4244
+Intercept: 1.0294 (0.0095)
+Ratio: 0.054 (0.0175)
+Total Observed Scale h2: 0.0645 (0.0027)
+h2 Z: 23.5
+     
+Calculating genetic covariance [2/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz
+1182465 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz
+Mean Z*Z: 0.6024
+Cross trait Intercept: 0.2587 (0.0074)
+Total Observed Scale Genetic Covariance (g_cov): 0.0425 (0.0021)
+g_cov Z: 20.5
+g_cov P-value: 2.4004e-93
+     
+Calculating genetic covariance [3/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+1161000 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+Mean Z*Z: 0.5867
+Cross trait Intercept: 0.1929 (0.0078)
+Total Observed Scale Genetic Covariance (g_cov): 0.0441 (0.002)
+g_cov Z: 22
+g_cov P-value: 3.8421e-107
+     
+Calculating genetic covariance [4/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+1061237 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Mean Z*Z: 0.1571
+Cross trait Intercept: 0.0146 (0.0075)
+Total Observed Scale Genetic Covariance (g_cov): 0.047 (0.0044)
+g_cov Z: 10.8
+g_cov P-value: 4.4041e-27
+     
+Calculating genetic covariance [5/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+1044084 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Mean Z*Z: 0.0583
+Cross trait Intercept: -0.0072 (0.008)
+Total Observed Scale Genetic Covariance (g_cov): 0.0207 (0.0052)
+g_cov Z: 3.99
+g_cov P-value: 6.6052e-05
+     
+Calculating genetic covariance [6/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+1181677 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Z*Z: 1.1344
+Cross trait Intercept: 0.5794 (0.0084)
+Total Observed Scale Genetic Covariance (g_cov): 0.0726 (0.0027)
+g_cov Z: 27.1
+g_cov P-value: 2.9973e-161
+     
+Calculating genetic covariance [7/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1182460 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T1.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.1144
+Cross trait Intercept: 0.0377 (0.0059)
+Total Observed Scale Genetic Covariance (g_cov): 0.0102 (0.0016)
+g_cov Z: 6.28
+g_cov P-value: 3.3901e-10
+          
+Estimating heritability [8/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.496
+Lambda GC: 1.3963
+Intercept: 1.0144 (0.0095)
+Ratio: 0.0291 (0.0191)
+Total Observed Scale h2: 0.0612 (0.0027)
+h2 Z: 22.8
+     
+Calculating genetic covariance [9/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+1161000 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+Mean Z*Z: 1.2529
+Cross trait Intercept: 0.7209 (0.009)
+Total Observed Scale Genetic Covariance (g_cov): 0.0603 (0.0024)
+g_cov Z: 25.4
+g_cov P-value: 4.794e-142
+     
+Calculating genetic covariance [10/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+1061237 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Mean Z*Z: 0.1415
+Cross trait Intercept: 0.005 (0.0075)
+Total Observed Scale Genetic Covariance (g_cov): 0.0445 (0.0043)
+g_cov Z: 10.4
+g_cov P-value: 2.2738e-25
+     
+Calculating genetic covariance [11/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+1044084 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Mean Z*Z: 0.0978
+Cross trait Intercept: -0.008 (0.0076)
+Total Observed Scale Genetic Covariance (g_cov): 0.0366 (0.0046)
+g_cov Z: 7.93
+g_cov P-value: 2.2494e-15
+     
+Calculating genetic covariance [12/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+1181677 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Z*Z: 0.7267
+Cross trait Intercept: 0.3043 (0.008)
+Total Observed Scale Genetic Covariance (g_cov): 0.055 (0.0025)
+g_cov Z: 21.9
+g_cov P-value: 2.003e-106
+     
+Calculating genetic covariance [13/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1182460 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T2.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.1498
+Cross trait Intercept: 0.0541 (0.006)
+Total Observed Scale Genetic Covariance (g_cov): 0.0133 (0.0017)
+g_cov Z: 8.06
+g_cov P-value: 7.7074e-16
+          
+Estimating heritability [14/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.5978
+Lambda GC: 1.4493
+Intercept: 0.998 (0.0097)
+Ratio: -0.0033 (0.0162)
+Total Observed Scale h2: 0.0614 (0.0024)
+h2 Z: 25.6
+     
+Calculating genetic covariance [15/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+1055764 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Mean Z*Z: 0.267
+Cross trait Intercept: 0.0894 (0.0077)
+Total Observed Scale Genetic Covariance (g_cov): 0.0523 (0.0042)
+g_cov Z: 12.4
+g_cov P-value: 2.7643e-35
+     
+Calculating genetic covariance [16/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+1039096 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Mean Z*Z: 0.1837
+Cross trait Intercept: 0.0604 (0.0073)
+Total Observed Scale Genetic Covariance (g_cov): 0.0384 (0.0041)
+g_cov Z: 9.48
+g_cov P-value: 2.6264e-21
+     
+Calculating genetic covariance [17/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+1161041 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Z*Z: 0.7299
+Cross trait Intercept: 0.2523 (0.0081)
+Total Observed Scale Genetic Covariance (g_cov): 0.0558 (0.0023)
+g_cov Z: 24.4
+g_cov P-value: 4.8323e-131
+     
+Calculating genetic covariance [18/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1160998 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/T3.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.16
+Cross trait Intercept: 0.0477 (0.0057)
+Total Observed Scale Genetic Covariance (g_cov): 0.0137 (0.0016)
+g_cov Z: 8.65
+g_cov P-value: 5.2909e-18
+          
+Estimating heritability [19/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.2978
+Lambda GC: 1.253
+Intercept: 1.0351 (0.0098)
+Ratio: 0.118 (0.033)
+Total Observed Scale h2: 0.228 (0.015)
+h2 Z: 15.2
+     
+Calculating genetic covariance [20/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+1043086 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Mean Z*Z: 0.4363
+Cross trait Intercept: 0.3634 (0.0075)
+Total Observed Scale Genetic Covariance (g_cov): 0.0711 (0.0118)
+g_cov Z: 6.04
+g_cov P-value: 1.5881e-09
+     
+Calculating genetic covariance [21/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+1061266 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Z*Z: 0.1241
+Cross trait Intercept: 0.0088 (0.0069)
+Total Observed Scale Genetic Covariance (g_cov): 0.0387 (0.0044)
+g_cov Z: 8.73
+g_cov P-value: 2.4688e-18
+     
+Calculating genetic covariance [22/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1061233 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/ADHD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.1031
+Cross trait Intercept: 0.0038 (0.0073)
+Total Observed Scale Genetic Covariance (g_cov): 0.0307 (0.0041)
+g_cov Z: 7.48
+g_cov P-value: 7.5192e-14
+          
+Estimating heritability [23/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.2001
+Lambda GC: 1.1714
+Intercept: 1.0073 (0.0097)
+Ratio: 0.0367 (0.0486)
+Total Observed Scale h2: 0.1967 (0.0167)
+h2 Z: 11.8
+     
+Calculating genetic covariance [24/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+1044115 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Z*Z: 0.0658
+Cross trait Intercept: -0.0052 (0.0073)
+Total Observed Scale Genetic Covariance (g_cov): 0.026 (0.0048)
+g_cov Z: 5.47
+g_cov P-value: 4.5394e-08
+     
+Calculating genetic covariance [25/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1044080 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/ASD.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.0289
+Cross trait Intercept: -2e-04 (0.0074)
+Total Observed Scale Genetic Covariance (g_cov): 0.0118 (0.0046)
+g_cov Z: 2.55
+g_cov P-value: 0.010636
+          
+Estimating heritability [26/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.8462
+Lambda GC: 1.6257
+Intercept: 1.0344 (0.0105)
+Ratio: 0.0406 (0.0124)
+Total Observed Scale h2: 0.1084 (0.0038)
+h2 Z: 28.5
+     
+Calculating genetic covariance [27/28] for traits: <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+1181672 SNPs remain after merging <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz summary statistics
+Results for genetic covariance between: <SCHEME_C_ROOT>/ldsc_sumstats/NEURO.sumstats.gz and <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Z*Z: 0.1192
+Cross trait Intercept: 0.0401 (0.0063)
+Total Observed Scale Genetic Covariance (g_cov): 0.0098 (0.0017)
+g_cov Z: 5.63
+g_cov P-value: 1.7691e-08
+          
+Estimating heritability [28/28] for: <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Heritability Results for trait: <SCHEME_C_ROOT>/ldsc_sumstats/ASTHMA.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.5354
+Lambda GC: 1.3066
+Intercept: 1.0403 (0.0146)
+Ratio: 0.0752 (0.0273)
+Total Observed Scale h2: 0.0621 (0.0061)
+h2 Z: 10.1
+     
+      
+Genetic Correlation Results
+Genetic Correlation between T1 and T2: 0.6761 (0.033)
+     
+Genetic Correlation between T1 and T3: 0.7008 (0.0319)
+     
+Genetic Correlation between T1 and ADHD: 0.3878 (0.036)
+     
+Genetic Correlation between T1 and ASD: 0.1834 (0.046)
+     
+Genetic Correlation between T1 and NEURO: 0.8684 (0.0321)
+     
+Genetic Correlation between T1 and ASTHMA: 0.1611 (0.0257)
+     
+Genetic Correlation between T2 and T3: 0.9833 (0.0388)
+     
+Genetic Correlation between T2 and ADHD: 0.3771 (0.0362)
+     
+Genetic Correlation between T2 and ASD: 0.3336 (0.0421)
+     
+Genetic Correlation between T2 and NEURO: 0.6754 (0.0308)
+     
+Genetic Correlation between T2 and ASTHMA: 0.2161 (0.0268)
+     
+Genetic Correlation between T3 and ADHD: 0.4423 (0.0357)
+     
+Genetic Correlation between T3 and ASD: 0.3495 (0.0369)
+     
+Genetic Correlation between T3 and NEURO: 0.684 (0.0281)
+     
+Genetic Correlation between T3 and ASTHMA: 0.2222 (0.0257)
+     
+Genetic Correlation between ADHD and ASD: 0.3357 (0.0556)
+     
+Genetic Correlation between ADHD and NEURO: 0.2465 (0.0282)
+     
+Genetic Correlation between ADHD and ASTHMA: 0.2578 (0.0345)
+     
+Genetic Correlation between ASD and NEURO: 0.1783 (0.0326)
+     
+Genetic Correlation between ASD and ASTHMA: 0.107 (0.0419)
+     
+Genetic Correlation between NEURO and ASTHMA: 0.1189 (0.0211)
+     
+     
+LDSC finished running at 2026-09-11 22:55:58.604748
+Running LDSC for all files took 0 minutes and 37 seconds
+     

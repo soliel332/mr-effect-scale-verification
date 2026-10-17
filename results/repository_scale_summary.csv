@@ -1,0 +1,14 @@
+"metric","value"
+"reconstructed_stratified_sample_size",98
+"identifier_families_in_sample",7
+"datasets_sampled_per_identifier_family",14
+"classifiable_datasets_in_preserved_output",41
+"declared_SD_and_inferred_linear_probability",11
+"identifier_family_ukb_a",9
+"identifier_family_ukb_b",2
+"identifier_family_ukb_d",0
+"median_classification_margin",2.08195578393243
+"minimum_classification_margin",1.33813413349659
+"classification_changes_under_N_perturbation",0
+"SD_label_carriers_in_frozen_catalogue",1007
+"eligible_binary_European_datasets_in_frozen_catalogue",2658

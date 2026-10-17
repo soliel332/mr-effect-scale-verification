@@ -1,0 +1,7 @@
+"id","trait","declared_unit","N","prevalence","status","n_usable","implied_sd","expected_linear","expected_standardised","expected_logodds","inferred_scale","expected_assigned","calibration_ratio","lambda"
+"ebi-a-GCST90013923","Mood swings (UKB data field 1920) (SPA correction)",NA,407746,NA,"classified",0,NA,NA,1,NA,NA,NA,NA,NA
+"ukb-b-6991","Seen doctor (GP) for nerves, anxiety, tension or depression","SD",459560,0.345036556706415,"classified",44,0.468680648767358,0.475380196519161,1,2.10357942405305,"linear_probability",0.475380196519161,0.985906969198847,4.42504639329935
+"ebi-a-GCST90013959","Seen doctor for nerves anxiety tension or depression (UKB data field 2090) (SPA correction)",NA,407746,NA,"classified",0,NA,NA,1,NA,NA,NA,NA,NA
+"ieu-b-102","Major depression","NA",500199,0.341376132299345,"classified",50,2.15162297561388,0.474171349404079,1,2.10894226582176,"log_odds",2.10894226582176,1.02023796975565,4.44763748056942
+"ebi-a-GCST90013938","Asthma (SPA correction)",NA,401847,NA,"classified",0,NA,NA,1,NA,NA,NA,NA,NA
+"ebi-a-GCST005902","Depression (broad)","logOR",322580,0.352684605369211,"classified",14,0.473558681639056,0.477805582329021,1,2.09290145821568,"linear_probability",0.477805582329021,0.991111655353075,4.38023651380132

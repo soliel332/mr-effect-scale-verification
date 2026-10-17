@@ -1,0 +1,1008 @@
+"id","trait","population","unit","ncase","ncontrol","N","prevalence","family","lambda"
+"ukb-b-9537","Operative procedures - main OPCS: S06.9 Unspecified other excision of lesion of skin","European","SD",15179,447831,463010,0.0327833092157837,"ukb-b",31.5372214474025
+"ukb-b-9937","Had major operations","European","SD",134945,75223,210168,0.642081572836969,"ukb-b",4.351367217108
+"ukb-b-9543","Shortness of breath walking on level ground","European","SD",16083,134225,150308,0.107000292732256,"ukb-b",10.4655900199777
+"ukb-b-956","Illnesses of father: Parkinson's disease","European","SD",10106,388983,399089,0.0253226723863599,"ukb-b",40.5162833602665
+"ukb-b-9508","Coffee consumed","European","SD",45788,19161,64949,0.704983910452817,"ukb-b",4.80811772311834
+"ukb-b-9961","Operative procedures - secondary OPCS: Y50.8 Other specified approach through abdominal cavity","European","SD",7572,455438,463010,0.0163538584479817,"ukb-b",62.1642749876902
+"ukb-b-9592","Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC","European","SD",7378,455632,463010,0.0159348610181206,"ukb-b",63.7716821850009
+"ukb-b-9536","Diagnoses - main ICD10: D25.9 Leiomyoma of uterus, unspecified","European","SD",5393,457617,463010,0.011647696594026,"ukb-b",86.8656696295892
+"ukb-b-9043","Diagnoses - secondary ICD10: Z53.8 Procedure not carried out for other reasons","European","SD",10952,452058,463010,0.023653916762057,"ukb-b",43.3005235465609
+"ukb-b-9049","Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault of a close relative","European","SD",53425,406317,459742,0.116206481026315,"ukb-b",9.73685802407685
+"ukb-b-9207","Treatment/medication code: amlodipine","European","SD",18713,444220,462933,0.0404226961568953,"ukb-b",25.7807029829094
+"ukb-b-9927","Type of meals eaten: Home cooked meals","European","SD",51743,13206,64949,0.796671234353108,"ukb-b",6.17336619691675
+"ukb-b-970","Diagnoses - secondary ICD10: E11.9 Without complications","European","SD",12045,450965,463010,0.0260145569210168,"ukb-b",39.4667259942641
+"ukb-b-9363","Methods of admission to hospital (recoded): Elective admission: Waiting List","European","SD",192563,270163,462726,0.416149081746001,"ukb-b",4.11575099394197
+"ukb-b-964","Diagnoses - main ICD10: I48 Atrial fibrillation and flutter","European","SD",5669,457341,463010,0.0122437960303233,"ukb-b",82.686412146205
+"ukb-b-9056","Current employment status: Looking after home and/or family","European","SD",23212,438030,461242,0.0503249920865836,"ukb-b",20.9238344718001
+"ukb-b-9050","Eye problems/disorders: Injury or trauma resulting in loss of vision","European","SD",2770,147872,150642,0.0183879661714528,"ukb-b",55.4021259190308
+"ukb-b-9547","Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Oral contraceptive pill or minipill","European","SD",6501,243209,249710,0.0260341996716191,"ukb-b",39.4377437865384
+"ukb-b-9261","PCT responsible for patient data: LEEDS PCT","European","SD",9352,453658,463010,0.0201982678559858,"ukb-b",50.5298105419653
+"ukb-b-9290","Treatment/medication code: cetirizine","European","SD",5206,457727,462933,0.0112456878209158,"ukb-b",89.9343470838069
+"ukb-b-9667","Illness, injury, bereavement, stress in last 2 years: Financial difficulties","European","SD",53524,406218,459742,0.116421819194244,"ukb-b",9.72121696105647
+"ukb-b-9790","Treatment/medication code: cod liver oil capsule","European","SD",26512,436421,462933,0.0572696264902264,"ukb-b",18.5220115051278
+"ukb-b-9598","Why stopped smoking: Illness or ill health","European","SD",13762,100226,113988,0.120732006877917,"ukb-b",9.42011741155731
+"ukb-b-9971","Treatment/medication code: thyroxine product","European","SD",5469,457464,462933,0.011813804589433,"ukb-b",85.6586911882897
+"ukb-b-9263","Operation code: inguinal/femoral hernia repair","European","SD",15516,447417,462933,0.033516729202714,"ukb-b",30.8705259255411
+"ukb-b-9125","Non-cancer illness code, self-reported: rheumatoid arthritis","European","SD",5201,457732,462933,0.0112348871218945,"ukb-b",90.0198224555769
+"ukb-b-9127","Illnesses of father: Chronic bronchitis/emphysema","European","SD",46263,356126,402389,0.114970836677941,"ukb-b",9.82776416853071
+"ukb-b-9571","Fractured bone site(s): Wrist","European","SD",9113,451227,460340,0.01979623756354,"ukb-b",51.5348454451865
+"ukb-b-9981","Sensitivity / hurt feelings","European","SD",249799,199620,449419,0.555826522688182,"ukb-b",4.05049510244068
+"ukb-b-9190","Operation code: bunion/hallus valgus surgery","European","SD",6130,456803,462933,0.013241657000041,"ukb-b",76.5326689436188
+"ukb-b-9509","Ever taken oral contraceptive pill","European","SD",205516,44924,250440,0.820619709311612,"ukb-b",6.79333971730841
+"ukb-b-9596","Vitamin and mineral supplements: Vitamin A","European","SD",8863,451488,460351,0.0192527006566728,"ukb-b",52.9603956215593
+"ukb-b-9473","Operative procedures - main OPCS: G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract","European","SD",40003,423007,463010,0.0863977019934775,"ukb-b",12.6689500963506
+"ukb-b-9838","Pain type(s) experienced in last month: Back pain","European","SD",118471,343386,461857,0.25651013192395,"ukb-b",5.24348972637458
+"ukb-b-997","Treatment speciality of consultant (recoded): Accident & emergency (A&E)","European","SD",16489,428411,444900,0.0370622611822882,"ukb-b",28.0201128539971
+"ukb-b-9744","Liquid used to make porridge: Porridge with milk","European","SD",6469,58480,64949,0.0996012255769912,"ukb-b",11.1506561150633
+"ukb-b-9340","Operative procedures - main OPCS: H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon","European","SD",17244,445766,463010,0.0372432560851817,"ukb-b",27.8891826973996
+"ukb-b-9306","Non-cancer illness code, self-reported: back problem","European","SD",8246,454687,462933,0.0178125128258301,"ukb-b",57.1584460061422
+"ukb-b-9275","Type of fat/oil used in cooking: Olive spread","European","SD",3348,61601,64949,0.0515481377696346,"ukb-b",20.4536926583276
+"ukb-b-9130","Pain type(s) experienced in last month: None of the above","European","SD",184616,277241,461857,0.399725456147682,"ukb-b",4.16762147126003
+"ukb-b-7110","Vitamin and/or mineral supplement use: Multivitamin with multimineral","European","SD",3791,61158,64949,0.0583688740396311,"ukb-b",18.1944058713691
+"ukb-b-847","Operation code: reduction or fixation of bone fracture","European","SD",21214,441719,462933,0.0458252058073199,"ukb-b",22.8700774829251
+"ukb-b-8446","Answered sexual history questions","European","SD",38715,424010,462725,0.0836674050461937,"ukb-b",13.043392563677
+"ukb-b-8398","Non-cancer illness code, self-reported: glaucoma","European","SD",4737,458196,462933,0.0102325822527234,"ukb-b",98.7373808023979
+"ukb-b-8061","Type of sliced bread eaten: other","European","SD",1182,63767,64949,0.0181988945172366,"ukb-b",55.9669287884665
+"ukb-b-6026","Diagnoses - main ICD10: M20.1 Hallux valgus (acquired)","European","SD",5304,457706,463010,0.0114554761236258,"ukb-b",88.3060829457209
+"ukb-b-6222","Operative procedures - secondary OPCS: Z94.2 Right sided operation","European","SD",96353,366657,463010,0.208101336904171,"ukb-b",6.06813899381816
+"ukb-b-5477","Methods of admission to hospital (recoded): Elective admission","European","SD",18006,444394,462400,0.0389403114186851,"ukb-b",26.7208468781
+"ukb-b-6989","Type of baguette eaten: white","European","SD",3765,61184,64949,0.0579685599470354,"ukb-b",18.3122661072933
+"ukb-b-7503","Liquid used to make porridge: Porridge with water","European","SD",3730,61219,64949,0.057429675591618,"ukb-b",18.4735293328085
+"ukb-b-8938","Main speciality of consultant (recoded): Plastic surgery","European","SD",19010,442208,461218,0.0412169516367531,"ukb-b",25.3048509975421
+"ukb-b-7663","Types of physical activity in last 4 weeks: Strenuous sports","European","SD",47468,412908,460376,0.103107025561715,"ukb-b",10.8136203832681
+"ukb-b-6458","Mouth/teeth dental problems: Mouth ulcers","European","SD",47102,414011,461113,0.102148497223023,"ukb-b",10.9034391524704
+"ukb-b-6358","Non-cancer illness code, self-reported: stroke","European","SD",6116,456817,462933,0.0132114150427816,"ukb-b",76.7055073253899
+"ukb-b-8476","Loneliness, isolation","European","SD",82436,372928,455364,0.181033195421685,"ukb-b",6.74489951612244
+"ukb-b-6445","Ever had hysterectomy (womb removed)","European","SD",18171,203526,221697,0.081963220070637,"ukb-b",13.2898753300267
+"ukb-b-6911","Treatment/medication code: diclofenac","European","SD",9640,453293,462933,0.020823747712952,"ukb-b",49.0433620336687
+"ukb-b-6885","Types of spread used on bread/crackers: Spreadable butter on bread/crackers","European","SD",6693,58256,64949,0.103050085451662,"ukb-b",10.8189085779052
+"ukb-b-8764","Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)","European","SD",222470,237906,460376,0.483235442334092,"ukb-b",4.00450186730605
+"ukb-b-8102","Types of spreads/sauces consumed: Low fat mayonnaise","European","SD",3624,61325,64949,0.055797625829497,"ukb-b",18.9810044780055
+"ukb-b-7352","Diagnoses - secondary ICD10: Z92.1 Personal history of long-term (current) use of anticoagulants","European","SD",5254,457756,463010,0.0113474870953111,"ukb-b",89.1367156444643
+"ukb-b-6848","Ever depressed for a whole week","European","SD",80611,69288,149899,0.537768764301296,"ukb-b",4.02295465026691
+"ukb-b-560","Treatment/medication code: multivitamin+mineral preparations","European","SD",6330,456603,462933,0.0136736849608907,"ukb-b",74.147038602078
+"ukb-b-6608","Diagnoses - main ICD10: R10.1 Pain localised to upper abdomen","European","SD",5981,457029,463010,0.0129176475670072,"ukb-b",78.4265627042621
+"ukb-b-7135","Treatment speciality of consultant (recoded): General surgery","European","SD",110264,339661,449925,0.245071956437184,"ukb-b",5.40506378769114
+"ukb-b-657","Operation code: dilatation and curettage/d+c","European","SD",26145,436788,462933,0.0564768551820674,"ukb-b",18.7662257441299
+"ukb-b-5536","Vitamin and/or mineral supplement use: Magnesium","European","SD",1043,63906,64949,0.0160587537914364,"ukb-b",63.2876535403944
+"ukb-b-9019","Diagnoses - secondary ICD10: Z53.0 Procedure not carried out because of contraindication","European","SD",4779,458231,463010,0.0103215913263212,"ukb-b",97.8947146530141
+"ukb-b-7356","Illness, injury, bereavement, stress in last 2 years: Death of a spouse or partner","European","SD",7253,452489,459742,0.0157762397170587,"ukb-b",64.4024898937917
+"ukb-b-6448","Type of sliced bread eaten: mixed","European","SD",12937,52012,64949,0.199187054458113,"ukb-b",6.26913764782437
+"ukb-b-8906","Knee pain for 3+ months","European","SD",76910,20979,97889,0.785685827825394,"ukb-b",5.93882037085348
+"ukb-b-8329","Eye problems/disorders: Cataract","European","SD",14254,136388,150642,0.0946216858512234,"ukb-b",11.6729125128736
+"ukb-b-57","Type of fat/oil used in cooking: Sunflower oil","European","SD",8022,56927,64949,0.123512294261651,"ukb-b",9.23727732513058
+"ukb-b-6863","Operation code: caesarean section / caesarian section","European","SD",23610,439323,462933,0.0510009007782984,"ukb-b",20.6612386033459
+"ukb-b-8668","Treatment/medication code: doxazosin","European","SD",5176,457757,462933,0.0111808836267883,"ukb-b",90.4496767065545
+"ukb-b-8133","Light smokers, at least 100 smokes in lifetime","European","SD",57021,66873,123894,0.46024020533682,"ukb-b",4.02545441792413
+"ukb-b-7007","Other eye problems","European","SD",66747,394818,461565,0.144610184914367,"ukb-b",8.08419989533329
+"ukb-b-5369","Diagnoses - main ICD10: K40.9 Unilateral or unspecified inguinal hernia, without obstruction or gangrene","European","SD",11789,451221,463010,0.0254616530960454,"ukb-b",40.3008745329356
+"ukb-b-9029","Thickness of butter/margarine spread on bread rolls: thin","European","SD",2089,62860,64949,0.0321636976704799,"ukb-b",32.124185189241
+"ukb-b-7748","Illnesses of mother: Bowel cancer","European","SD",22028,401107,423135,0.0520590355323951,"ukb-b",20.263879336349
+"ukb-b-8746","Illnesses of siblings: High blood pressure","European","SD",77059,287602,364661,0.211316812052838,"ukb-b",6.00016739279004
+"ukb-b-7881","Operative procedures - main OPCS: W82.2 Endoscopic resection of semilunar cartilage NEC","European","SD",9746,453264,463010,0.0210492213991059,"ukb-b",48.5291972827312
+"ukb-b-8468","Vascular/heart problems diagnosed by doctor: Angina","European","SD",14828,447052,461880,0.0321035766865853,"ukb-b",32.1823456332547
+"ukb-b-9025","Type of fat/oil used in cooking: Polyunsaturated margarine","European","SD",5250,59699,64949,0.0808326533125991,"ukb-b",13.459179266782
+"ukb-b-7289","Pain type(s) experienced in last month: Hip pain","European","SD",52087,409770,461857,0.112777331511702,"ukb-b",9.99414293165528
+"ukb-b-5361","Operative procedures - secondary OPCS: Z28.2 Caecum","European","SD",14322,448688,463010,0.0309323772704693,"ukb-b",33.3605051235155
+"ukb-b-8184","Diagnoses - secondary ICD10: I25.9 Chronic ischaemic heart disease, unspecified","European","SD",5861,457149,463010,0.0126584738990519,"ukb-b",80.0112851910869
+"ukb-b-8667","Treatment speciality of consultant (recoded): Trauma & orthopaedics","European","SD",75256,373260,448516,0.167788886015215,"ukb-b",7.16148848434277
+"ukb-b-7872","Mouth/teeth dental problems: Bleeding gums","European","SD",60218,400895,461113,0.130592718053926,"ukb-b",8.80760370646665
+"ukb-b-5850","Types of spreads/sauces consumed: Cream","European","SD",2142,62807,64949,0.0329797225515404,"ukb-b",31.3557664769327
+"ukb-b-7280","Non-cancer illness code, self-reported: emphysema/chronic bronchitis","European","SD",6417,456516,462933,0.0138616171238603,"ukb-b",73.1557114413862
+"ukb-b-7043","Mineral and other dietary supplements: Calcium","European","SD",31393,429991,461384,0.0680409377004838,"ukb-b",15.7700428755488
+"ukb-b-8196","Ever highly irritable/argumentative for 2 days","European","SD",27205,122296,149501,0.181972026942964,"ukb-b",6.71780220293295
+"ukb-b-6266","Operation code: cataract extraction/lens implant","European","SD",4957,457976,462933,0.010707813009658,"ukb-b",94.4005755773342
+"ukb-b-8131","Operative procedures - main OPCS: H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope","European","SD",7880,455130,463010,0.0170190708624004,"ukb-b",59.7749279477353
+"ukb-b-6140","Type of fat/oil used in cooking: Cooking fat unknown","European","SD",11377,53572,64949,0.17516820890237,"ukb-b",6.92116685442297
+"ukb-b-5942","Illnesses of father: Severe depression","European","SD",15430,384069,399499,0.0386233757781621,"ukb-b",26.9312314563765
+"ukb-b-8714","Vascular/heart problems diagnosed by doctor: Stroke","European","SD",7055,454825,461880,0.0152745301809994,"ukb-b",66.4839735440805
+"ukb-b-8301","Treatment/medication code: co-codamol","European","SD",10819,452114,462933,0.0233705525421605,"ukb-b",43.8128197212033
+"ukb-b-8888","Medication for pain relief, constipation, heartburn: Ibuprofen (e.g. Nurofen)","European","SD",68195,389352,457547,0.149044797583636,"ukb-b",7.88454217698629
+"ukb-b-7436","Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease","European","SD",5771,457239,463010,0.0124640936480854,"ukb-b",81.2430840661783
+"ukb-b-5954","Part of a multiple birth","European","SD",10474,445029,455503,0.0229943600810533,"ukb-b",44.5124605019111
+"ukb-b-7047","Operative procedures - main OPCS: M45.9 Unspecified diagnostic endoscopic examination of bladder","European","SD",24622,438388,463010,0.0531781171033023,"ukb-b",19.860892338017
+"ukb-b-6514","Non-cancer illness code, self-reported: hiatus hernia","European","SD",10662,452271,462933,0.0230314105928936,"ukb-b",44.4425389083788
+"ukb-b-7469","Non-cancer illness code, self-reported: enlarged prostate","European","SD",6239,456694,462933,0.0134771122387041,"ukb-b",75.2135330004392
+"ukb-b-6992","Type of meals eaten: Restaurant meals","European","SD",9846,55103,64949,0.151595867526829,"ukb-b",7.77516943884112
+"ukb-b-6519","Worrier / anxious feelings","European","SD",255812,194953,450765,0.567506350315575,"ukb-b",4.07426749715031
+"ukb-b-744","Operative procedures - secondary OPCS: Z49.4 Skin of back","European","SD",4928,458082,463010,0.0106433986306991,"ukb-b",94.965709197942
+"ukb-b-6991","Seen doctor (GP) for nerves, anxiety, tension or depression","European","SD",158565,300995,459560,0.345036556706415,"ukb-b",4.42504639329935
+"ukb-b-6235","Operation code: cholecystectomy/gall bladder removal","European","SD",18319,444614,462933,0.0395716010740215,"ukb-b",26.3118499925583
+"ukb-b-6740","Current employment status: In paid employment or self-employed","European","SD",263827,197415,461242,0.571992576565014,"ukb-b",4.08468251177654
+"ukb-b-7137","Medication for pain relief, constipation, heartburn: Aspirin","European","SD",64534,393013,457547,0.141043433789316,"ukb-b",8.25421778570605
+"ukb-b-5559","Methods of admission to hospital (recoded): Transfer: Planned","European","SD",4760,457639,462399,0.0102941399094721,"ukb-b",98.1530482702587
+"ukb-b-7189","Treatment speciality of consultant (recoded): Neurosurgery","European","SD",6297,438057,444354,0.0141711338257335,"ukb-b",71.5803586434406
+"ukb-b-8080","Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Hormone replacement therapy","European","SD",18641,231069,249710,0.0746505946898402,"ukb-b",14.4764134444629
+"ukb-b-8848","Diagnoses - main ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene","European","SD",8072,454938,463010,0.0174337487311289,"ukb-b",58.3777529878814
+"ukb-b-732","Operative procedures - secondary OPCS: Z28.7 Colon NEC","European","SD",5407,457603,463010,0.0116779335219542,"ukb-b",86.643404600378
+"ukb-b-8659","Type of yogurt eaten: Full fat yogurt consumers","European","SD",3391,61558,64949,0.0522101956920045,"ukb-b",20.2084333553646
+"ukb-b-8147","Treatment/medication code: paracetamol","European","SD",85782,377151,462933,0.185301112688013,"ukb-b",6.62406903081354
+"ukb-b-8650","Non-cancer illness code, self-reported: angina","European","SD",14770,448163,462933,0.0319052649087449,"ukb-b",32.3757461970864
+"ukb-b-6354","Operation code: endoscopy / gastroscopy","European","SD",9236,453697,462933,0.0199510512320357,"ukb-b",51.1430293511941
+"ukb-b-6614","Treatment speciality of consultant (recoded): Thoracic medicine","European","SD",6601,437838,444439,0.0148524319422913,"ukb-b",68.3441174068266
+"ukb-b-5474","Vitamin and/or mineral supplement use: Vitamin B12","European","SD",1330,63619,64949,0.0204776055058584,"ukb-b",49.8547402907369
+"ukb-b-5911","Diagnoses - secondary ICD10: Z88.0 Personal history of allergy to penicillin","European","SD",11348,451662,463010,0.0245091898663096,"ukb-b",41.8261471893974
+"ukb-b-6217","Diagnoses - secondary ICD10: I48 Atrial fibrillation and flutter","European","SD",6900,456110,463010,0.0149024859074318,"ukb-b",68.1180264803907
+"ukb-b-713","Operative procedures - secondary OPCS: Q22.1 Bilateral salpingoophorectomy","European","SD",7343,455667,463010,0.0158592686983003,"ukb-b",64.0707246707416
+"ukb-b-7773","Illnesses of father: Prostate cancer","European","SD",30945,368725,399670,0.0774263767608277,"ukb-b",13.9994195673319
+"ukb-b-7926","Qualifications: NVQ or HND or HNC or equivalent","European","SD",84853,373226,458079,0.185236607659378,"ukb-b",6.62585112152107
+"ukb-b-6144","Treatment speciality of consultant (recoded): Geriatric medicine","European","SD",5813,438458,444271,0.0130843561699953,"ukb-b",77.4404038782438
+"ukb-b-7278","Operative procedures - main OPCS: T20.2 Primary repair of inguinal hernia using insert of prosthetic material","European","SD",10809,452201,463010,0.0233450681410769,"ukb-b",43.8595030503377
+"ukb-b-7350","Medication for cholesterol, blood pressure or diabetes: Insulin","European","SD",2891,206747,209638,0.0137904387563323,"ukb-b",73.5279922676713
+"ukb-b-8146","Medication for pain relief, constipation, heartburn: Ranitidine (e.g. Zantac)","European","SD",8885,448662,457547,0.0194187700935642,"ukb-b",52.5163705745058
+"ukb-b-698","How are people in household related to participant: Husband, wife or partner","European","SD",338180,121420,459600,0.735813751087902,"ukb-b",5.14424793237832
+"ukb-b-5712","Diagnoses - main ICD10: N95.0 Postmenopausal bleeding","European","SD",6874,456136,463010,0.0148463316127081,"ukb-b",68.3717764968484
+"ukb-b-6720","Diagnoses - main ICD10: I83.9 Varicose veins of lower extremities without ulcer or inflammation","European","SD",10044,452966,463010,0.0216928360078616,"ukb-b",47.1203419102266
+"ukb-b-6353","Reason for glasses/contact lenses: For short-sightedness, i.e. only or mainly for distance viewing such as driving, cinema etc (called 'myopia')","European","SD",37362,423174,460536,0.0811272082964198,"ukb-b",13.4146107840616
+"ukb-b-7759","Typical diet yesterday","European","SD",53091,11858,64949,0.81742598038461,"ukb-b",6.70058291891951
+"ukb-b-7085","Thickness of butter/margarine spread on sliced bread: medium","European","SD",13710,51239,64949,0.211088700364902,"ukb-b",6.00491462834691
+"ukb-b-8633","Main speciality of consultant (recoded): Gastroenterology","European","SD",38993,422511,461504,0.0844911420052697,"ukb-b",12.9278489502361
+"ukb-b-8902","Type of sliced bread eaten: wholemeal","European","SD",16262,48687,64949,0.250381068222759,"ukb-b",5.32792332025789
+"ukb-b-5495","Never eat eggs, dairy, wheat, sugar: Sugar or foods/drinks containing sugar","European","SD",86648,374398,461046,0.18793786303319,"ukb-b",6.55234044031244
+"ukb-b-8798","Operative procedures - secondary OPCS: Y53.4 Approach to organ under fluoroscopic control","European","SD",9014,453996,463010,0.0194682620245783,"ukb-b",52.3855082284837
+"ukb-b-6772","Operation code: removal of mole/skin lesion","European","SD",6500,456433,462933,0.0140409087276129,"ukb-b",72.2347024018522
+"ukb-b-7760","Types of spread used on bread/crackers: Dairy spread on bread/crackers","European","SD",4156,60793,64949,0.0639886680318404,"ukb-b",16.6961302176478
+"ukb-b-8814","Diagnoses - main ICD10: N39.0 Urinary tract infection, site not specified","European","SD",5447,457563,463010,0.0117643247446059,"ukb-b",86.0146581810748
+"ukb-b-6727","Methods of discharge from hospital (recoded): Discharged on clinical advice/consent: From inpatient/daycase care","European","SD",22710,439570,462280,0.0491260707796141,"ukb-b",21.4074545270098
+"ukb-b-8846","Methods of admission to hospital (recoded): Elective admission: Booked","European","SD",143561,319156,462717,0.310256593122794,"ukb-b",4.672953106909
+"ukb-b-5935","Operation code: shoulder surgery","European","SD",6927,456006,462933,0.0149632884240268,"ukb-b",67.8454201261934
+"ukb-b-7910","Illnesses of father: Bowel cancer","European","SD",23883,376037,399920,0.0597194438887778,"ukb-b",17.8084774050271
+"ukb-b-8053","Operation code: laparoscopy","European","SD",8205,454728,462933,0.0177239470938559,"ukb-b",57.4388847042684
+"ukb-b-7418","Diagnoses - main ICD10: Z30.2 Sterilisation","European","SD",7023,455987,463010,0.015168138917086,"ukb-b",66.9430679943734
+"ukb-b-6223","Diagnoses - main ICD10: R10.4 Other and unspecified abdominal pain","European","SD",11925,451085,463010,0.0257553832530615,"ukb-b",39.853270640793
+"ukb-b-7178","Doctor diagnosed hayfever or allergic rhinitis","European","SD",25486,87097,112583,0.226375207624597,"ukb-b",5.7100611500965
+"ukb-b-6541","Main speciality of consultant (recoded): General surgery","European","SD",108626,353323,461949,0.235147169925684,"ukb-b",5.56009696857464
+"ukb-b-7337","Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport)","European","SD",329755,130621,460376,0.716273220150486,"ukb-b",4.92063279490755
+"ukb-b-5425","Treatment/medication code: chondroitin product","European","SD",5876,457057,462933,0.012692981489762,"ukb-b",79.7965525566519
+"ukb-b-8755","Treatment/medication code: aspirin","European","SD",61702,401231,462933,0.133284946201718,"ukb-b",8.65650450095928
+"ukb-b-8463","Back pain for 3+ months","European","SD",80588,36816,117404,0.686416135736431,"ukb-b",4.64578180124024
+"ukb-b-7869","Operation code: coronary angioplasty (ptca) +/- stent","European","SD",4836,458097,462933,0.010446436093344,"ukb-b",96.7369835151614
+"ukb-b-8810","Current employment status: Doing unpaid or voluntary work","European","SD",17094,444148,461242,0.0370608053906626,"ukb-b",28.021171153627
+"ukb-b-6063","Reason for not eating or drinking normally: Other reason untypical diet","European","SD",6838,58111,64949,0.105282606352677,"ukb-b",10.6159164540068
+"ukb-b-5476","Methods of discharge from hospital (recoded): Discharged on clinical advice/consent","European","SD",302120,160839,462959,0.652584786125769,"ukb-b",4.41076807254125
+"ukb-b-6548","Illnesses of mother: Parkinson's disease","European","SD",6998,415466,422464,0.0165647250416604,"ukb-b",61.3860920935856
+"ukb-b-9038","Main speciality of consultant (recoded): Ophthalmology","European","SD",22306,438924,461230,0.0483619885957115,"ukb-b",21.7282159481545
+"ukb-b-5460","Dessert consumers","European","SD",20907,44042,64949,0.321898720534573,"ukb-b",4.58127314094733
+"ukb-b-7647","Treatment speciality of consultant (recoded): Urology","European","SD",43173,402976,446149,0.0967681200675111,"ukb-b",11.4411172993582
+"ukb-b-4077","Leisure/social activities: Other group activity","European","SD",101824,359545,461369,0.220699700239938,"ukb-b",5.81424614257187
+"ukb-b-3672","Diagnoses - secondary ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene","European","SD",14326,448684,463010,0.0309410163927345,"ukb-b",33.3514877739971
+"ukb-b-260","Types of spreads/sauces consumed: Tomato ketchup","European","SD",2690,62259,64949,0.0414171118877889,"ukb-b",25.1878162700951
+"ukb-b-4554","Diagnoses - secondary ICD10: R11 Nausea and vomiting","European","SD",6773,456237,463010,0.0146281937755124,"ukb-b",69.3759851743708
+"ukb-b-4683","Thickness of butter/margarine spread on sliced bread: thick","European","SD",1165,63784,64949,0.0179371506874625,"ukb-b",56.7684793608687
+"ukb-b-5079","Vitamin and/or mineral supplement use: Vitamin D","European","SD",2082,62867,64949,0.0320559207993964,"ukb-b",32.228602644312
+"ukb-b-4024","Illnesses of mother: Stroke","European","SD",60880,364097,424977,0.143254811436854,"ukb-b",8.14777652016978
+"ukb-b-20464","Doctor diagnosed COPD (chronic obstructive pulmonary disease)","European","SD",1658,110925,112583,0.0147269125889344,"ukb-b",68.9178420905681
+"ukb-b-20332","Operation code: inguinal hernia repair","European","SD",6660,456273,462933,0.0143865310962926,"ukb-b",70.5240559839086
+"ukb-b-3560","Operative procedures - secondary OPCS: Z29.1 Rectum","European","SD",8626,454384,463010,0.018630267164856,"ukb-b",54.6950794682531
+"ukb-b-4193","Diagnoses - secondary ICD10: Z37.0 Single live birth","European","SD",12567,450443,463010,0.0271419623766225,"ukb-b",37.8712190072935
+"ukb-b-3759","Treatment speciality of consultant (recoded): Gynaecology","European","SD",60451,386610,447061,0.135218683803776,"ukb-b",8.55178940995636
+"ukb-b-2338","Types of spread used on bread/crackers: Normal fat dairy spread on bread/crackers","European","SD",1823,63126,64949,0.0280681765693082,"ukb-b",36.6564157773144
+"ukb-b-3422","Operation code: spine or back surgery","European","SD",5683,457250,462933,0.0122760745075421,"ukb-b",82.4716931225249
+"ukb-b-2146","Operative procedures - main OPCS: Q18.1 Diagnostic endoscopic examination of uterus and biopsy of lesion of uterus","European","SD",5719,457291,463010,0.012351785058638,"ukb-b",81.9724642943117
+"ukb-b-2393","Never eat eggs, dairy, wheat, sugar: I eat all of the above","European","SD",355835,105211,461046,0.771799343232562,"ukb-b",5.67778189124397
+"ukb-b-20477","Diagnoses - secondary ICD10: Z96.6 Presence of orthopaedic joint implants","European","SD",5687,457323,463010,0.0122826720805166,"ukb-b",82.4279444679116
+"ukb-b-20549","Types of spread used on bread/crackers: Low fat olive spread on bread/crackers","European","SD",3060,61889,64949,0.0471138893593435,"ukb-b",22.2746067569633
+"ukb-b-5115","Diagnoses - secondary ICD10: Z72.0 Tobacco use","European","SD",13421,449589,463010,0.028986414980238,"ukb-b",35.5287713126116
+"ukb-b-2205","Diagnoses - secondary ICD10: Z82.4 Family history of ischaemic heart disease and other diseases of the circulatory system","European","SD",9330,453680,463010,0.0201507526835274,"ukb-b",50.6465029909982
+"ukb-b-4310","Type of bread roll eaten: wholemeal","European","SD",1997,62952,64949,0.0307472016505258,"ukb-b",33.555007509676
+"ukb-b-5011","Thickness of butter/margarine spread on bread rolls: medium","European","SD",2403,62546,64949,0.0369982601733668,"ukb-b",28.066717683966
+"ukb-b-20292","Taking other prescription medications","European","SD",216598,244734,461332,0.469505692212983,"ukb-b",4.01493399356873
+"ukb-b-4817","Operative procedures - secondary OPCS: Y98.1 Radiology of one body area (or < 20 minutes)","European","SD",12252,450758,463010,0.0264616314982398,"ukb-b",38.817745687727
+"ukb-b-277","Vitamin and/or mineral supplement use: Evening primrose","European","SD",2960,61989,64949,0.0455742197724368,"ukb-b",22.9899801370601
+"ukb-b-5222","Operative procedures - secondary OPCS: Z94.1 Bilateral operation","European","SD",19719,443291,463010,0.0425887129867605,"ukb-b",24.5248828095968
+"ukb-b-328","PCT responsible for patient data: OXFORDSHIRE PCT","European","SD",6300,456710,463010,0.0136066175676551,"ukb-b",74.5074451051395
+"ukb-b-2368","Type of fat/oil used in cooking: Vegetable oil","European","SD",4996,59953,64949,0.0769218925618562,"ukb-b",14.0835321034837
+"ukb-b-3965","Diagnoses - main ICD10: G56.0 Carpal tunnel syndrome","European","SD",8289,454721,463010,0.0179024211140148,"ukb-b",56.8765952698852
+"ukb-b-4518","Operative procedures - main OPCS: A65.1 Carpal tunnel release","European","SD",8226,454784,463010,0.0177663549383383,"ukb-b",57.3042535232774
+"ukb-b-20296","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma","European","SD",53257,408756,462013,0.115271648200375,"ukb-b",9.80545051507408
+"ukb-b-4690","Vitamin and/or mineral supplement use: Vitamin C","European","SD",4171,60778,64949,0.0642196184698764,"ukb-b",16.6401923775574
+"ukb-b-20382","PCT responsible for patient data: DERBYSHIRE COUNTY PCT","European","SD",5288,457722,463010,0.0114209196345651,"ukb-b",88.5701761619988
+"ukb-b-2341","Type of fat/oil used in cooking: Butter","European","SD",8360,56589,64949,0.128716377465396,"ukb-b",8.91675103011296
+"ukb-b-20480","Treatment/medication code: ranitidine","European","SD",7680,455253,462933,0.0165898736966256,"ukb-b",61.2946041155618
+"ukb-b-3599","Never eat eggs, dairy, wheat, sugar: Wheat products","European","SD",12408,448638,461046,0.026912715867831,"ukb-b",38.1848137150945
+"ukb-b-4667","Leisure/social activities: Religious group","European","SD",67877,393492,461369,0.147120851205868,"ukb-b",7.96963210918791
+"ukb-b-4824","Diagnoses - secondary ICD10: K52.9 Non-infective gastro-enteritis and colitis, unspecified","European","SD",5703,457307,463010,0.0123172285695773,"ukb-b",82.1995653463514
+"ukb-b-5076","Leisure/social activities: None of the above","European","SD",140035,321334,461369,0.303520609317054,"ukb-b",4.73046185417597
+"ukb-b-20450","Operative procedures - secondary OPCS: Z50.4 Skin of leg NEC","European","SD",5335,457675,463010,0.011522429321181,"ukb-b",87.7989107264525
+"ukb-b-3650","Size of white wine glass drunk: medium (175ml)","European","SD",4696,60253,64949,0.0723028838011363,"ukb-b",14.9086450126498
+"ukb-b-3828","Types of spread used on bread/crackers: Normal fat polyunsaturated margarine on bread/crackers","European","SD",2337,62612,64949,0.0359820782460084,"ukb-b",28.8289382926865
+"ukb-b-4323","Attempted fluid intelligence (FI) test.","European","SD",2008,149051,151059,0.0132928193619712,"ukb-b",76.2420575562508
+"ukb-b-2954","Methods of discharge from hospital (recoded): Discharged on clinical advice/consent: Transfer within provider","European","SD",5384,456852,462236,0.011647729731133,"ukb-b",86.8654254142527
+"ukb-b-4942","PCT where patients GP was registered: SOUTH GLOUCESTERSHIRE PCT","European","SD",6560,456450,463010,0.0141681605148917,"ukb-b",71.5951644651593
+"ukb-b-3083","Operation code: mastectomy","European","SD",4735,458198,462933,0.0102282619731149,"ukb-b",98.7786549741551
+"ukb-b-4465","Size of white wine glass drunk: small (125ml)","European","SD",3196,61753,64949,0.0492078399975365,"ukb-b",21.3737195268234
+"ukb-b-2218","Operation code: colonoscopy/sigmoidoscopy","European","SD",9125,453808,462933,0.0197112757137642,"ukb-b",51.7524911842508
+"ukb-b-4394","Main speciality of consultant (recoded): Neurology","European","SD",5036,456114,461150,0.010920524775019,"ukb-b",92.581732123997
+"ukb-b-4533","Non-cancer illness code, self-reported: pneumonia","European","SD",6572,456361,462933,0.0141964387935187,"ukb-b",71.4546017321049
+"ukb-b-3563","Vitamin and mineral supplements: Folic acid or Folate (Vit B9)","European","SD",10049,450302,460351,0.0218289957011063,"ukb-b",46.8329440576817
+"ukb-b-3454","Operative procedures - secondary OPCS: C71.2 Phacoemulsification of lens","European","SD",11848,451162,463010,0.0255890801494568,"ukb-b",40.1054305570334
+"ukb-b-4106","Chest pain or discomfort when walking uphill or hurrying","European","SD",15422,42522,57944,0.266153527543835,"ukb-b",5.11991277779352
+"ukb-b-4946","Types of spread used on bread/crackers: Cholesterol-lowering polyunsaturated margarine on bread/crackers","European","SD",2920,62029,64949,0.0449583519376742,"ukb-b",23.2898829745344
+"ukb-b-3388","Operation code: ear surgery","European","SD",7473,455460,462933,0.0161427247571463,"ukb-b",62.9638182663755
+"ukb-b-20379","Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: None of the above","European","SD",172332,77378,249710,0.690128549116976,"ukb-b",4.67615007460829
+"ukb-b-4843","Types of spreads/sauces consumed: Other sauce","European","SD",2930,62019,64949,0.0451123188963648,"ukb-b",23.214137784595
+"ukb-b-4724","Operative procedures - main OPCS: U05.1 Computed tomography of head","European","SD",5200,457810,463010,0.0112308589447312,"ukb-b",90.0517430391849
+"ukb-b-4880","Treatment/medication code: garlic product","European","SD",6151,456782,462933,0.0132870199359303,"ukb-b",76.2748868493477
+"ukb-b-488","Treatment/medication code: vitamin c product","European","SD",5778,457155,462933,0.0124812877889457,"ukb-b",81.1325767339796
+"ukb-b-4363","Operative procedures - secondary OPCS: L87.4 Avulsion of varicose vein of leg","European","SD",6428,456582,463010,0.0138830694801408,"ukb-b",73.0442589830728
+"ukb-b-319","Types of spread used on bread/crackers: Polyunsaturated margarine on bread/crackers","European","SD",13693,51256,64949,0.210826956535128,"ukb-b",6.01037567787715
+"ukb-b-3875","Type of fat/oil used in cooking: Olive oil","European","SD",23023,41926,64949,0.354478128993518,"ukb-b",4.37018270550954
+"ukb-b-2592","Non-cancer illness code, self-reported: irritable bowel syndrome","European","SD",10939,451994,462933,0.0236297693186703,"ukb-b",43.3437006888261
+"ukb-b-266","Current eye infection","European","SD",1110,101356,102466,0.0108328616321512,"ukb-b",93.322663209403
+"ukb-b-3503","Treatment/medication code: Free-text entry, unable to be coded","European","SD",15731,447202,462933,0.0339811592606273,"ukb-b",30.4632484572463
+"ukb-b-323","Illnesses of father: Alzheimer's disease/dementia","European","SD",19255,380538,399793,0.0481624240544482,"ukb-b",21.8136739406103
+"ukb-b-309","Types of spread used on bread/crackers: Low fat dairy spread on bread/crackers","European","SD",1515,63434,64949,0.0233259942416357,"ukb-b",43.8945101537931
+"ukb-b-20300","Treatment speciality of consultant (recoded): Cardiology","European","SD",27510,418183,445693,0.061724101567671,"ukb-b",17.2669114596546
+"ukb-b-2506","Eye problems/disorders: None of the above","European","SD",117423,33219,150642,0.779483809296212,"ukb-b",5.81771469702819
+"ukb-b-2399","Destinations on discharge from hospital (recoded): Transfer to other NHS provider: General ward, young physically disabled, A&E","European","SD",6653,454383,461036,0.0144305433848984,"ukb-b",70.3121016255659
+"ukb-b-4184","Heating type(s) in home: Oil (kerosene) central heating","European","SD",3892,148971,152863,0.0254607066458201,"ukb-b",40.3023334956182
+"ukb-b-2307","Diagnoses - main ICD10: C50.9 Breast, unspecified","European","SD",6277,456733,463010,0.0135569426146304,"ukb-b",74.7766873407584
+"ukb-b-3005","Operation code: arthroscopy nos","European","SD",10097,452836,462933,0.0218109316034934,"ukb-b",46.8708661373646
+"ukb-b-4226","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified","European","SD",9674,453336,463010,0.0208937171983326,"ukb-b",48.8826172317923
+"ukb-b-20544","Nervous feelings","European","SD",106635,344065,450700,0.236598624362103,"ukb-b",5.5364941655027
+"ukb-b-3211","Operative procedures - main OPCS: H25.9 Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope","European","SD",17350,445660,463010,0.037472192825209,"ukb-b",27.7253863550624
+"ukb-b-3700","Operation code: hysterectomy","European","SD",46411,416522,462933,0.10025424845496,"ukb-b",11.0860647196358
+"ukb-b-2189","Operative procedures - secondary OPCS: Z28.6 Sigmoid colon","European","SD",11031,451979,463010,0.0238245394267942,"ukb-b",42.9979351463002
+"ukb-b-4277","Savoury snack consumers","European","SD",23148,41801,64949,0.356402715977151,"ukb-b",4.35958141351453
+"ukb-b-4542","Reason for not eating or drinking normally: Away","European","SD",5003,59946,64949,0.0770296694329397,"ukb-b",14.0654692394586
+"ukb-b-4288","Type of bread roll eaten: mixed","European","SD",2039,62910,64949,0.0313938628770266,"ukb-b",32.8857708712845
+"ukb-b-4171","Leisure/social activities: Pub or social club","European","SD",125532,335837,461369,0.272085900873271,"ukb-b",5.04909835591188
+"ukb-b-20261","Ever smoked","European","SD",280508,180558,461066,0.608390122021576,"ukb-b",4.19724391301737
+"ukb-b-2424","Operative procedures - secondary OPCS: Z28.5 Descending colon","European","SD",6700,456310,463010,0.0144705297941729,"ukb-b",70.1206531498454
+"ukb-b-301","Operation code: foot surgery","European","SD",9044,453889,462933,0.0195363043896201,"ukb-b",52.2066792253456
+"ukb-b-3969","Treatment speciality of consultant (recoded): Colorectal surgery","European","SD",5046,439280,444326,0.0113565265143161,"ukb-b",89.066580121776
+"ukb-b-4540","Methods of admission to hospital (recoded): Emergency admission: Non-injury","European","SD",10107,452293,462400,0.0218576989619377,"ukb-b",46.7728161053396
+"ukb-b-20423","Types of spreads/sauces consumed: Peanut butter","European","SD",1402,63547,64949,0.0215861676084312,"ukb-b",47.3480253206277
+"ukb-b-3530","Type of fat/oil used in cooking: Cholesterol lowering polyunsaturated margarine","European","SD",1024,63925,64949,0.0157662165699241,"ukb-b",64.4427765844984
+"ukb-b-3381","Type of bread roll eaten: white","European","SD",4849,60100,64949,0.0746585782691035,"ukb-b",14.4749903011033
+"ukb-b-4000","Leisure/social activities: Sports club or gym","European","SD",138494,322875,461369,0.300180549625137,"ukb-b",4.76026842525777
+"ukb-b-4783","Operative procedures - secondary OPCS: Z28.4 Transverse colon","European","SD",5835,457175,463010,0.0126023196043282,"ukb-b",80.363234459006
+"ukb-b-4257","Non-cancer illness code, self-reported: unclassifiable","European","SD",18841,444092,462933,0.040699194051839,"ukb-b",25.6129370131011
+"ukb-b-17601","Mouth/teeth dental problems: None of the above","European","SD",279435,181678,461113,0.606001132043555,"ukb-b",4.18824029231668
+"ukb-b-16866","Treatment/medication code: ibuprofen","European","SD",57738,405195,462933,0.124722152017679,"ukb-b",9.16031623963705
+"ukb-b-16855","Cancer diagnosed by doctor","European","SD",36167,425144,461311,0.0784004716991357,"ukb-b",13.8400952991178
+"ukb-b-19456","Illnesses of father: High blood pressure","European","SD",91242,311657,402899,0.226463704303064,"ukb-b",5.70848279894601
+"ukb-b-19066","Reproduciblity of spirometry measurement using ERS/ATS criteria","European","SD",269839,75826,345665,0.780637322262885,"ukb-b",5.83966521676875
+"ukb-b-19158","Mineral and other dietary supplements: Selenium","European","SD",11059,450325,461384,0.0239691883550362,"ukb-b",42.7447856880569
+"ukb-b-16635","Types of spreads/sauces consumed: Yeast extract","European","SD",3151,61798,64949,0.0485149886834285,"ukb-b",21.6631753125623
+"ukb-b-17097","Gas or solid-fuel cooking/heating: An open solid fuel fire that you use regularly in winter time","European","SD",40700,420698,461398,0.08821017863103,"ukb-b",12.4333041791796
+"ukb-b-1852","Main speciality of consultant (recoded): Dermatology","European","SD",8766,452404,461170,0.0190081748595962,"ukb-b",53.6283201324078
+"ukb-b-16452","Vitamin and/or mineral supplement use: Glucosamine/chondroitin","European","SD",9777,55172,64949,0.150533495511863,"ukb-b",7.82024924132671
+"ukb-b-17557","Types of transport used (excluding work): Cycle","European","SD",33155,427336,460491,0.0719992355985242,"ukb-b",14.9666216637231
+"ukb-b-18042","Illnesses of siblings: Diabetes","European","SD",31073,331753,362826,0.0856416023107495,"ukb-b",12.7702311381654
+"ukb-b-16557","Type of fat/oil used in cooking: Dairy spread","European","SD",1592,63357,64949,0.0245115398235539,"ukb-b",41.8222380051369
+"ukb-b-17673","Fish consumer","European","SD",18743,46206,64949,0.288580270673913,"ukb-b",4.87088031657805
+"ukb-b-18336","Seen a psychiatrist for nerves, anxiety, tension or depression","European","SD",53414,407288,460702,0.115940456086581,"ukb-b",9.75626253899284
+"ukb-b-16499","Non-cancer illness code, self-reported: hayfever/allergic rhinitis","European","SD",26107,436826,462933,0.056394769869506,"ukb-b",18.7919060205885
+"ukb-b-17868","Bilateral oophorectomy (both ovaries removed)","European","SD",20120,227418,247538,0.0812804498703229,"ukb-b",13.3915529599842
+"ukb-b-17010","Treatment/medication code: omega-3/fish oil supplement","European","SD",17371,445562,462933,0.0375237885395943,"ukb-b",27.6887478139775
+"ukb-b-17400","Snoring","European","SD",270007,160431,430438,0.627284301107244,"ukb-b",4.27718362582266
+"ukb-b-16892","Treatment/medication code: evening primrose oil","European","SD",7307,455626,462933,0.0157841415496411,"ukb-b",64.3707656188722
+"ukb-b-19790","Methods of admission to hospital (recoded): Maternity admission: Post-partum","European","SD",13017,449456,462473,0.0281465080123596,"ukb-b",36.5573476349432
+"ukb-b-17823","Diagnoses - secondary ICD10: Y83.8 Other surgical procedures","European","SD",4789,458221,463010,0.0103431891319842,"ukb-b",97.6924308252263
+"ukb-b-18822","Diagnoses - main ICD10: K29.7 Gastritis, unspecified","European","SD",6247,456763,463010,0.0134921491976415,"ukb-b",75.1308529215612
+"ukb-b-18541","Ever used hormone-replacement therapy (HRT)","European","SD",97920,152381,250301,0.391208984382803,"ukb-b",4.19877831225946
+"ukb-b-18674","Ever unenthusiastic/disinterested for a whole week","European","SD",54234,92308,146542,0.370091850800453,"ukb-b",4.28956497724263
+"ukb-b-18202","PCT where patients GP was registered: OXFORDSHIRE PCT","European","SD",6214,456796,463010,0.0134208764389538,"ukb-b",75.5243855515395
+"ukb-b-16993","Operation code: unclassifiable","European","SD",9549,453384,462933,0.0206271749907654,"ukb-b",49.5007977146636
+"ukb-b-19852","Current employment status: Retired","European","SD",168096,293146,461242,0.364442093304599,"ukb-b",4.31734089367083
+"ukb-b-18700","Non-cancer illness code, self-reported: cholelithiasis/gall stones","European","SD",7682,455251,462933,0.0165941939762341,"ukb-b",61.2789153429756
+"ukb-b-18408","Illnesses of father: Heart disease","European","SD",133320,274237,407557,0.327119887524935,"ukb-b",4.5431320403798
+"ukb-b-18381","PCT responsible for patient data: SHEFFIELD PCT","European","SD",6927,456083,463010,0.0149607999827218,"ukb-b",67.8565334847817
+"ukb-b-20214","Attendance/disability/mobility allowance: Disability living allowance","European","SD",20426,438928,459354,0.0444667946725184,"ukb-b",23.5352269903168
+"ukb-b-18820","Main speciality of consultant (recoded): Ear, nose and throat (ENT)","European","SD",21341,439929,461270,0.046265744574761,"ukb-b",22.6627737245036
+"ukb-b-16489","Qualifications: College or University degree","European","SD",148722,309357,458079,0.324664522931634,"ukb-b",4.56084801947811
+"ukb-b-18596","Pain type(s) experienced in last month: Neck or shoulder pain","European","SD",106521,355336,461857,0.230636322498089,"ukb-b",5.63560591734192
+"ukb-b-17191","Operative procedures - secondary OPCS: Y53.1 Approach to organ under radiological control","European","SD",5361,457649,463010,0.0115785836159046,"ukb-b",87.3780637793136
+"ukb-b-19409","Diagnoses - secondary ICD10: R10.4 Other and unspecified abdominal pain","European","SD",4649,458361,463010,0.010040819852703,"ukb-b",100.603603619826
+"ukb-b-16340","Operation code: hip replacement/revision","European","SD",7322,455611,462933,0.0158165436467048,"ukb-b",64.2410092683839
+"ukb-b-19842","Why stopped smoking: Health precaution","European","SD",71506,42482,113988,0.627311646840018,"ukb-b",4.27731099659336
+"ukb-b-17814","Caffeine drink within last hour","European","SD",8991,415882,424873,0.0211616177069383,"ukb-b",48.2769855907025
+"ukb-b-18611","Type of sliced bread eaten: seeded","European","SD",6387,58562,64949,0.0983386965157277,"ukb-b",11.2780008011753
+"ukb-b-18189","Reason for glasses/contact lenses: For long-sightedness, i.e. for distance and near, but particularly for near tasks like reading (called 'hypermetropia')","European","SD",19050,441486,460536,0.0413648444421283,"ukb-b",25.2182678363883
+"ukb-b-16482","Yogurt/ice-cream consumers","European","SD",26305,38644,64949,0.405010084835794,"ukb-b",4.14977507608675
+"ukb-b-18009","Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Blood pressure medication","European","SD",43244,206466,249710,0.173176885186817,"ukb-b",6.98389122630843
+"ukb-b-16507","Vitamin supplement user","European","SD",26550,38399,64949,0.408782275323716,"ukb-b",4.13771427467239
+"ukb-b-19156","Treatment/medication code: lansoprazole","European","SD",16448,446485,462933,0.0355299795002733,"ukb-b",29.1820844861357
+"ukb-b-18099","Qualifications: O levels/GCSEs or equivalent","European","SD",212640,245439,458079,0.464199406652564,"ukb-b",4.02061259495206
+"ukb-b-17360","Illnesses of siblings: None of the above (group 1)","European","SD",245626,119345,364971,0.673001416550904,"ukb-b",4.54399819668908
+"ukb-b-19950","Operative procedures - main OPCS: X99.8 No procedure performed","European","SD",121646,341364,463010,0.262728666767456,"ukb-b",5.16256092738512
+"ukb-b-17687","Illness, injury, bereavement, stress in last 2 years: None of the above","European","SD",256792,202950,459742,0.558556755745614,"ukb-b",4.05562523028944
+"ukb-b-17554","Fruit consumers","European","SD",52989,11960,64949,0.815855517405965,"ukb-b",6.6562256169025
+"ukb-b-17788","Operation code: carpal tunnel surgery","European","SD",4858,458075,462933,0.0104939591690374,"ukb-b",96.3035241468972
+"ukb-b-20189","Diagnoses - main ICD10: K52.9 Non-infective gastro-enteritis and colitis, unspecified","European","SD",9463,453547,463010,0.0204380034988445,"ukb-b",49.9493226364517
+"ukb-b-18799","Treatment/medication code: bendroflumethiazide","European","SD",25767,437166,462933,0.0556603223360616,"ukb-b",19.0250604523583
+"ukb-b-19957","Suffer from 'nerves'","European","SD",94665,351144,445809,0.212344299913192,"ukb-b",5.97892316436187
+"ukb-b-18335","Wheeze or whistling in the chest in last year","European","SD",95131,358828,453959,0.209558572470201,"ukb-b",6.03705141876124
+"ukb-b-16862","Main speciality of consultant (recoded): Respiratory medicine","European","SD",7643,453530,461173,0.0165729563526052,"ukb-b",61.3561169345632
+"ukb-b-17456","Diagnoses - main ICD10: R10.3 Pain localised to other parts of lower abdomen","European","SD",4823,458187,463010,0.0104166216712382,"ukb-b",97.0109409495018
+"ukb-b-17378","Treatment/medication code: bisoprolol","European","SD",6782,456151,462933,0.0146500681524108,"ukb-b",69.2739360051594
+"ukb-b-1867","Attendance/disability/mobility allowance: Blue badge","European","SD",16449,442905,459354,0.0358089839208976,"ukb-b",28.9630918352975
+"ukb-b-17402","Types of spread used on bread/crackers: Normal fat butter on bread/crackers","European","SD",7029,57920,64949,0.108223375263668,"ukb-b",10.3615050026567
+"ukb-b-20045","Diagnoses - secondary ICD10: F32.9 Depressive episode, unspecified","European","SD",5842,457168,463010,0.0126174380682923,"ukb-b",80.2681706612179
+"ukb-b-16721","Starchy food consumers","European","SD",17605,47344,64949,0.271058830774916,"ukb-b",5.06108883439574
+"ukb-b-1645","Operative procedures - main OPCS: C75.1 Insertion of prosthetic replacement for lens NEC","European","SD",12293,450717,463010,0.0265501825014579,"ukb-b",38.6917988468466
+"ukb-b-18167","Illnesses of mother: High blood pressure","European","SD",130948,295443,426391,0.307107795427202,"ukb-b",4.69941159677434
+"ukb-b-17348","Types of spreads/sauces consumed: Hummus","European","SD",2621,62328,64949,0.0403547398728233,"ukb-b",25.8222882772857
+"ukb-b-16399","Main speciality of consultant (recoded): Trauma and orthopaedics","European","SD",70656,391141,461797,0.153002293215417,"ukb-b",7.71649049171282
+"ukb-b-16890","Cancer code, self-reported: breast cancer","European","SD",10303,452630,462933,0.0222559204031685,"ukb-b",45.9546270267484
+"ukb-b-16522","Illnesses of siblings: Prostate cancer","European","SD",5952,355442,361394,0.0164695595388966,"ukb-b",61.7348233050348
+"ukb-b-1658","Size of red wine glass drunk: medium (175ml)","European","SD",6375,58574,64949,0.0981539361652989,"ukb-b",11.2969151165912
+"ukb-b-20211","Illnesses of father: Diabetes","European","SD",38850,361837,400687,0.0969584738212121,"ukb-b",11.421062481297
+"ukb-b-19130","Types of spread used on bread/crackers: Olive spread on bread/crackers","European","SD",7935,57014,64949,0.122172781721043,"ukb-b",9.32430551719584
+"ukb-b-19073","Soup consumers","European","SD",8783,56166,64949,0.135229179818011,"ukb-b",8.55122943796963
+"ukb-b-19060","Hearing aid user","European","SD",14048,266498,280546,0.0500737846912806,"ukb-b",21.0232429539446
+"ukb-b-19732","Non-cancer illness code, self-reported: hypothyroidism/myxoedema","European","SD",22687,440246,462933,0.0490070917389773,"ukb-b",21.4567425844319
+"ukb-b-1962","Operation code: bilateral oophorectomy","European","SD",19512,443421,462933,0.0421486478604895,"ukb-b",24.7695568342001
+"ukb-b-20057","Types of spread used on bread/crackers: Low fat butter on bread/crackers","European","SD",1367,63582,64949,0.0210472832530139,"ukb-b",48.5335700223136
+"ukb-b-16639","Vitamin and/or mineral supplement use: Selenium","European","SD",1040,63909,64949,0.0160125637038292,"ukb-b",63.4672346768302
+"ukb-b-18765","Why stopped smoking: None of the above","European","SD",22937,91051,113988,0.201222935747623,"ukb-b",6.22152617923599
+"ukb-b-16886","Types of transport used (excluding work): Car/motor vehicle","European","SD",363534,96957,460491,0.789448653719617,"ukb-b",6.01614214465885
+"ukb-b-16812","Vitamin and mineral supplements: Multivitamins +/- minerals","European","SD",99624,360727,460351,0.216408783732413,"ukb-b",5.897060137845
+"ukb-b-16606","Diagnoses - secondary ICD10: I25.8 Other forms of chronic ischaemic heart disease","European","SD",5738,457272,463010,0.0123928208893976,"ukb-b",81.7044270334777
+"ukb-b-17155","Transport type for commuting to job workplace: Public transport","European","SD",51847,193517,245364,0.211306467126392,"ukb-b",6.00038243760449
+"ukb-b-20172","Sources of admission to hospital (recoded): Usual Place of residence","European","SD",305639,157154,462793,0.660422694379561,"ukb-b",4.45901931133593
+"ukb-b-16376","Main speciality of consultant (recoded): Cardiology","European","SD",24551,436865,461416,0.0532079511763788,"ukb-b",19.8503816753254
+"ukb-b-18712","Illness, injury, bereavement, stress in last 2 years: Death of a close relative","European","SD",97179,362563,459742,0.211377250718881,"ukb-b",5.99891148800552
+"ukb-b-1993","Types of spread used on bread/crackers: Butter on bread/crackers","European","SD",15836,49113,64949,0.243822075782537,"ukb-b",5.42379143849732
+"ukb-b-17219","Diagnoses - secondary ICD10: J45.9 Asthma, unspecified","European","SD",18988,444022,463010,0.0410099133927993,"ukb-b",25.4271116561153
+"ukb-b-19398","Main speciality of consultant (recoded): Geriatric medicine","European","SD",8407,452766,461173,0.0182296014727662,"ukb-b",55.8744025140547
+"ukb-b-17738","Fractured bone site(s): Other bones","European","SD",24060,436280,460340,0.0522657166442195,"ukb-b",20.188148901302
+"ukb-b-17685","Maternal smoking around birth","European","SD",121634,276098,397732,0.305818993694246,"ukb-b",4.71045455753975
+"ukb-b-19191","Mouth/teeth dental problems: Toothache","European","SD",18964,442149,461113,0.0411265785176302,"ukb-b",25.3580666419878
+"ukb-b-18113","Non-cancer illness code, self-reported: asthma","European","SD",53598,409335,462933,0.115779173228091,"ukb-b",9.76807118881025
+"ukb-b-1799","Methods of admission to hospital (recoded): Transfer","European","SD",7703,454739,462442,0.0166572240410689,"ukb-b",61.0509521095249
+"ukb-b-17595","Medication for pain relief, constipation, heartburn: Paracetamol","European","SD",100943,356604,457547,0.22061777260041,"ukb-b",5.81579388237325
+"ukb-b-18162","Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself","European","SD",42866,416876,459742,0.0932392515802341,"ukb-b",11.8279235531711
+"ukb-b-16364","Diagnoses - secondary ICD10: Z87.1 Personal history of diseases of the digestive system","European","SD",10458,452552,463010,0.0225869851623075,"ukb-b",45.2963925572292
+"ukb-b-18105","Had menopause","European","SD",153820,57294,211114,0.728611082164139,"ukb-b",5.05722315995451
+"ukb-b-16451","Illnesses of mother: Diabetes","European","SD",40091,383801,423892,0.0945783359912431,"ukb-b",11.6777036445567
+"ukb-b-19845","Operative procedures - secondary OPCS: Y82.9 Unspecified local anaesthetic","European","SD",10278,452732,463010,0.0221982246603745,"ukb-b",46.0713497693965
+"ukb-b-1762","Diagnoses - secondary ICD10: R69 Unknown and unspecified causes of morbidity","European","SD",7891,455119,463010,0.0170428284486296,"ukb-b",59.6930448235818
+"ukb-b-20187","Operative procedures - secondary OPCS: Y53.2 Approach to organ under ultrasonic control","European","SD",8745,454265,463010,0.0188872810522451,"ukb-b",53.9649341253616
+"ukb-b-19550","Vitamin and/or mineral supplement use: Calcium","European","SD",3680,61269,64949,0.0566598407981647,"ukb-b",18.7092477834737
+"ukb-b-19023","Main speciality of consultant (recoded): Anaesthetics","European","SD",5479,456017,461496,0.0118722589144868,"ukb-b",85.2419838753934
+"ukb-b-17107","Pain type(s) experienced in last month: Facial pain","European","SD",8595,453262,461857,0.0186096562355881,"ukb-b",54.7545064635196
+"ukb-b-17538","Types of spreads/sauces consumed: Mayonnaise","European","SD",5346,59603,64949,0.0823107361160295,"ukb-b",13.2387768986663
+"ukb-b-17001","Ever had bowel cancer screening","European","SD",146163,309096,455259,0.321054608475615,"ukb-b",4.58760742486333
+"ukb-b-18909","Never eat eggs, dairy, wheat, sugar: Dairy products","European","SD",10366,450680,461046,0.0224836567283959,"ukb-b",45.4997517152506
+"ukb-b-17194","Eye problems/disorders: Macular degeneration","European","SD",3553,147089,150642,0.0235857197859827,"ukb-b",43.4226918913751
+"ukb-b-17836","Treatment/medication code: seretide 50 evohaler","European","SD",5409,457524,462933,0.0116841962011781,"ukb-b",86.5975128464388
+"ukb-b-20142","Diagnoses - secondary ICD10: Z85.3 Personal history of malignant neoplasm of breast","European","SD",5208,457802,463010,0.0112481371892616,"ukb-b",89.9149859281192
+"ukb-b-18853","Methods of admission to hospital (recoded): Elective admission: Planned","European","SD",65087,397485,462572,0.140706744031199,"ukb-b",8.27072694809446
+"ukb-b-17381","Vitamin and mineral supplements: None of the above","European","SD",315695,144656,460351,0.685770205777765,"ukb-b",4.6405988312535
+"ukb-b-17289","Sources of admission to hospital (recoded): Usual Place of residence: Living with relatives","European","SD",11879,449514,461393,0.0257459475978179,"ukb-b",39.867490380833
+"ukb-b-19115","Main speciality of consultant (recoded): Obstetrics","European","SD",14743,446428,461171,0.0319686190155062,"ukb-b",32.3136999371203
+"ukb-b-19809","Fed-up feelings","European","SD",184258,268813,453071,0.406686810676472,"ukb-b",4.144345073896
+"ukb-b-1968","Diagnoses - main ICD10: K63.5 Polyp of colon","European","SD",4779,458231,463010,0.0103215913263212,"ukb-b",97.8947146530141
+"ukb-b-19255","Fractured bone site(s): Arm","European","SD",4714,455626,460340,0.0102402572011991,"ukb-b",98.6641434048318
+"ukb-b-18200","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: None of the above","European","SD",314035,147978,462013,0.67971031118172,"ukb-b",4.59338855830044
+"ukb-b-16369","Main speciality of consultant (recoded): Gynaecology","European","SD",52200,409249,461449,0.113121926800145,"ukb-b",9.96756986582534
+"ukb-b-19716","Menstruating today","European","SD",10073,56984,67057,0.15021548831591,"ukb-b",7.83387206461761
+"ukb-b-16878","Alcohol usually taken with meals","European","SD",159104,76541,235645,0.675185130174627,"ukb-b",4.55975205912454
+"ukb-b-17988","Tea consumed","European","SD",51690,13259,64949,0.795855209472047,"ukb-b",6.15499401181319
+"ukb-b-19067","Type of fat/oil used in cooking: Spreadable butter","European","SD",2558,62391,64949,0.0393847480330721,"ukb-b",26.4315389871053
+"ukb-b-17885","Diagnoses - main ICD10: R31 Unspecified haematuria","European","SD",11437,451573,463010,0.0247014103367098,"ukb-b",41.5088454287139
+"ukb-b-17918","Treatment/medication code: levothyroxine sodium","European","SD",18947,443986,462933,0.0409281688710893,"ukb-b",25.4757248561093
+"ukb-b-20019","PCT where patients GP was registered: NEWCASTLE PCT","European","SD",5490,457520,463010,0.0118571953089566,"ukb-b",85.3489757960157
+"ukb-b-20017","Diagnoses - secondary ICD10: K29.8 Duodenitis","European","SD",4640,458370,463010,0.0100213818276063,"ukb-b",100.796760757572
+"ukb-b-1668","Diagnoses - main ICD10: I25.1 Atherosclerotic heart disease","European","SD",12171,450839,463010,0.0262866892723699,"ukb-b",39.0690635424419
+"ukb-b-17742","Operative procedures - secondary OPCS: Y75.2 Laparoscopic approach to abdominal cavity NEC","European","SD",8780,454230,463010,0.0189628733720654,"ukb-b",53.7539535603996
+"ukb-b-2020","Thickness of butter/margarine spread on baguettes: thin","European","SD",1415,63534,64949,0.0217863246547291,"ukb-b",46.9226248965385
+"ukb-b-19780","Methods of admission to hospital (recoded): Emergency admission: Outpatients (obsolete)","European","SD",10856,451607,462463,0.0234743103772626,"ukb-b",43.6237991010385
+"ukb-b-17324","Eye problems/disorders: Glaucoma","European","SD",6464,144178,150642,0.042909679903347,"ukb-b",24.3495983212239
+"ukb-b-17729","Qualifications: None of the above","European","SD",79538,378541,458079,0.173633805522628,"ukb-b",6.96936441833387
+"ukb-b-16858","Cough on most days","European","SD",15367,97216,112583,0.136494852686462,"ukb-b",8.48435428266855
+"ukb-b-16508","Treatment/medication code: alendronate sodium","European","SD",5360,457573,462933,0.01157834935077,"ukb-b",87.3798109928043
+"ukb-b-20141","Non-cancer illness code, self-reported: eczema/dermatitis","European","SD",11819,451114,462933,0.0255306923464087,"ukb-b",40.1947417637632
+"ukb-b-19832","Treatment/medication code: fluoxetine","European","SD",5387,457546,462933,0.0116366731254847,"ukb-b",86.9469880846355
+"ukb-b-18379","Diagnoses - main ICD10: M17.9 Gonarthrosis, unspecified","European","SD",6497,456513,463010,0.0140320943392151,"ukb-b",72.2794311190111
+"ukb-b-17241","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Hayfever, allergic rhinitis or eczema","European","SD",106201,355812,462013,0.229865826286273,"ukb-b",5.6488389699223
+"ukb-b-19006","Types of spread used on bread/crackers: Low fat polyunsaturated margarine on bread/crackers","European","SD",5770,59179,64949,0.0888389351645137,"ukb-b",12.3538266258732
+"ukb-b-16565","How are people in household related to participant: Mother and/or father","European","SD",8348,451252,459600,0.0181636205395997,"ukb-b",56.0736026596859
+"ukb-b-16868","Non-cancer illness code, self-reported: migraine","European","SD",13597,449336,462933,0.0293714209183618,"ukb-b",35.0769616844382
+"ukb-b-18888","Treatment speciality of consultant (recoded): Gastroenterology","European","SD",49228,398299,447527,0.110000067035062,"ukb-b",10.2144991410723
+"ukb-b-18275","Hearing difficulty/problems with background noise","European","SD",171586,281896,453482,0.378374444851174,"ukb-b",4.25157009028273
+"ukb-b-16609","Target heart rate achieved","European","SD",6995,61431,68426,0.102227223569988,"ukb-b",10.8959976842048
+"ukb-b-17455","Never eat eggs, dairy, wheat, sugar: Eggs or foods containing eggs","European","SD",12077,448969,461046,0.0261947831669725,"ukb-b",39.2024396904917
+"ukb-b-17805","Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Cholesterol lowering medication","European","SD",31553,218157,249710,0.1263585759481,"ukb-b",9.0586203606494
+"ukb-b-16597","Intended management of patient (recoded): One or more nights hospital stay","European","SD",120788,330413,451201,0.267703307395152,"ukb-b",5.10104542005869
+"ukb-b-1830","Type of fat/oil used in cooking: Rapeseed oil","European","SD",1485,63464,64949,0.0228640933655638,"ukb-b",44.7600994290992
+"ukb-b-19354","Diagnoses - main ICD10: K20 Oesophagitis","European","SD",4931,458079,463010,0.010649877972398,"ukb-b",94.9085540138153
+"ukb-b-19202","Type of fat/oil used in cooking: Normal fat butter","European","SD",4742,60207,64949,0.0730111318111133,"ukb-b",14.7753031494458
+"ukb-b-17965","Main speciality of consultant (recoded): Neurosurgery","European","SD",5800,455393,461193,0.0125760798624437,"ukb-b",80.5287707347432
+"ukb-b-17243","Non-cancer illness code, self-reported: anxiety/panic attacks","European","SD",6410,456523,462933,0.0138464961452305,"ukb-b",73.234477731074
+"ukb-b-16818","Non-cancer illness code, self-reported: gastro-oesophageal reflux (gord) / gastric reflux","European","SD",19661,443272,462933,0.0424705086913225,"ukb-b",24.5901047270033
+"ukb-b-19041","Type of cancer: ICD10: C50.9 Breast, unspecified","European","SD",6192,456818,463010,0.0133733612664953,"ukb-b",75.7890714281262
+"ukb-b-19447","Methods of admission to hospital (recoded): Emergency admission: Bed bureau","European","SD",6228,456185,462413,0.0134684794761393,"ukb-b",75.2610833129206
+"ukb-b-20176","Illnesses of mother: Lung cancer","European","SD",17566,405692,423258,0.0415018735617519,"ukb-b",25.1385965915205
+"ukb-b-18994","Miserableness","European","SD",195435,259547,454982,0.429544465495338,"ukb-b",4.08103269698535
+"ukb-b-16523","Type of meals eaten: Bought sandwiches","European","SD",5818,59131,64949,0.0895779765662289,"ukb-b",12.2618499396196
+"ukb-b-19722","Non-accidental death in close genetic family","European","SD",39522,105295,144817,0.272909948417658,"ukb-b",5.03955779543127
+"ukb-b-13106","Main speciality of consultant (recoded): Oral surgery","European","SD",11656,449515,461171,0.0252747896116625,"ukb-b",40.591046847288
+"ukb-b-14624","Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce","European","SD",14149,445593,459742,0.0307759569497675,"ukb-b",33.5246502163388
+"ukb-b-16187","Diagnoses - main ICD10: R55 Syncope and collapse","European","SD",4748,458262,463010,0.0102546381287661,"ukb-b",98.5272100849208
+"ukb-b-13824","Gas or solid-fuel cooking/heating: A gas hob or gas cooker","European","SD",323455,137943,461398,0.701032514228497,"ukb-b",4.77131269488734
+"ukb-b-14381","Type of baguette eaten: mixed","European","SD",1427,63522,64949,0.0219710850051579,"ukb-b",46.5368304602964
+"ukb-b-15787","Transport type for commuting to job workplace: Cycle","European","SD",19179,226185,245364,0.078165501051499,"ukb-b",13.8781611672866
+"ukb-b-13583","Operation code: haemorroidectomy / piles surgery/ banding of piles","European","SD",8266,454667,462933,0.0178557156219151,"ukb-b",57.0226565060103
+"ukb-b-12931","Operation code: ovarian cyst removal/surgery","European","SD",5520,457413,462933,0.0119239717194497,"ukb-b",84.8767417816874
+"ukb-b-15895","Treatment/medication code: allopurinol","European","SD",5243,457690,462933,0.011325612993673,"ukb-b",89.3068968929782
+"ukb-b-14576","Wears glasses or contact lenses","European","SD",411268,50986,462254,0.889701333033354,"ukb-b",10.1902653971434
+"ukb-b-15918","Treatment speciality of consultant (recoded): Dermatology","European","SD",8914,435673,444587,0.0200500689403874,"ukb-b",50.8956005282064
+"ukb-b-14177","Vascular/heart problems diagnosed by doctor: High blood pressure","European","SD",124227,337653,461880,0.268959469992206,"ukb-b",5.08594552449319
+"ukb-b-14977","Bread consumed","European","SD",55531,9418,64949,0.854993918305132,"ukb-b",8.06586143885111
+"ukb-b-15797","Operative procedures - main OPCS: K63.4 Coronary arteriography using two catheters","European","SD",4917,458093,463010,0.0106196410444699,"ukb-b",95.1758749746738
+"ukb-b-14147","Risk taking","European","SD",117515,328764,446279,0.263321823343693,"ukb-b",5.15507919861121
+"ukb-b-13803","Operative procedures - main OPCS: J18.3 Total cholecystectomy NEC","European","SD",10361,452649,463010,0.0223774864473769,"ukb-b",45.7106611510402
+"ukb-b-15860","Operative procedures - main OPCS: H22.9 Unspecified diagnostic endoscopic examination of colon","European","SD",24252,438758,463010,0.0523789982937734,"ukb-b",20.1468955154092
+"ukb-b-14518","Vitamin and/or mineral supplement use: Vitamin E","European","SD",1257,63692,64949,0.0193536467074166,"ukb-b",52.6895844490473
+"ukb-b-14649","Invitation to physical activity study, acceptance","European","SD",98474,122541,221015,0.445553469221546,"ukb-b",4.04799996454559
+"ukb-b-15984","Thickness of butter/margarine spread on sliced bread: thin","European","SD",11749,53200,64949,0.180895779765662,"ukb-b",6.74889080465655
+"ukb-b-14782","Operation code: wisdom teeth surgery","European","SD",18098,444835,462933,0.0390942101772827,"ukb-b",26.6199200228934
+"ukb-b-12936","Type of yogurt eaten: Low fat yogurt consumers","European","SD",15300,49649,64949,0.235569446796717,"ukb-b",5.55319598614957
+"ukb-b-14017","PCT where patients GP was registered: NORTH TYNESIDE PCT","European","SD",5312,457698,463010,0.0114727543681562,"ukb-b",88.1746330145115
+"ukb-b-13745","Irritability","European","SD",125001,317168,442169,0.282699601283672,"ukb-b",4.93143975347113
+"ukb-b-13079","Treatment/medication code: candesartan cilexetil","European","SD",4929,458004,462933,0.010647329095139,"ukb-b",94.9310297175429
+"ukb-b-15686","Diagnoses - secondary ICD10: I20.9 Angina pectoris, unspecified","European","SD",10083,452927,463010,0.0217770674499471,"ukb-b",46.9421269851067
+"ukb-b-1511","Operative procedures - main OPCS: H20.1 Fibreoptic endoscopic snare resection of lesion of colon","European","SD",5243,457767,463010,0.0113237295090819,"ukb-b",89.3215812144292
+"ukb-b-14057","Non-cancer illness code, self-reported: hypertension","European","SD",119731,343202,462933,0.258635698902433,"ukb-b",5.21530679187248
+"ukb-b-12789","Diagnoses - main ICD10: R19.4 Change in bowel habit","European","SD",5540,457470,463010,0.0119651843372713,"ukb-b",84.5879223580896
+"ukb-b-13251","Non-cancer illness code, self-reported: gout","European","SD",6543,456390,462933,0.0141337947391955,"ukb-b",71.7667435754785
+"ukb-b-14372","Operative procedures - main OPCS: G45.9 Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract","European","SD",25609,437401,463010,0.0553098205222349,"ukb-b",19.138519990627
+"ukb-b-16207","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Emphysema/chronic bronchitis","European","SD",7844,454169,462013,0.0169778772458784,"ukb-b",59.9174495842954
+"ukb-b-15767","Types of spreads/sauces consumed: Chutney/pickle","European","SD",2736,62213,64949,0.0421253598977659,"ukb-b",24.7826475373747
+"ukb-b-14796","Non-cancer illness code, self-reported: diverticular disease/diverticulitis","European","SD",5193,457740,462933,0.0112176060034605,"ukb-b",90.1569254575206
+"ukb-b-15666","Treatment/medication code: amitriptyline","European","SD",8707,454226,462933,0.0188083372755885,"ukb-b",54.1870797481896
+"ukb-b-13184","Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)","European","SD",197006,263370,460376,0.427924131579405,"ukb-b",4.08488273262873
+"ukb-b-15541","Diagnoses - secondary ICD10: E66.9 Obesity, unspecified","European","SD",4688,458322,463010,0.0101250512947885,"ukb-b",99.7751603571765
+"ukb-b-14814","Diagnoses - main ICD10: K30 Dyspepsia","European","SD",7662,455348,463010,0.0165482386989482,"ukb-b",61.4462184945013
+"ukb-b-15005","Transport type for commuting to job workplace: Walk","European","SD",39105,206259,245364,0.15937545850247,"ukb-b",7.46408347987923
+"ukb-b-14444","Egg consumers","European","SD",13705,51244,64949,0.211011716885556,"ukb-b",6.00651927579224
+"ukb-b-13566","Operative procedures - main OPCS: K63.6 Coronary arteriography NEC","European","SD",5339,457671,463010,0.0115310684434461,"ukb-b",87.7338982129366
+"ukb-b-1508","Operation code: knee surgery (not replacement)","European","SD",15254,447679,462933,0.032950772574001,"ukb-b",31.3823756061285
+"ukb-b-13584","Illnesses of mother: Breast cancer","European","SD",35102,388356,423458,0.0828936990209183,"ukb-b",13.1540292378109
+"ukb-b-14080","Current employment status: Unable to work because of sickness or disability","European","SD",17977,443265,461242,0.0389752017379163,"ukb-b",26.6978958095143
+"ukb-b-15826","Illnesses of siblings: Lung cancer","European","SD",8199,353387,361586,0.0226751035714878,"ukb-b",45.12443305057
+"ukb-b-13160","Father still alive","European","SD",103919,346414,450333,0.230760348453256,"ukb-b",5.6334851189682
+"ukb-b-16100","Vegetable consumers","European","SD",53457,11492,64949,0.823061171072688,"ukb-b",6.86664725064944
+"ukb-b-13764","Long-standing illness, disability or infirmity","European","SD",147104,304789,451893,0.325528388357421,"ukb-b",4.55457079360396
+"ukb-b-12841","Bring up phlegm/sputum/mucus on most days","European","SD",9677,102906,112583,0.0859543625591786,"ukb-b",12.7281180869064
+"ukb-b-12948","Non-cancer illness code, self-reported: diabetes","European","SD",18228,444705,462933,0.0393750283518349,"ukb-b",26.437796080157
+"ukb-b-16066","Spreads/sauces consumers","European","SD",32699,32250,64949,0.503456558222605,"ukb-b",4.00019117385236
+"ukb-b-15527","Operation code: squint correction","European","SD",6117,456816,462933,0.0132135751825858,"ukb-b",76.6931354847419
+"ukb-b-15326","Vitamin and/or mineral supplement use: Multivitamin with iron","European","SD",1628,63321,64949,0.0250658208748403,"ukb-b",40.9206734148578
+"ukb-b-133","Hip pain for 3+ months","European","SD",40152,11364,51516,0.779408339156767,"ukb-b",5.81628744245994
+"ukb-b-14961","Other serious medical condition/disability diagnosed by doctor","European","SD",93267,360986,454253,0.205319502567952,"ukb-b",6.12882529310915
+"ukb-b-13352","Vascular/heart problems diagnosed by doctor: None of the above","European","SD",325118,136762,461880,0.703901446263099,"ukb-b",4.79790733985652
+"ukb-b-14422","Operative procedures - main OPCS: L85.1 Ligation of long saphenous vein","European","SD",5294,457716,463010,0.0114338783179629,"ukb-b",88.4709541103718
+"ukb-b-1350","Main speciality of consultant (recoded): Accident and emergency (A&E)","European","SD",16509,444742,461251,0.0357917923213175,"ukb-b",28.9764868040963
+"ukb-b-13782","Diagnoses - secondary ICD10: Z86.7 Personal history of diseases of the circulatory system","European","SD",10173,452837,463010,0.0219714477009136,"ukb-b",46.536079506763
+"ukb-b-15671","PCT where patients GP was registered: BRISTOL PCT","European","SD",6263,456747,463010,0.0135267056867022,"ukb-b",74.9415422997606
+"ukb-b-14037","Treatment/medication code: glucosamine product","European","SD",30643,432290,462933,0.0661931640215755,"ukb-b",16.1781854844075
+"ukb-b-16039","Operative procedures - main OPCS: W90.3 Injection of therapeutic substance into joint","European","SD",5045,457965,463010,0.0108960929569556,"ukb-b",92.7870319829709
+"ukb-b-15957","Types of transport used (excluding work): Public transport","European","SD",138999,321492,460491,0.301849547548161,"ukb-b",4.74526474104175
+"ukb-b-16217","Operation code: nasal/sinus/nose surgery","European","SD",16197,446736,462933,0.034987784409407,"ukb-b",29.61766027615
+"ukb-b-15835","Vitamin and/or mineral supplement use: Multivitamin","European","SD",4810,60139,64949,0.0740581071302099,"ukb-b",14.5828919793884
+"ukb-b-12909","Mother still alive","European","SD",180472,274527,454999,0.396642629983802,"ukb-b",4.17855371069631
+"ukb-b-16240","Operative procedures - main OPCS: W40.1 Primary total prosthetic replacement of knee joint using cement","European","SD",5194,457816,463010,0.0112179002613334,"ukb-b",90.1545873717797
+"ukb-b-15869","Types of physical activity in last 4 weeks: None of the above","European","SD",28040,432336,460376,0.0609067371018472,"ukb-b",17.4834018989088
+"ukb-b-16235","Reason for glasses/contact lenses: For just reading/near work as you are getting older (called 'presbyopia')","European","SD",39730,420806,460536,0.0862690430281238,"ukb-b",12.6860576472928
+"ukb-b-13423","Breastfed as a baby","European","SD",251150,100944,352094,0.713303833635336,"ukb-b",4.88994029098734
+"ukb-b-16062","Operative procedures - secondary OPCS: Y82.2 Injection of local anaesthetic NEC","European","SD",8640,454370,463010,0.0186605040927842,"ukb-b",54.6081357102916
+"ukb-b-15591","Operative procedures - main OPCS: N17.1 Bilateral vasectomy","European","SD",4770,458240,463010,0.0103021533012246,"ukb-b",98.0774953463365
+"ukb-b-15071","Types of spreads/sauces consumed: Cheese sauce","European","SD",1111,63838,64949,0.0171057291105329,"ukb-b",59.4773494220251
+"ukb-b-16334","Illnesses of siblings: Stroke","European","SD",12031,349894,361925,0.0332416937210748,"ukb-b",31.1170877165716
+"ukb-b-15084","Operative procedures - main OPCS: R24.9 All normal delivery","European","SD",7946,455064,463010,0.0171616163797758,"ukb-b",59.2870308749362
+"ukb-b-15768","Type of special diet followed: Low calorie","European","SD",7794,57155,64949,0.120001847603504,"ukb-b",9.46957105173016
+"ukb-b-13799","Qualifications: Other professional qualifications eg: nursing, teaching","European","SD",131106,326973,458079,0.286208274118656,"ukb-b",4.89492797387998
+"ukb-b-15132","Types of spread used on bread/crackers: Soya margarine on bread/crackers","European","SD",1065,63884,64949,0.0163974811005558,"ukb-b",62.0016473667207
+"ukb-b-14863","Mineral and other dietary supplements: Iron","European","SD",14150,447234,461384,0.030668597090493,"ukb-b",33.6382820278697
+"ukb-b-13653","Worry too long after embarrassment","European","SD",212052,231866,443918,0.477682815294717,"ukb-b",4.0079848152948
+"ukb-b-12780","Type of sliced bread eaten: white","European","SD",12888,52061,64949,0.198432616360529,"ukb-b",6.28704985494801
+"ukb-b-12938","Illnesses of siblings: Bowel cancer","European","SD",8920,352588,361508,0.0246744193766113,"ukb-b",41.5531013394309
+"ukb-b-1386","Diagnoses - main ICD10: K21.9 Gastro-oesophageal reflux disease without oesophagitis","European","SD",4651,458359,463010,0.0100451394138356,"ukb-b",100.560781340327
+"ukb-b-14417","Heating type(s) in home: None of the above","European","SD",2931,149932,152863,0.0191740316492546,"ukb-b",53.1734212606496
+"ukb-b-14","Operative procedures - main OPCS: Q17.1 Endoscopic resection of lesion of uterus","European","SD",4910,458100,463010,0.0106045225805058,"ukb-b",95.3101071858393
+"ukb-b-13814","Treatment speciality of consultant (recoded): Ear, nose and throat (ENT)","European","SD",22802,422319,445121,0.0512265204292765,"ukb-b",20.5751308578477
+"ukb-b-13092","Headaches for 3+ months","European","SD",41719,49550,91269,0.457099343698298,"ukb-b",4.02966585701961
+"ukb-b-14425","Vegetarian alternatives intake","European","SD",2318,62631,64949,0.0356895410244961,"ukb-b",29.0564237134634
+"ukb-b-14944","Operation code: appendicectomy","European","SD",55398,407535,462933,0.119667424875738,"ukb-b",9.49242735111635
+"ukb-b-15378","Had other major operations","European","SD",167188,81657,248845,0.671855974602664,"ukb-b",4.5358565905755
+"ukb-b-13392","Diagnoses - secondary ICD10: K57.3 Diverticular disease of large intestine without perforation or abscess","European","SD",7137,455873,463010,0.0154143539016436,"ukb-b",65.8902528457117
+"ukb-b-16019","Main speciality of consultant (recoded): Urology","European","SD",39280,422098,461378,0.0851362657083779,"ukb-b",12.8389347216198
+"ukb-b-1337","Ingredients in homemade soup: Vegetables","European","SD",2925,62024,64949,0.0450353354170195,"ukb-b",23.2519454889808
+"ukb-b-14609","Treatment/medication code: metformin","European","SD",11552,451381,462933,0.0249539350186744,"ukb-b",41.0994325980571
+"ukb-b-15903","Treatment speciality of consultant (recoded): Oral surgery","European","SD",11591,432912,444503,0.0260763144455718,"ukb-b",39.3757521496627
+"ukb-b-15096","Operation code: tonsillectomy / tonsil surgery","European","SD",20848,442085,462933,0.045034594638965,"ukb-b",23.2523099251931
+"ukb-b-16254","Pain type(s) experienced in last month: Knee pain","European","SD",98704,363153,461857,0.213711170340603,"ukb-b",5.95100988177737
+"ukb-b-1523","Heating type(s) in home: Electric storage heaters","European","SD",4650,148213,152863,0.030419395144672,"ukb-b",33.9051372069941
+"ukb-b-15790","Diagnoses - secondary ICD10: D64.9 Anaemia, unspecified","European","SD",5264,457746,463010,0.0113690849009741,"ukb-b",88.9693265751356
+"ukb-b-12930","Mouth/teeth dental problems: Dentures","European","SD",77732,383381,461113,0.168574731139656,"ukb-b",7.13484108973234
+"ukb-b-15169","Illnesses of father: None of the above (group 1)","European","SD",149610,252976,402586,0.371622460790986,"ukb-b",4.28230298920554
+"ukb-b-13478","Treatment/medication code: citalopram","European","SD",7923,455010,462933,0.0171147876690579,"ukb-b",59.4464169692032
+"ukb-b-13065","Destinations on discharge from hospital (recoded): Usual Place of residence: Living with relatives","European","SD",12902,447856,460758,0.0280016841812839,"ukb-b",36.7409460200521
+"ukb-b-14181","PCT where patients GP was registered: NORTH SOMERSET PCT","European","SD",5193,457817,463010,0.0112157404807672,"ukb-b",90.1717512020425
+"ukb-b-1392","Type of cancer: ICD10: C61 Malignant neoplasm of prostate","European","SD",7847,455163,463010,0.0169477981037127,"ukb-b",60.0219551555412
+"ukb-b-12885","Current employment status: Unemployed","European","SD",7709,453533,461242,0.0167135690158312,"ukb-b",60.8486230335299
+"ukb-b-14598","Intended management of patient (recoded): No overnight hospital stay","European","SD",217289,237737,455026,0.47753095427514,"ukb-b",4.00809407368449
+"ukb-b-12944","Diagnoses - main ICD10: N84.0 Polyp of corpus uteri","European","SD",5419,457591,463010,0.0117038508887497,"ukb-b",86.4538059150885
+"ukb-b-15829","Non-cancer illness code, self-reported: heart attack/myocardial infarction","European","SD",10616,452317,462933,0.0229320441618982,"ukb-b",44.6305727521351
+"ukb-b-12849","Mouth/teeth dental problems: Loose teeth","European","SD",18981,442132,461113,0.0411634458364869,"ukb-b",25.3363292798252
+"ukb-b-15907","Vitamin and/or mineral supplement use: Other vitamin","European","SD",2455,62494,64949,0.0377988883585583,"ukb-b",27.4950882518938
+"ukb-b-14525","Sources of admission to hospital (recoded): Transfer to other NHS provider: General ward, young physically disabled, A&E","European","SD",10856,450635,461491,0.0235237523592009,"ukb-b",43.5343152106437
+"ukb-b-15784","Main speciality of consultant (recoded): General medicine","European","SD",81135,380759,461894,0.175657185414835,"ukb-b",6.90599442715338
+"ukb-b-16295","Types of spreads/sauces consumed: Salad dressing","European","SD",3214,61735,64949,0.0494849805231797,"ukb-b",21.2602130651672
+"ukb-b-13864","Operative procedures - secondary OPCS: Z27.6 Ileum","European","SD",4720,458290,463010,0.0101941642729099,"ukb-b",99.1056381386074
+"ukb-b-13952","Illnesses of siblings: Chronic bronchitis/emphysema","European","SD",10325,351498,361823,0.0285360521580994,"ukb-b",36.0727641085982
+"ukb-b-14640","Type of meals eaten: Takeaway meals","European","SD",2617,62332,64949,0.040293153089347,"ukb-b",25.8600971976678
+"ukb-b-15531","Other non-alcoholic drinks","European","SD",8460,56489,64949,0.130256047052303,"ukb-b",8.82695043203248
+"ukb-b-14960","Treatment/medication code: omeprazole","European","SD",27277,435656,462933,0.0589221334404763,"ukb-b",18.0341624500249
+"ukb-b-15340","Diagnoses - secondary ICD10: K29.7 Gastritis, unspecified","European","SD",5718,457292,463010,0.0123496252780717,"ukb-b",81.9866208696195
+"ukb-b-13121","Operative procedures - secondary OPCS: Z27.1 Oesophagus","European","SD",5450,457560,463010,0.0117708040863048,"ukb-b",85.9678743089591
+"ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis","European","SD",38472,424461,462933,0.0831048985490341,"ukb-b",13.1236223304394
+"ukb-b-15175","Vitamin and mineral supplements: Vitamin C","European","SD",39880,420471,460351,0.0866295500607145,"ukb-b",12.6382512335649
+"ukb-b-15904","Non-cancer illness code, self-reported: prolapsed disc/slipped disc","European","SD",7755,455178,462933,0.0167518841819443,"ukb-b",60.7118148537686
+"ukb-b-14371","Illnesses of siblings: Heart disease","European","SD",37858,325684,363542,0.10413652342783,"ukb-b",10.7190203151837
+"ukb-b-13285","Treatment speciality of consultant (recoded): Plastic surgery","European","SD",20625,424503,445128,0.0463349867903165,"ukb-b",22.6305498654362
+"ukb-b-13743","PCT where patients GP was registered: NOT KNOWN","European","SD",19076,443934,463010,0.0411999740826332,"ukb-b",25.3148302801549
+"ukb-b-13500","Operative procedures - secondary OPCS: Z27.4 Duodenum","European","SD",21838,441172,463010,0.0471652880067385,"ukb-b",22.2515331214855
+"ukb-b-14108","Type of special diet followed: Other","European","SD",2215,62734,64949,0.0341036813499823,"ukb-b",30.3576554373653
+"ukb-b-16068","PCT responsible for patient data: NOTTINGHAMSHIRE COUNTY TEACHING PCT","European","SD",7569,455441,463010,0.0163473791062828,"ukb-b",62.1885043788406
+"ukb-b-15041","Ever had breast cancer screening / mammogram","European","SD",202216,48450,250666,0.806714911475828,"ukb-b",6.4133001346117
+"ukb-b-14699","Illnesses of mother: Alzheimer's disease/dementia","European","SD",36548,387190,423738,0.0862514100694297,"ukb-b",12.6884062860056
+"ukb-b-1579","Types of spreads/sauces consumed: Jam/honey","European","SD",12297,52652,64949,0.189333169101911,"ukb-b",6.5152471039659
+"ukb-b-15272","Ever manic/hyper for 2 days","European","SD",8680,140464,149144,0.0581987877487529,"ukb-b",18.2442836723371
+"ukb-b-1390","PCT responsible for patient data: BRISTOL PCT","European","SD",6339,456671,463010,0.0136908490097406,"ukb-b",74.0553700840605
+"ukb-b-14238","Mineral and other dietary supplements: None of the above","European","SD",262527,198857,461384,0.568998924973558,"ukb-b",4.07765239244207
+"ukb-b-15287","Types of spreads/sauces consumed: Brown sauce","European","SD",1782,63167,64949,0.0274369120386765,"ukb-b",37.4754612135075
+"ukb-b-129","Vitamin and/or mineral supplement use: Vitamin B6","European","SD",1478,63471,64949,0.0227563164944803,"ukb-b",44.9671292563283
+"ukb-b-1567","Operative procedures - secondary OPCS: Z94.3 Left sided operation","European","SD",92569,370441,463010,0.199928727241312,"ukb-b",6.25167110040449
+"ukb-b-12777","Illnesses of father: Stroke","European","SD",62810,339806,402616,0.15600472907187,"ukb-b",7.59490285410546
+"ukb-b-13896","Type of large bap eaten: white","European","SD",1184,63765,64949,0.0182296879089747,"ukb-b",55.8741425043604
+"ukb-b-14395","Medication for cholesterol, blood pressure or diabetes: Blood pressure medication","European","SD",51976,157662,209638,0.247932149705683,"ukb-b",5.36302881436412
+"ukb-b-16170","Ingredients in canned soup: Vegetables","European","SD",1774,63175,64949,0.027313738471724,"ukb-b",37.6396929040099
+"ukb-b-16027","Illnesses of mother: None of the above (group 2)","European","SD",330107,97975,428082,0.771130297466373,"ukb-b",5.66609599536676
+"ukb-b-16118","Neck/shoulder pain for 3+ months","European","SD",72887,32509,105396,0.691553759155945,"ukb-b",4.68807522639313
+"ukb-b-15695","Ever had prostate specific antigen (PSA) test","European","SD",62489,137921,200410,0.311805798113867,"ukb-b",4.66020266534377
+"ukb-b-14180","Mood swings","European","SD",204412,247207,451619,0.452620461052347,"ukb-b",4.03624256360385
+"ukb-b-13247","Diagnoses - secondary ICD10: Z80.0 Family history of malignant neoplasm of digestive organs","European","SD",5989,457021,463010,0.0129349258115375,"ukb-b",78.323172889491
+"ukb-b-15582","Fractured bone site(s): Ankle","European","SD",6479,453861,460340,0.0140743798062302,"ukb-b",72.0653634266247
+"ukb-b-13891","Mineral and other dietary supplements: Zinc","European","SD",18826,442558,461384,0.0408033221784891,"ukb-b",25.5503474071816
+"ukb-b-14521","Illnesses of father: Lung cancer","European","SD",37443,364181,401624,0.0932289902993845,"ukb-b",11.8290915347332
+"ukb-b-12863","Type of meals eaten: Ready meals","European","SD",5080,59869,64949,0.0782152150148578,"ukb-b",13.8700881471791
+"ukb-b-12962","PCT where patients GP was registered: SHEFFIELD PCT","European","SD",6910,456100,463010,0.0149240837130947,"ukb-b",68.0209388983742
+"ukb-b-14294","Invitation to complete online 24-hour recall dietary questionnaire, acceptance","European","SD",88770,189558,278328,0.318940243166336,"ukb-b",4.60368351539237
+"ukb-b-13183","Adopted as a child","European","SD",6661,455144,461805,0.0144238369008564,"ukb-b",70.3443151569198
+"ukb-b-15760","PCT where patients GP was registered: DERBYSHIRE COUNTY PCT","European","SD",5272,457738,463010,0.0113863631455044,"ukb-b",88.8358725891071
+"ukb-b-14918","Illnesses of siblings: Severe depression","European","SD",26368,335947,362315,0.0727764514303852,"ukb-b",14.8191970055799
+"ukb-b-13609","Treatment speciality of consultant (recoded): Obstetrics","European","SD",11480,433195,444675,0.0258166076347895,"ukb-b",39.7612568651137
+"ukb-b-14280","How are people in household related to participant: Son and/or daughter (include step-children)","European","SD",156118,303482,459600,0.339682332463011,"ukb-b",4.45834963122452
+"ukb-b-15592","Operation code: varicose vein surgery","European","SD",18818,444115,462933,0.0406495108363413,"ukb-b",25.6429139423995
+"ukb-b-1553","Leisure/social activities: Adult education class","European","SD",33398,427971,461369,0.0723889121289033,"ukb-b",14.8923083134895
+"ukb-b-14603","Diagnoses - main ICD10: R07.3 Other chest pain","European","SD",7146,455864,463010,0.0154337919267402,"ukb-b",65.8085668557524
+"ukb-b-14926","Types of transport used (excluding work): Walk","European","SD",225730,234761,460491,0.490194162318047,"ukb-b",4.00153906319343
+"ukb-b-15766","Operation code: sterilisation","European","SD",19898,443035,462933,0.0429824618249293,"ukb-b",24.3102159756619
+"ukb-b-1318","PCT responsible for patient data: BERKSHIRE WEST PCT","European","SD",4668,458342,463010,0.0100818556834626,"ukb-b",100.198273652087
+"ukb-b-13346","Fractured/broken bones in last 5 years","European","SD",44502,415887,460389,0.0966617360536416,"ukb-b",11.4523602927399
+"ukb-b-13488","Treatment/medication code: perindopril","European","SD",6621,456312,462933,0.0143022856439269,"ukb-b",70.9334042359017
+"ukb-b-13148","Treatment/medication code: ventolin 100micrograms inhaler","European","SD",13244,449689,462933,0.0286088915674622,"ukb-b",35.9836193904442
+"ukb-b-14285","Types of spreads/sauces consumed: White/cream sauce","European","SD",1416,63533,64949,0.0218017213505982,"ukb-b",46.8902254831579
+"ukb-a-91","Non-cancer illness code  self-reported: uterine fibroids","European","SD",5168,331991,337159,0.0153280796300855,"ukb-a",66.2553112690921
+"ukb-b-10912","Non-cancer illness code, self-reported: high cholesterol","European","SD",56753,406180,462933,0.122594414310494,"ukb-b",9.2967022535065
+"ukb-a-577","Diagnoses - main ICD10: N81 Female genital prolapse","European","SD",4840,332359,337199,0.0143535419737306,"ukb-a",70.6837774424146
+"ukb-b-11461","Medication for pain relief, constipation, heartburn: Laxatives (e.g. Dulcolax, Senokot)","European","SD",13478,444069,457547,0.0294570830974741,"ukb-b",34.9780436751093
+"ukb-b-12018","Illnesses of mother: Chronic bronchitis/emphysema","European","SD",25314,398378,423692,0.0597462307525278,"ukb-b",17.8010001988894
+"ukb-a-581","Diagnoses - main ICD10: R07 Pain in throat and chest","European","SD",16552,320647,337199,0.0490867410638822,"ukb-a",21.4237206778722
+"ukb-b-10537","Non-cancer illness code, self-reported: psoriasis","European","SD",5314,457619,462933,0.0114789829197746,"ukb-b",88.1273443086882
+"ukb-b-11138","Vitamin and/or mineral supplement use: Fish oil","European","SD",15526,49423,64949,0.239049100063126,"ukb-b",5.49738625109521
+"ukb-b-12040","Non-cancer illness code, self-reported: deep venous thrombosis (dvt)","European","SD",9241,453692,462933,0.019961851931057,"ukb-b",51.1159208731808
+"ukb-b-11670","Treatment/medication code: tramadol","European","SD",5106,457827,462933,0.011029673840491,"ukb-b",91.6756650227363
+"ukb-a-79","Non-cancer illness code  self-reported: glaucoma","European","SD",3536,333623,337159,0.0104876334311111,"ukb-a",96.3609947172536
+"ukb-b-10415","Illnesses of father: None of the above (group 2)","European","SD",303978,103414,407392,0.746156036446469,"ukb-b",5.27963018193302
+"ukb-b-10212","Treatment speciality of consultant (recoded): Neurology","European","SD",5524,438797,444321,0.0124324531138524,"ukb-b",81.4472377700424
+"ukb-a-70","Non-cancer illness code  self-reported: gastro-oesophageal reflux (gord) / gastric reflux","European","SD",14316,322843,337159,0.0424606787895325,"ukb-a",24.5955449883225
+"ukb-b-10188","Vitamin and mineral supplements: Vitamin B","European","SD",19395,440956,460351,0.042130895773008,"ukb-b",24.7795343798486
+"ukb-b-11120","Operation code: knee replacement/revision","European","SD",5657,457276,462933,0.0122199108726317,"ukb-b",82.846028500013
+"ukb-a-99","Non-cancer illness code  self-reported: eczema/dermatitis","European","SD",8718,328441,337159,0.0258572364967271,"ukb-a",39.700436674872
+"ukb-b-10505","Qualifications: CSEs or equivalent","European","SD",59969,398110,458079,0.130914099969656,"ukb-b",8.7892308550638
+"ukb-b-11355","Ever stopped smoking for 6+ months","European","SD",48981,64249,113230,0.43257970502517,"ukb-b",4.07407476503629
+"ukb-b-11578","Chest pain or discomfort walking normally","European","SD",12799,59596,72395,0.176793977484633,"ukb-b",6.87106400929107
+"ukb-b-10008","Treatment/medication code: atorvastatin","European","SD",13851,449082,462933,0.0299200964286409,"ukb-b",34.453195096294
+"ukb-b-11010","How are people in household related to participant: Other unrelated","European","SD",8247,451353,459600,0.017943864229765,"ukb-b",56.7476278591678
+"ukb-b-11740","Medication for cholesterol, blood pressure or diabetes: Cholesterol lowering medication","European","SD",48450,161188,209638,0.231112679953062,"ukb-b",5.62747439323908
+"ukb-a-545","Diagnoses - main ICD10: K21 Gastro-oesophageal reflux disease","European","SD",7282,329917,337199,0.0215955563332038,"ukb-a",47.3278947943793
+"ukb-a-65","Non-cancer illness code  self-reported: deep venous thrombosis (dvt)","European","SD",6767,330392,337159,0.0200706491595953,"ukb-a",50.8444805485847
+"ukb-b-11943","Types of spread used on bread/crackers: Unknown margarine on bread/crackers","European","SD",2603,62346,64949,0.0400775993471801,"ukb-b",25.9933451884067
+"ukb-b-10248","Type of cancer: ICD10: C44.3 Skin of other and unspecified parts of face","European","SD",6034,456976,463010,0.0130321159370208,"ukb-b",77.7467143039112
+"ukb-a-539","Diagnoses - main ICD10: I84 Haemorrhoids","European","SD",8190,329009,337199,0.0242883282572012,"ukb-a",42.1969320080986
+"ukb-b-12626","Size of red wine glass drunk: small (125ml)","European","SD",3857,61092,64949,0.0593850559669895,"ukb-b",17.9023875949466
+"ukb-a-578","Diagnoses - main ICD10: N92 Excessive  frequent and irregular menstruation","European","SD",6882,330317,337199,0.020409313194879,"ukb-a",50.0180737063357
+"ukb-a-549","Diagnoses - main ICD10: K40 Inguinal hernia","European","SD",8815,328384,337199,0.0261418331608338,"ukb-a",39.2797080089986
+"ukb-b-10923","Alcohol consumed","European","SD",31833,33116,64949,0.490123019599994,"ukb-b",4.00156148519029
+"ukb-a-546","Diagnoses - main ICD10: K22 Other diseases of oesophagus","European","SD",3460,333739,337199,0.0102610031465099,"ukb-a",98.4667257643979
+"ukb-b-10937","Reason for glasses/contact lenses: For 'astigmatism'","European","SD",12513,448023,460536,0.0271705143571838,"ukb-b",37.8325325823564
+"ukb-b-11411","Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Blood clot in the leg (DVT)","European","SD",9440,452573,462013,0.0204323254973345,"ukb-b",49.962913598179
+"ukb-b-11725","Types of spreads/sauces consumed: Tomato-based sauce","European","SD",3113,61836,64949,0.047929914240404,"ukb-b",21.914139822762
+"ukb-b-11605","Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol)","European","SD",27747,429800,457547,0.0606429503417135,"ukb-b",17.5545208127925
+"ukb-b-12646","Treatment speciality of consultant (recoded): General medicine","European","SD",87031,361904,448935,0.193861026651965,"ukb-b",6.3988152876103
+"ukb-b-12181","Pain type(s) experienced in last month: Headache","European","SD",93308,368549,461857,0.202027900410733,"ukb-b",6.20298802416981
+"ukb-b-12114","Operative procedures - secondary OPCS: Y82.3 Application of local anaesthetic NEC","European","SD",5394,457616,463010,0.0116498563745923,"ukb-b",86.8497552879914
+"ukb-a-582","Diagnoses - main ICD10: R10 Abdominal and pelvic pain","European","SD",14203,322996,337199,0.0421205282340695,"ukb-a",24.785365344298
+"ukb-a-538","Diagnoses - main ICD10: I83 Varicose veins of lower extremities","European","SD",6958,330241,337199,0.0206346993911607,"ukb-a",49.483127524055
+"ukb-a-551","Diagnoses - main ICD10: K44 Diaphragmatic hernia","European","SD",5321,331878,337199,0.0157799993475663,"ukb-a",64.3873917672274
+"ukb-b-11497","Operation code: tonsillectomy +/- adenoids","European","SD",72111,390822,462933,0.155769841424137,"ukb-b",7.60423902681584
+"ukb-b-11262","Blood sample #, note contents: Poor venous access/flow","European","SD",6176,456824,463000,0.0133390928725702,"ukb-b",75.9811360101132
+"ukb-b-10366","Sweet snack consumers","European","SD",35147,29802,64949,0.54114766971008,"ukb-b",4.02727481084187
+"ukb-b-10260","Types of spreads/sauces consumed: Gravy","European","SD",4302,60647,64949,0.0662365856287241,"ukb-b",16.1683316430909
+"ukb-a-87","Non-cancer illness code  self-reported: osteoporosis","European","SD",5266,331893,337159,0.0156187436787984,"ukb-a",65.0415027158787
+"ukb-b-12304","Why stopped smoking: Doctor's advice","European","SD",8184,105804,113988,0.0717970312664491,"ukb-b",15.0055030654258
+"ukb-b-12511","Type of fat/oil used in cooking: Low fat polyunsaturated margarine","European","SD",2380,62569,64949,0.0366441361683783,"ukb-b",28.3275338043607
+"ukb-a-78","Non-cancer illness code  self-reported: migraine","European","SD",10007,327152,337159,0.0296803585252062,"ukb-a",34.7229036073365
+"ukb-a-569","Diagnoses - main ICD10: M54 Dorsalgia","European","SD",5660,331539,337199,0.0167853404072966,"ukb-a",60.5928669510306
+"ukb-a-594","Diagnoses - main ICD10: Z09 Follow-up examination after treatment for conditions other than malignant neoplasms","European","SD",5162,332037,337199,0.0153084677000821,"ukb-a",66.3388707530934
+"ukb-b-11025","Transport type for commuting to job workplace: Car/motor vehicle","European","SD",194936,50428,245364,0.794476777359352,"ukb-b",6.12432023704154
+"ukb-b-10181","Eye problems/disorders: Diabetes related eye disease","European","SD",2940,147702,150642,0.0195164695104951,"ukb-b",52.2586804539422
+"ukb-b-10001","Operative procedures - secondary OPCS: Z84.6 Knee joint","European","SD",6661,456349,463010,0.0143862983520874,"ukb-b",70.5251802812579
+"ukb-b-12549","Types of spreads/sauces consumed: Oil for drizzling","European","SD",1778,63171,64949,0.0273753252552002,"ukb-b",37.5573921706147
+"ukb-a-555","Diagnoses - main ICD10: K57 Diverticular disease of intestine","European","SD",6865,330334,337199,0.0203588978615002,"ukb-a",50.1393544654495
+"ukb-b-12332","Methods of admission to hospital (recoded): Emergency admission: GP","European","SD",38496,424021,462517,0.0832315352732981,"ukb-b",13.1054648057997
+"ukb-b-11590","Vascular/heart problems diagnosed by doctor: Heart attack","European","SD",10693,451187,461880,0.02315103490084,"ukb-b",44.2183130060795
+"ukb-a-547","Diagnoses - main ICD10: K29 Gastritis and duodenitis","European","SD",8080,329119,337199,0.0239621113941619,"ukb-a",42.7570998955387
+"ukb-b-11615","Qualifications: A levels/AS levels or equivalent","European","SD",123661,334418,458079,0.269955619008948,"ukb-b",5.07409233327073
+"ukb-b-11749","Destinations on discharge from hospital (recoded): Usual Place of residence","European","SD",299164,163673,462837,0.646370104377999,"ukb-b",4.37491647242509
+"ukb-b-10454","Illnesses of mother: None of the above (group 1)","European","SD",176419,249310,425729,0.414392724009875,"ukb-b",4.12079883949508
+"ukb-b-11413","Pain type(s) experienced in last month: Stomach or abdominal pain","European","SD",39646,422211,461857,0.0858404224684264,"ukb-b",12.7434241978773
+"ukb-b-11161","Mouth/teeth dental problems: Painful gums","European","SD",13314,447799,461113,0.0288736166622932,"ukb-b",35.6634259457119
+"ukb-b-10655","Methods of admission to hospital (recoded): Emergency admission","European","SD",25817,436681,462498,0.0558207819277056,"ukb-b",18.9735959185125
+"ukb-b-12506","Vitamin and mineral supplements: Vitamin E","European","SD",13548,446803,460351,0.0294297177588405,"ukb-b",35.0095810194657
+"ukb-a-95","Non-cancer illness code  self-reported: enlarged prostate","European","SD",4609,332550,337159,0.0136701081685496,"ukb-a",74.1661702664529
+"ukb-b-12397","Diagnoses - main ICD10: H26.9 Cataract, unspecified","European","SD",8890,454120,463010,0.0192004492343578,"ukb-b",53.1016910590968
+"ukb-b-11048","Why stopped smoking: Financial reasons","European","SD",27761,86227,113988,0.243543179983858,"ukb-b",5.4280005736962
+"ukb-b-11780","Operative procedures - secondary OPCS: Q18.9 Unspecified diagnostic endoscopic examination of uterus","European","SD",5758,457252,463010,0.0124360165007235,"ukb-b",81.4241938689465
+"ukb-b-10810","Operative procedures - main OPCS: S06.5 Excision of lesion of skin of head or neck NEC","European","SD",10371,452639,463010,0.0223990842530399,"ukb-b",45.6675945859103
+"ukb-b-11679","Type of special diet followed: Vegetarian","European","SD",2202,62747,64949,0.0339035243036844,"ukb-b",30.5305519851668
+"ukb-a-562","Diagnoses - main ICD10: M16 Coxarthrosis [arthrosis of hip]","European","SD",4934,332265,337199,0.014632309111237,"ukb-a",69.3567628479109
+"ukb-b-10567","Vitamin and/or mineral supplement use: Zinc","European","SD",1960,62989,64949,0.0301775239033703,"ukb-b",34.1683614421177
+"ukb-b-11495","Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)","European","SD",236244,224132,460376,0.513154465045962,"ukb-b",4.00277055687843
+"ukb-b-10167","Operation code: vasectomy","European","SD",11330,451603,462933,0.0244743839821313,"ukb-b",41.88413518576
+"ukb-b-11632","Treatment/medication code: atenolol","European","SD",17884,445049,462933,0.0386319402591736,"ukb-b",26.9255008232606
+"ukb-b-11535","Mineral and other dietary supplements: Glucosamine","European","SD",89339,372045,461384,0.193632635722088,"ukb-b",6.40454822915539
+"ukb-b-11297","Doctor diagnosed asthma","European","SD",14283,98300,112583,0.126866400788751,"ukb-b",9.02760774018071
+"ukb-b-12366","Types of spread used on bread/crackers: Normal fat olive spread on bread/crackers","European","SD",2369,62580,64949,0.0364747725138185,"ukb-b",28.4540649159452
+"ukb-b-10284","Treatment/medication code: multivitamins","European","SD",14179,448754,462933,0.0306286222844342,"ukb-b",33.6807958961601
+"ukb-a-94","Non-cancer illness code  self-reported: hayfever/allergic rhinitis","European","SD",19320,317839,337159,0.057302341031976,"ukb-a",18.512079487885
+"ukb-b-11572","Diagnoses - main ICD10: N92.0 Excessive and frequent menstruation with regular cycle","European","SD",6641,456369,463010,0.0143431027407615,"ukb-b",70.7344735195439
+"ukb-b-11895","Treatment/medication code: ramipril","European","SD",21448,441485,462933,0.0463306785215139,"ukb-b",22.632552025393
+"ukb-a-542","Diagnoses - main ICD10: J34 Other disorders of nose and nasal sinuses","European","SD",3433,333766,337199,0.010180931734673,"ukb-a",99.2331228178844
+"ukb-a-85","Non-cancer illness code  self-reported: back problem","European","SD",5901,331258,337159,0.0175021280760709,"ukb-a",58.1537230773376
+"ukb-b-10073","Type of baguette eaten: wholemeal","European","SD",1099,63850,64949,0.0169209687601041,"ukb-b",60.1154833717276
+"ukb-a-536","Diagnoses - main ICD10: I48 Atrial fibrillation and flutter","European","SD",3818,333381,337199,0.0113226907553107,"ukb-a",89.3296818018093
+"ukb-b-12227","Illnesses of siblings: Breast cancer","European","SD",16586,345223,361809,0.0458418668413445,"ukb-b",22.86216465005
+"ukb-b-12276","Meat consumers","European","SD",44775,20174,64949,0.689387057537452,"ukb-b",4.67000479524397
+"ukb-b-11075","Mineral and other dietary supplements: Fish oil (including cod liver oil)","European","SD",145707,315677,461384,0.315804189135297,"ukb-b",4.62808900608046
+"ukb-b-11388","PCT where patients GP was registered: LEEDS PCT","European","SD",9201,453809,463010,0.0198721409904754,"ukb-b",51.3419792122264
+"ukb-b-10169","Guilty feelings","European","SD",129383,321321,450704,0.287068674784337,"ukb-b",4.88614665708148
+"ukb-b-1234","Doctor diagnosed chronic bronchitis","European","SD",1273,111310,112583,0.0113072133448212,"ukb-b",89.4505567171448
+"ukb-a-55","Cancer code  self-reported: breast cancer","European","SD",7480,329679,337159,0.0221853784119659,"ukb-a",46.0974213569404
+"ukb-a-568","Diagnoses - main ICD10: M25 Other joint disorders  not elsewhere classified","European","SD",4908,332291,337199,0.0145552033072459,"ukb-a",69.7187229166091
+"ukb-a-563","Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]","European","SD",6560,330639,337199,0.0194543874685275,"ukb-a",52.4221269550742
+"ukb-a-66","Non-cancer illness code  self-reported: asthma","European","SD",39049,298110,337159,0.115817759573376,"ukb-a",9.76524295958939
+"ukb-b-12621","Ever had stillbirth, spontaneous miscarriage or termination","European","SD",79047,168133,247180,0.319795290881139,"ukb-b",4.59714605066829
+"ukb-a-557","Diagnoses - main ICD10: K62 Other diseases of anus and rectum","European","SD",9853,327346,337199,0.0292201341047868,"ukb-a",35.2530774231787
+"ukb-b-10771","Diagnoses - main ICD10: R07.4 Chest pain, unspecified","European","SD",18203,444807,463010,0.0393144856482581,"ukb-b",26.4768405232762
+"ukb-a-61","Non-cancer illness code  self-reported: hypertension","European","SD",87690,249469,337159,0.26008500440445,"ukb-a",5.19640339554815
+"ukb-b-10827","Operation code: lumpectomy","European","SD",15664,447269,462933,0.0338364298937427,"ukb-b",30.588966782457
+"ukb-b-11666","Operative procedures - main OPCS: Q07.4 Total abdominal hysterectomy NEC","European","SD",8648,454362,463010,0.0186777823373145,"ukb-b",54.5585799978363
+"ukb-b-10911","Diagnoses - secondary ICD10: Z92.2 Personal history of long-term (current) use of other medicaments","European","SD",7915,455095,463010,0.0170946631822207,"ukb-b",59.5151809813168
+"ukb-b-10608","PCT where patients GP was registered: NOTTINGHAMSHIRE COUNTY TEACHING PCT","European","SD",7548,455462,463010,0.0163020237143906,"ukb-b",62.3586495553376
+"ukb-b-11189","Type of special diet followed: Gluten-free","European","SD",1376,63573,64949,0.0211858535158355,"ukb-b",48.2229525483248
+"ukb-b-10979","Gas or solid-fuel cooking/heating: None of the above","European","SD",81433,379965,461398,0.176491879028518,"ukb-b",6.88030018626799
+"ukb-b-11856","Treatment speciality of consultant (recoded): Ophthalmology","European","SD",23749,421629,445378,0.0533232445248755,"ukb-b",19.809874288482
+"ukb-a-62","Non-cancer illness code  self-reported: angina","European","SD",10612,326547,337159,0.0314747641320564,"ukb-a",32.8039827302206
+"ukb-b-11158","Aide-memoire completed","European","SD",370230,92703,462933,0.799748559726785,"ukb-b",6.24411488496971
+"ukb-b-10807","Illnesses of mother: Severe depression","European","SD",28351,394866,423217,0.0669892750054936,"ukb-b",15.999561729834
+"ukb-b-12722","Non-cancer illness code, self-reported: uterine fibroids","European","SD",7122,455811,462933,0.0153845156858552,"ukb-b",66.0160461271529
+"ukb-b-10263","Operative procedures - secondary OPCS: Y80.9 Unspecified general anaesthetic","European","SD",5227,457783,463010,0.0112891730200212,"ukb-b",89.5918657491597
+"ukb-b-12014","Medication for cholesterol, blood pressure or diabetes: None of the above","European","SD",139819,69819,209638,0.666954464362377,"ukb-b",4.50194515214366
+"ukb-b-11020","Diagnoses - main ICD10: K80.2 Calculus of gallbladder without cholecystitis","European","SD",5766,457244,463010,0.0124532947452539,"ukb-b",81.3126450210543
+"ukb-b-10387","Leg pain on walking","European","SD",33509,118044,151553,0.221104168178789,"ukb-b",5.80662380763997
+"ukb-a-71","Non-cancer illness code  self-reported: cholelithiasis/gall stones","European","SD",5573,331586,337159,0.0165292933007869,"ukb-a",61.5154613285643
+"ukb-b-10093","Tense / 'highly strung'","European","SD",78408,369553,447961,0.175033094398843,"ukb-b",6.92537512278961
+"ukb-b-10054","Cheese consumers","European","SD",29408,35541,64949,0.452786032117508,"ukb-b",4.03598742696407
+"ukb-a-68","Non-cancer illness code  self-reported: emphysema/chronic bronchitis","European","SD",4573,332586,337159,0.0135633336200428,"ukb-a",74.7419370127673
+"ukb-b-12064","Non-cancer illness code, self-reported: depression","European","SD",26595,436338,462933,0.057448918093979,"ukb-b",18.4677186453486
+"ukb-b-11247","Main speciality of consultant (recoded): Cardiothoracic surgery","European","SD",5378,455759,461137,0.0116624777452254,"ukb-b",86.756872613768
+"ukb-a-63","Non-cancer illness code  self-reported: heart attack/myocardial infarction","European","SD",7735,329424,337159,0.0229416981305556,"ukb-a",44.6122328019182
+"ukb-b-11765","Treatment speciality of consultant (recoded): Clinical oncology","European","SD",4945,439292,444237,0.0111314456022348,"ukb-b",90.8468482560692
+"ukb-b-12095","Treatment/medication code: lisinopril","European","SD",12787,450146,462933,0.0276217076769209,"ukb-b",37.2318160522663
+"ukb-a-585","Diagnoses - main ICD10: R31 Unspecified haematuria","European","SD",7363,329836,337199,0.0218357705687146,"ukb-a",46.8187377201308
+"ukb-b-10559","Methods of admission to hospital (recoded): Emergency admission: A&E","European","SD",83717,378907,462624,0.180961212561389,"ukb-b",6.74698948155033
+"ukb-b-12741","Operative procedures - secondary OPCS: Z27.2 Stomach","European","SD",22239,440771,463010,0.0480313600138226,"ukb-b",21.8701858743157
+"ukb-b-10806","Gas or solid-fuel cooking/heating: A gas fire that you use regularly in winter time","European","SD",185577,275821,461398,0.402205904663653,"ukb-b",4.15910550094635
+"ukb-a-77","Non-cancer illness code  self-reported: hypothyroidism/myxoedema","European","SD",16376,320783,337159,0.0485705557318654,"ukb-a",21.6396553628325
+"ukb-b-11268","Treatment/medication code: simvastatin","European","SD",52427,410506,462933,0.113249649517317,"ukb-b",9.95776251705931
+"ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis","European","SD",7547,455386,462933,0.0163025751026606,"ukb-b",62.3565754037236
+"ukb-a-82","Non-cancer illness code  self-reported: anxiety/panic attacks","European","SD",4611,332548,337159,0.013676040087911,"ukb-a",74.1344468863372
+"ukb-b-10783","Illnesses of siblings: None of the above (group 2)","European","SD",309513,59166,368679,0.839518931102667,"ukb-b",7.42242294577513
+"ukb-b-12477","Illnesses of mother: Heart disease","European","SD",85620,340620,426240,0.200872747747748,"ukb-b",6.22964126136778
+"ukb-b-10591","Chest pain or discomfort","European","SD",73061,384951,458012,0.159517654559269,"ukb-b",7.45869157822771
+"ukb-b-12301","Treatment/medication code: salbutamol","European","SD",5499,457434,462933,0.0118786087835605,"ukb-b",85.1969641232244
+"ukb-b-1100","Close to major road","European","SD",31833,424547,456380,0.0697510846224637,"ukb-b",15.4116757225738
+"ukb-b-10857","Willing to attempt cognitive tests","European","SD",6371,455922,462293,0.013781303199486,"ukb-b",73.5760520481901
+"ukb-b-12648","Vitamin and mineral supplements: Vitamin D","European","SD",17879,442472,460351,0.0388377564076107,"ukb-b",26.7885473529078
+"ukb-b-1021","Operation code: muscle/soft tissue surgery","European","SD",13359,449574,462933,0.0288573076449508,"ukb-b",35.6829822568134
+"ukb-a-588","Diagnoses - main ICD10: R69 Unknown and unspecified causes of morbidity","European","SD",6717,330482,337199,0.01991998790032,"ukb-a",51.2211585643658
+"ukb-a-74","Non-cancer illness code  self-reported: diabetes","European","SD",13243,323916,337159,0.0392782040520941,"ukb-a",26.5002965761821
+"ukb-a-564","Diagnoses - main ICD10: M20 Acquired deformities of fingers and toes","European","SD",5148,332051,337199,0.0152669491902408,"ukb-a",66.516474893484
+"ukb-b-11015","Operative procedures - main OPCS: Q18.9 Unspecified diagnostic endoscopic examination of uterus","European","SD",6305,456705,463010,0.0136174164704866,"ukb-b",74.4491741654511
+"ukb-b-12510","Diagnoses - main ICD10: R69 Unknown and unspecified causes of morbidity","European","SD",9411,453599,463010,0.0203256949093972,"ukb-b",50.2195573035414
+"ukb-a-559","Diagnoses - main ICD10: K80 Cholelithiasis","European","SD",6986,330213,337199,0.0207177364108435,"ukb-a",49.2889773987061
+"ukb-b-12493","Diagnoses - secondary ICD10: I10 Essential (primary) hypertension","European","SD",54358,408652,463010,0.117401352022635,"ukb-b",9.65080729426825
+"ukb-b-11582","Diagnoses - main ICD10: K62.5 Haemorrhage of anus and rectum","European","SD",9579,453431,463010,0.0206885380445347,"ukb-b",49.3570688048389
+"ukb-b-12651","Diagnoses - secondary ICD10: E78.0 Pure hypercholesterolaemia","European","SD",22622,440388,463010,0.0488585559707134,"ukb-b",21.5186126143125
+"ukb-b-11261","Diagnoses - main ICD10: I84.9 Unspecified haemorrhoids without complication","European","SD",6198,456812,463010,0.0133863199498931,"ukb-b",75.7166979867491
+"ukb-b-11601","Diagnoses - main ICD10: N40 Hyperplasia of prostate","European","SD",4670,458340,463010,0.0100861752445951,"ukb-b",100.155799221079
+"ukb-b-10859","Diagnoses - main ICD10: K57.3 Diverticular disease of large intestine without perforation or abscess","European","SD",8429,454581,463010,0.018204790393296,"ukb-b",55.9491390993061
+"ukb-b-10286","Breakfast cereal consumed","European","SD",42565,22384,64949,0.655360359666815,"ukb-b",4.42745955561217
+"ukb-b-10753","Diabetes diagnosed by doctor","European","SD",22340,439238,461578,0.048399187136302,"ukb-b",21.7123648375946
+"ukb-b-11085","Medication for pain relief, constipation, heartburn: None of the above","European","SD",252893,204654,457547,0.552714803069411,"ukb-b",4.04496137110999
+"ukb-a-554","Diagnoses - main ICD10: K52 Other non-infective gastro-enteritis and colitis","European","SD",6453,330746,337199,0.0191370674290256,"ukb-a",53.2741206988299
+"ukb-b-11484","Diagnoses - secondary ICD10: Z51.1 Chemotherapy session for neoplasm","European","SD",7714,455296,463010,0.0166605472883955,"ukb-b",61.0389806772628
+"ukb-a-81","Non-cancer illness code  self-reported: depression","European","SD",19195,317964,337159,0.056931596071883,"ukb-a",18.6253072555287
+"ukb-a-566","Diagnoses - main ICD10: M23 Internal derangement of knee","European","SD",7489,329710,337199,0.0222094371572869,"ukb-a",46.0486185602623
+"ukb-b-10066","Eye problems/disorders: Other serious eye condition","European","SD",8438,142204,150642,0.056013595146108,"ukb-b",18.9121460125364
+"ukb-a-450","Medication for cholesterol  blood pressure  diabetes  or take exogenous hormones: Blood pressure medication","European","SD",31488,148715,180203,0.174736269651449,"ukb-a",6.93464416838429
+"ukb-a-227","Alcohol drinker status: Previous","European","SD",11518,325447,336965,0.0341815915599543,"ukb-a",30.2909044332333
+"ukb-a-348","Chest pain or discomfort walking normally","European","SD",8816,42659,51475,0.171267605633803,"ukb-a",7.045477924076
+"ukb-a-455","Medication for pain relief  constipation  heartburn: Paracetamol","European","SD",72882,260699,333581,0.21848366663569,"ukb-a",5.85656496811304
+"ukb-a-36","Handedness (chirality/laterality): Left-handed","European","SD",32442,304688,337130,0.0962299409723252,"ukb-a",11.4982522256816
+"ukb-a-489","Medication for cholesterol  blood pressure or diabetes: None of the above","European","SD",103004,51698,154702,0.665822032035785,"ukb-a",4.49432034036887
+"ukb-a-236","Ever smoked","European","SD",202585,133482,336067,0.602811344166491,"ukb-a",4.17658906743938
+"ukb-a-255","Doctor diagnosed asthma","European","SD",10589,72940,83529,0.126770343234086,"ukb-a",9.03345440657942
+"ukb-a-438","Fractured bone site(s): Ankle","European","SD",4693,330853,335546,0.0139861598707778,"ukb-a",72.5134387556113
+"ukb-a-241","Risk taking","European","SD",82808,243013,325821,0.254151819557364,"ukb-a",5.27541150471404
+"ukb-a-482","Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport)","European","SD",241930,93669,335599,0.720890109922854,"ukb-a",4.96999219755359
+"ukb-a-413","Illness  injury  bereavement  stress in last 2 years: Serious illness  injury or assault to yourself","European","SD",30762,304457,335219,0.0917668747893168,"ukb-a",11.9982172356699
+"ukb-a-436","Vascular/heart problems diagnosed by doctor: Angina","European","SD",10618,326065,336683,0.0315370838444472,"ukb-a",32.7412662631182
+"ukb-a-239","Loneliness  isolation","European","SD",58752,273511,332263,0.176823781161309,"ukb-a",6.87015462014741
+"ukb-a-176","Treatment/medication code: atorvastatin","European","SD",10167,326992,337159,0.0301549120741253,"ukb-a",34.1931855499218
+"ukb-a-340","Hearing aid user","European","SD",10322,193918,204240,0.0505385820603212,"ukb-a",20.8400916953336
+"ukb-a-427","Mouth/teeth dental problems: Mouth ulcers","European","SD",34398,301740,336138,0.102332970387162,"ukb-a",10.8860204360844
+"ukb-a-298","Ever had prostate specific antigen (PSA) test","European","SD",46523,101447,147970,0.314408326012029,"ukb-a",4.63917149159255
+"ukb-a-380","Shortness of breath walking on level ground","European","SD",11459,98049,109508,0.104640756839683,"ukb-a",10.6733759396591
+"ukb-a-495","Mineral and other dietary supplements: Calcium","European","SD",22047,314267,336314,0.0655548088988267,"ukb-a",16.3245647537691
+"ukb-a-481","Types of transport used (excluding work): Cycle","European","SD",23918,311732,335650,0.0712587516758528,"ukb-a",15.1100901558612
+"ukb-a-160","Treatment/medication code: warfarin","European","SD",3404,333755,337159,0.0100961267532529,"ukb-a",100.058083939504
+"ukb-a-421","Reason for glasses/contact lenses: For just reading/near work as you are getting older (called 'presbyopia')","European","SD",29144,306556,335700,0.0868156091748585,"ukb-a",12.6137350248192
+"ukb-a-53","Worry too long after embarrassment","European","SD",154615,169151,323766,0.477551688565198,"ukb-a",4.00807911210114
+"ukb-a-475","Pain type(s) experienced in last month: Hip pain","European","SD",37714,298936,336650,0.112027328085549,"ukb-a",10.0525541653471
+"ukb-a-476","Pain type(s) experienced in last month: Knee pain","European","SD",71561,265089,336650,0.212567948908362,"ukb-a",5.97432892973082
+"ukb-a-410","Transport type for commuting to job workplace: Walk","European","SD",27862,149688,177550,0.156924809912701,"ukb-a",7.55861246977183
+"ukb-a-462","Vitamin and mineral supplements: Vitamin D","European","SD",12510,323081,335591,0.0372775193613655,"ukb-a",27.8645402844744
+"ukb-a-295","Chest pain or discomfort","European","SD",51937,282116,334053,0.155475328765196,"ukb-a",7.61598666490429
+"ukb-a-327","Type of tobacco previously smoked: Cigars or pipes","European","SD",3887,78868,82755,0.0469699716029243,"ukb-a",22.3394829772853
+"ukb-a-154","Treatment/medication code: cetirizine","European","SD",3821,333338,337159,0.0113329319401232,"ukb-a",89.2498821014936
+"ukb-a-122","Treatment/medication code: ventolin 100micrograms inhaler","European","SD",9712,327447,337159,0.0288054004193867,"ukb-a",35.7453722823255
+"ukb-a-172","Treatment/medication code: co-codamol","European","SD",7861,329298,337159,0.0233154090503294,"ukb-a",43.9139623136616
+"ukb-a-136","Treatment/medication code: ibuprofen","European","SD",41952,295207,337159,0.124427940526576,"ukb-a",9.17889058098244
+"ukb-a-259","Bring up phlegm/sputum/mucus on most days","European","SD",6998,76531,83529,0.0837792862359181,"ukb-a",13.0275646770676
+"ukb-a-470","Pain type(s) experienced in last month: None of the above","European","SD",136199,200451,336650,0.404571513441259,"ukb-a",4.15121370527297
+"ukb-a-432","Mouth/teeth dental problems: Toothache","European","SD",13290,322848,336138,0.0395373328811381,"ukb-a",26.3337156726131
+"ukb-a-415","Illness  injury  bereavement  stress in last 2 years: Serious illness  injury or assault of a close relative","European","SD",38516,296703,335219,0.114898021890167,"ukb-a",9.8331833430388
+"ukb-a-451","Medication for cholesterol  blood pressure  diabetes  or take exogenous hormones: Hormone replacement therapy","European","SD",13365,166838,180203,0.0741663568309074,"ukb-a",14.56331004365
+"ukb-a-491","Medication for cholesterol  blood pressure or diabetes: Insulin","European","SD",2116,152586,154702,0.0136779097878502,"ukb-a",74.1244536007671
+"ukb-a-471","Pain type(s) experienced in last month: Facial pain","European","SD",6118,330532,336650,0.018173176889945,"ukb-a",56.0446618916594
+"ukb-a-258","Cough on most days","European","SD",11424,72105,83529,0.136766871385986,"ukb-a",8.47014779960247
+"ukb-a-162","Treatment/medication code: perindopril","European","SD",4822,332337,337159,0.014301857580548,"ukb-a",70.9354965107671
+"ukb-a-492","Mineral and other dietary supplements: Fish oil (including cod liver oil)","European","SD",106738,229576,336314,0.317376023596996,"ukb-a",4.61577198710179
+"ukb-a-366","Non-accidental death in close genetic family","European","SD",28680,76889,105569,0.27167066089477,"ukb-a",5.05393271691465
+"ukb-a-170","Treatment/medication code: citalopram","European","SD",5758,331401,337159,0.0170779958417245,"ukb-a",59.5722548879837
+"ukb-a-117","Treatment/medication code: ramipril","European","SD",15787,321372,337159,0.0468236054799071,"ukb-a",22.4058729809374
+"ukb-a-347","Ever had hysterectomy (womb removed)","European","SD",13060,146619,159679,0.0817890893605296,"ukb-a",13.315644082134
+"ukb-a-107","Non-cancer illness code  self-reported: gout","European","SD",4807,332352,337159,0.0142573681853369,"ukb-a",71.1536356215557
+"ukb-a-308","Fractured/broken bones in last 5 years","European","SD",32193,303394,335587,0.0959304144677833,"ukb-a",11.5303322044207
+"ukb-a-321","Ever had stillbirth  spontaneous miscarriage or termination","European","SD",56172,122302,178474,0.314734919372009,"ukb-a",4.63656623538456
+"ukb-a-464","Vitamin and mineral supplements: Multivitamins +/- minerals","European","SD",71695,263896,335591,0.213638029625348,"ukb-a",5.95249355644042
+"ukb-a-402","Qualifications: NVQ or HND or HNC or equivalent","European","SD",62848,271222,334070,0.18812823659712,"ukb-a",6.54724478250928
+"ukb-a-219","Illnesses of siblings: None of the above (group 2)","European","SD",224596,40908,259921,0.864093320662817,"ukb-a",8.51527250130665
+"ukb-a-208","Illnesses of father: Diabetes","European","SD",28197,265210,292053,0.096547544452548,"ukb-a",11.4644563413508
+"ukb-a-228","Home area population density - urban or rural: Scotland - Large Urban Area","European","SD",18867,315130,333997,0.0564885313341138,"ukb-a",18.7625789623359
+"ukb-a-496","Mineral and other dietary supplements: Zinc","European","SD",13151,323163,336314,0.0391033379520329,"ukb-a",26.6139590245179
+"ukb-a-431","Mouth/teeth dental problems: Loose teeth","European","SD",13238,322900,336138,0.0393826345132059,"ukb-a",26.4328993127745
+"ukb-a-326","Had other major operations","European","SD",120566,59001,179567,0.671426264291323,"ukb-a",4.5328237103943
+"ukb-a-490","Medication for cholesterol  blood pressure or diabetes: Blood pressure medication","European","SD",38548,116154,154702,0.249175834830836,"ukb-a",5.34510001749207
+"ukb-a-316","Had menopause","European","SD",111605,40430,152035,0.734074390765284,"ukb-a",5.12270991615901
+"ukb-a-128","Treatment/medication code: tramadol","European","SD",3724,333435,337159,0.011045233851091,"ukb-a",91.5479569931493
+"ukb-a-307","Cancer diagnosed by doctor","European","SD",26576,309696,336272,0.079031260408241,"ukb-a",13.7390341357765
+"ukb-a-401","Qualifications: CSEs or equivalent","European","SD",44362,289708,334070,0.132792528511989,"ukb-a",8.68367075585075
+"ukb-a-14","Snoring","European","SD",117812,196637,314449,0.37466170984802,"ukb-a",4.26820890331495
+"ukb-a-261","Hearing difficulty/problems with background noise","European","SD",125089,205670,330759,0.378187743946499,"ukb-a",4.25239179744378
+"ukb-a-218","Illnesses of siblings: None of the above (group 1)","European","SD",178376,84358,259921,0.686270058979459,"ukb-a",4.64460708705488
+"ukb-a-305","Had major operations","European","SD",99647,55398,155045,0.642697281434422,"ukb-a",4.35468972413665
+"ukb-a-47","Irritability","European","SD",90282,232386,322668,0.279798430584998,"ukb-a",4.96250162990969
+"ukb-a-51","Worrier / anxious feelings","European","SD",186559,142158,328717,0.56753681738395,"ukb-a",4.07433579541081
+"ukb-a-429","Mouth/teeth dental problems: Painful gums","European","SD",9287,326851,336138,0.0276285335189714,"ukb-a",37.222878940188
+"ukb-a-177","Treatment/medication code: candesartan cilexetil","European","SD",3647,333512,337159,0.0108168549556737,"ukb-a",93.4592488212444
+"ukb-a-409","Transport type for commuting to job workplace: Car/motor vehicle","European","SD",142996,34554,177550,0.805384398760912,"ukb-a",6.37997732442417
+"ukb-a-325","Bilateral oophorectomy (both ovaries removed)","European","SD",14702,163974,178676,0.0822830150663771,"ukb-a",13.2428369945216
+"ukb-a-434","Vascular/heart problems diagnosed by doctor: Heart attack","European","SD",7790,328893,336683,0.0231374913494296,"ukb-a",44.2435828189781
+"ukb-a-353","Knee pain for 3+ months","European","SD",55910,15082,70992,0.78755352715799,"ukb-a",5.97682299144691
+"ukb-a-494","Mineral and other dietary supplements: Glucosamine","European","SD",65971,270343,336314,0.196158946698621,"ukb-a",6.34193368828049
+"ukb-a-211","Illnesses of mother: None of the above (group 1)","European","SD",129391,181873,308780,0.419039445559946,"ukb-a",4.10769744150454
+"ukb-a-484","Types of physical activity in last 4 weeks: Other exercises (eg: swimming  cycling  keep fit  bowling)","European","SD",162803,172796,335599,0.485111695803623,"ukb-a",4.0035497329875
+"ukb-a-477","Pain type(s) experienced in last month: Pain all over the body","European","SD",5099,331551,336650,0.0151462943710085,"ukb-a",67.0381287914946
+"ukb-a-240","Guilty feelings","European","SD",92945,235824,328769,0.28270609455271,"ukb-a",4.93137112744559
+"ukb-a-257","Hearing difficulty/problems: Yes","European","SD",84839,239139,323978,0.261866546493898,"ukb-a",5.17350758888882
+"ukb-a-212","Illnesses of mother: None of the above (group 2)","European","SD",241462,71488,308780,0.78198717533519,"ukb-a",5.86567947308887
+"ukb-a-233","Reproduciblity of spirometry measurement using ERS/ATS criteria","European","SD",199585,55907,255492,0.7811790584441,"ukb-a",5.85006275952557
+"ukb-a-45","Mood swings","European","SD",148601,180827,329428,0.451087946379786,"ukb-a",4.03864806868548
+"ukb-a-439","Fractured bone site(s): Wrist","European","SD",6663,328883,335546,0.019857187986148,"ukb-a",51.3798572631542
+"ukb-a-252","Long-standing illness  disability or infirmity","European","SD",107123,222540,329663,0.32494699132144,"ukb-a",4.55879016394158
+"ukb-a-131","Treatment/medication code: atenolol","European","SD",13184,323975,337159,0.0391032124309302,"ukb-a",26.6140409786148
+"ukb-a-206","Illnesses of father: Chronic bronchitis/emphysema","European","SD",33805,260875,292053,0.115749538611142,"ukb-a",9.7702445965851
+"ukb-a-354","Headaches for 3+ months","European","SD",29979,35604,65583,0.457115411005901,"ukb-a",4.02964347540751
+"ukb-a-465","Why stopped smoking: None of the above","European","SD",16472,65610,82082,0.200677371409079,"ukb-a",6.23418216492454
+"ukb-a-412","Transport type for commuting to job workplace: Cycle","European","SD",13527,164023,177550,0.0761869895803999,"ukb-a",14.2080707919334
+"ukb-a-346","Back pain for 3+ months","European","SD",57893,26596,84489,0.685213459740321,"ukb-a",4.63615513966588
+"ukb-a-194","Treatment/medication code: paracetamol","European","SD",62050,275109,337159,0.184037798190171,"ukb-a",6.65921336308721
+"ukb-a-183","Treatment/medication code: seretide 50 evohaler","European","SD",3961,333198,337159,0.0117481662954274,"ukb-a",86.131554577278
+"ukb-a-145","Treatment/medication code: ranitidine","European","SD",5481,331678,337159,0.0162564250101584,"ukb-a",62.5306648189842
+"ukb-a-38","Adopted as a child","European","SD",4567,332176,336743,0.0135622715245751,"ukb-a",74.7477097603528
+"ukb-a-159","Treatment/medication code: metformin","European","SD",8392,328767,337159,0.0248903336408045,"ukb-a",41.2017649517393
+"ukb-a-210","Illnesses of mother: Alzheimer's disease/dementia","European","SD",26757,283086,308780,0.086653928363236,"ukb-a",12.6350329564098
+"ukb-a-448","Medication for cholesterol  blood pressure  diabetes  or take exogenous hormones: Cholesterol lowering medication","European","SD",22705,157498,180203,0.125996792506229,"ukb-a",9.08087053654529
+"ukb-a-426","Eye problems/disorders: Cataract","European","SD",10475,98342,108817,0.0962625325087073,"ukb-a",11.4947737924381
+"ukb-a-419","Reason for glasses/contact lenses: For short-sightedness  i.e. only or mainly for distance viewing such as driving  cinema etc (called 'myopia')","European","SD",26943,308757,335700,0.0802591599642538,"ukb-a",13.5468998103688
+"ukb-a-109","Non-cancer illness code  self-reported: hiatus hernia","European","SD",7865,329294,337159,0.0233272728890523,"ukb-a",43.8921616089095
+"ukb-a-521","Diagnoses - main ICD10: D12 Benign neoplasm of colon  rectum  anus and anal canal","European","SD",4794,332405,337199,0.0142171240128233,"ukb-a",71.3521359746594
+"ukb-a-222","Illnesses of siblings: High blood pressure","European","SD",54270,208091,259921,0.20879421054859,"ukb-a",6.053298511673
+"ukb-a-207","Illnesses of father: High blood pressure","European","SD",66341,228609,292053,0.227153975477054,"ukb-a",5.69621903583378
+"ukb-a-378","Ever highly irritable/argumentative for 2 days","European","SD",19265,89660,108925,0.176864815239844,"ukb-a",6.86890309262451
+"ukb-a-158","Treatment/medication code: thyroxine product","European","SD",3917,333242,337159,0.0116176640694746,"ukb-a",87.0875775548408
+"ukb-a-480","Types of transport used (excluding work): Public transport","European","SD",99542,236108,335650,0.296564874124832,"ukb-a",4.79353870343126
+"ukb-a-377","Ever manic/hyper for 2 days","European","SD",5987,102747,108734,0.0550609744882006,"ukb-a",19.2199529891011
+"ukb-a-306","Diabetes diagnosed by doctor","European","SD",16183,320290,336473,0.0480959839273879,"ukb-a",21.8422828675429
+"ukb-a-314","Reason for reducing amount of alcohol drunk: Health precaution","European","SD",40728,84070,124798,0.326351383836279,"ukb-a",4.5486353212732
+"ukb-a-383","Tinnitus: Yes  now most or all of the time","European","SD",7214,102197,109411,0.0659348694372595,"ukb-a",16.2370709971024
+"ukb-a-423","Eye problems/disorders: Diabetes related eye disease","European","SD",2072,106745,108817,0.0190411424685481,"ukb-a",53.5372678880911
+"ukb-a-202","Illnesses of father: None of the above (group 1)","European","SD",109206,185585,292053,0.373925280685355,"ukb-a",4.27158452211168
+"ukb-a-126","Treatment/medication code: lansoprazole","European","SD",12071,325088,337159,0.035802099306262,"ukb-a",28.9684544899486
+"ukb-a-37","Handedness (chirality/laterality): Use both right and left hands equally","European","SD",5517,331613,337130,0.016364607124848,"ukb-a",62.1241228153596
+"ukb-a-533","Diagnoses - main ICD10: I21 Acute myocardial infarction","European","SD",3927,333272,337199,0.0116459420105042,"ukb-a",86.8786026231577
+"ukb-a-190","Treatment/medication code: levothyroxine sodium","European","SD",13717,323442,337159,0.0406840689407668,"ukb-a",25.6220551533874
+"ukb-a-457","Medication for pain relief  constipation  heartburn: Laxatives (e.g. Dulcolax  Senokot)","European","SD",9565,324017,333581,0.0286736954442849,"ukb-a",35.904690037378
+"ukb-a-31","Alcohol usually taken with meals","European","SD",116941,55513,172454,0.678099667157619,"ukb-a",4.58126108741727
+"ukb-a-408","Current employment status: Doing unpaid or voluntary work","European","SD",12407,323845,336252,0.0368979217967477,"ukb-a",28.1401089103781
+"ukb-a-440","Fractured bone site(s): Arm","European","SD",3391,332155,335546,0.0101059169234621,"ukb-a",99.9621406727337
+"ukb-a-404","Current employment status: In paid employment or self-employed","European","SD",190779,145473,336252,0.567369116020128,"ukb-a",4.07396026833599
+"ukb-a-442","Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: None of the above","European","SD",228530,108252,336782,0.67856951974868,"ukb-a",4.58478099171641
+"ukb-a-422","Reason for glasses/contact lenses: For 'astigmatism'","European","SD",8864,326836,335700,0.026404527852249,"ukb-a",38.8994130541983
+"ukb-a-407","Current employment status: Unable to work because of sickness or disability","European","SD",12554,323698,336252,0.037335093917657,"ukb-a",27.8232342341671
+"ukb-a-256","Other eye problems","European","SD",47823,288605,336428,0.142149286028511,"ukb-a",8.2005616943342
+"ukb-a-384","Tinnitus: Yes  now some of the time","European","SD",9796,99615,109411,0.0895339591083164,"ukb-a",12.267285112403
+"ukb-a-246","Seen doctor (GP) for nerves  anxiety  tension or depression","European","SD",115328,219780,335108,0.344151736156702,"ukb-a",4.43043798578621
+"ukb-a-403","Qualifications: Other professional qualifications eg: nursing  teaching","European","SD",97524,236546,334070,0.291926841679887,"ukb-a",4.83779921640296
+"ukb-a-458","Vitamin and mineral supplements: Vitamin A","European","SD",6173,329418,335591,0.018394414629713,"ukb-a",55.3830676370394
+"ukb-a-466","Why stopped smoking: Doctor's advice","European","SD",5875,76207,82082,0.0715747666967179,"ukb-a",15.0484969108495
+"ukb-a-493","Mineral and other dietary supplements: None of the above","European","SD",191371,144943,336314,0.569024780413542,"ukb-a",4.07771173036445
+"ukb-a-453","Medication for pain relief  constipation  heartburn: None of the above","European","SD",184936,148645,333581,0.554396083709804,"ukb-a",4.04790999277895
+"ukb-a-414","Illness  injury  bereavement  stress in last 2 years: None of the above","European","SD",189518,145701,335219,0.565355782339307,"ukb-a",4.06953000843573
+"ukb-a-485","Types of physical activity in last 4 weeks: Strenuous sports","European","SD",34693,300906,335599,0.103376350942643,"ukb-a",10.7886874689869
+"ukb-a-39","Maternal smoking around birth","European","SD",88601,201126,289727,0.305808571517325,"ukb-a",4.71054437086095
+"ukb-a-146","Treatment/medication code: amitriptyline","European","SD",6403,330756,337159,0.0189910398358045,"ukb-a",53.6757697386409
+"ukb-a-479","Types of transport used (excluding work): Walk","European","SD",165354,170296,335650,0.492638164754953,"ukb-a",4.00086733391706
+"ukb-a-40","Father still alive","European","SD",76074,252620,328694,0.231443226831034,"ukb-a",5.62185409384348
+"ukb-a-324","Ever used hormone-replacement therapy (HRT)","European","SD",71377,109254,180631,0.395153655795517,"ukb-a",4.18397360187335
+"ukb-a-50","Nervous feelings","European","SD",77767,250958,328725,0.236571602403225,"ukb-a",5.53693057185538
+"ukb-a-224","Smoking status: Previous","European","SD",118419,217605,336024,0.352412327690879,"ukb-a",4.38177764362286
+"ukb-a-474","Pain type(s) experienced in last month: Stomach or abdominal pain","European","SD",28098,308552,336650,0.0834635377989009,"ukb-a",13.0723438733887
+"ukb-a-488","Medication for cholesterol  blood pressure or diabetes: Cholesterol lowering medication","European","SD",35840,118862,154702,0.231671213041848,"ukb-a",5.61798819312823
+"ukb-a-473","Pain type(s) experienced in last month: Back pain","European","SD",85221,251429,336650,0.253144215060152,"ukb-a",5.2892639913691
+"ukb-a-397","Qualifications: College or University degree","European","SD",106305,227765,334070,0.318211752028018,"ukb-a",4.60929255810063
+"ukb-a-463","Vitamin and mineral supplements: Vitamin E","European","SD",9479,326112,335591,0.0282456919285678,"ukb-a",36.4326957758076
+"ukb-a-452","Medication for pain relief  constipation  heartburn: Aspirin","European","SD",46946,286635,333581,0.140733435057752,"ukb-a",8.26941521133679
+"ukb-a-461","Vitamin and mineral supplements: Vitamin C","European","SD",28536,307055,335591,0.085032077737484,"ukb-a",12.8532022225512
+"ukb-a-253","Wears glasses or contact lenses","European","SD",301012,35907,336919,0.893425422727718,"ukb-a",10.5023883912992
+"ukb-a-301","Hair/balding pattern: Pattern 2","European","SD",35563,0,154988,0.229456474049604,"ukb-a",5.65591023842435
+"ukb-a-428","Mouth/teeth dental problems: None of the above","European","SD",204310,131828,336138,0.607815837542914,"ukb-a",4.19505767781114
+"ukb-a-420","Reason for glasses/contact lenses: For long-sightedness  i.e. for distance and near  but particularly for near tasks like reading (called 'hypermetropia')","European","SD",13923,321777,335700,0.0414745308310992,"ukb-a",25.154452031012
+"ukb-a-309","Other serious medical condition/disability diagnosed by doctor","European","SD",67968,263306,331274,0.20517154983488,"ukb-a",6.13210322625671
+"ukb-a-100","Non-cancer illness code  self-reported: psoriasis","European","SD",3871,333288,337159,0.0114812299241604,"ukb-a",88.1102970905619
+"ukb-a-102","Non-cancer illness code  self-reported: diverticular disease/diverticulitis","European","SD",3840,333319,337159,0.0113892851740573,"ukb-a",88.813343412048
+"ukb-a-417","Illness  injury  bereavement  stress in last 2 years: Marital separation/divorce","European","SD",9980,325239,335219,0.0297715821597224,"ukb-a",34.61976328325
+"ukb-a-254","Doctor diagnosed hayfever or allergic rhinitis","European","SD",18934,64595,83529,0.226675765303068,"ukb-a",5.70470628258939
+"ukb-a-201","Illnesses of father: Heart disease","European","SD",97385,200852,292053,0.333449750558974,"ukb-a",4.49921459527863
+"ukb-a-302","Hair/balding pattern: Pattern 3","European","SD",41584,113404,154988,0.268304642940099,"ukb-a",5.09379558513245
+"ukb-a-220","Illnesses of siblings: Severe depression","European","SD",18239,242505,259921,0.0701713212860831,"ukb-a",15.3263030562923
+"ukb-a-209","Illnesses of mother: Heart disease","European","SD",62065,249541,308780,0.201000712481378,"ukb-a",6.22667231454177
+"ukb-a-52","Tense / 'highly strung'","European","SD",56012,271220,327232,0.171169078818697,"ukb-a",7.04869536973818
+"ukb-a-497","Mineral and other dietary supplements: Selenium","European","SD",7822,328492,336314,0.0232580267250248,"ukb-a",44.0197208178976
+"ukb-a-398","Qualifications: None of the above","European","SD",57567,276503,334070,0.172320172418954,"ukb-a",7.01134776697364
+"ukb-a-106","Non-cancer illness code  self-reported: osteoarthritis","European","SD",28257,308902,337159,0.083809122698786,"ukb-a",13.0233509011644
+"ukb-a-33","Breastfed as a baby","European","SD",181621,74260,255881,0.709786971287434,"ukb-a",4.85461810407855
+"ukb-a-229","Home area population density - urban or rural: England/Wales - Village - less sparse","European","SD",17271,316726,333997,0.0517100452998081,"ukb-a",20.3931320641214
+"ukb-a-247","Seen a psychiatrist for nerves  anxiety  tension or depression","European","SD",38008,297880,335888,0.113156766541228,"ukb-a",9.96489241577123
+"ukb-a-310","Taking other prescription medications","European","SD",158113,178217,336330,0.47011268694437,"ukb-a",4.01434327230391
+"ukb-a-200","Suffer from 'nerves'","European","SD",69352,255896,325248,0.213228059818969,"ukb-a",5.96083063116291
+"ukb-a-116","Treatment/medication code: lisinopril","European","SD",9393,327766,337159,0.0278592592812293,"ukb-a",36.9233664656229
+"ukb-a-424","Eye problems/disorders: Glaucoma","European","SD",4758,104059,108817,0.0437247856493011,"ukb-a",23.9160477257945
+"ukb-a-447","Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Hayfever  allergic rhinitis or eczema","European","SD",77891,258891,336782,0.231280175306281,"ukb-a",5.62462419653754
+"ukb-a-518","Diagnoses - main ICD10: C44 Other malignant neoplasms of skin","European","SD",4826,332373,337199,0.0143120234638893,"ukb-a",70.8858418374368
+"ukb-a-215","Illnesses of mother: High blood pressure","European","SD",94817,216864,308780,0.307069758404042,"ukb-a",4.69973572058223
+"ukb-a-221","Illnesses of siblings: Stroke","European","SD",8481,252005,259921,0.0326291450094452,"ukb-a",31.6811769518269
+"ukb-a-142","Treatment/medication code: allopurinol","European","SD",3819,333340,337159,0.0113270000207617,"ukb-a",89.2960862550227
+"ukb-a-213","Illnesses of mother: Breast cancer","European","SD",25865,283784,308780,0.0837651402292895,"ukb-a",13.0295635630824
+"ukb-a-226","Alcohol drinker status: Never","European","SD",10432,326533,336965,0.0309587049100055,"ukb-a",33.333040557793
+"ukb-a-169","Treatment/medication code: evening primrose oil","European","SD",5336,331823,337159,0.0158263608564505,"ukb-a",64.2018005025674
+"ukb-a-48","Sensitivity / hurt feelings","European","SD",182340,145492,327832,0.556199516825691,"ukb-a",4.05118076545218
+"ukb-a-446","Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Asthma","European","SD",38791,297991,336782,0.115181333919271,"ukb-a",9.81213738324682
+"ukb-a-435","Vascular/heart problems diagnosed by doctor: None of the above","European","SD",236530,100153,336683,0.702530273283771,"ukb-a",4.78511282333641
+"ukb-a-105","Non-cancer illness code  self-reported: rheumatoid arthritis","European","SD",3730,333429,337159,0.0110630296091755,"ukb-a",91.4023396044048
+"ukb-a-193","Treatment/medication code: bendroflumethiazide","European","SD",19084,318075,337159,0.0566023745473204,"ukb-a",18.7271017606784
+"ukb-a-205","Illnesses of father: Lung cancer","European","SD",27424,266718,292053,0.0939007645872496,"ukb-a",11.7531724255055
+"ukb-a-405","Current employment status: Retired","European","SD",125766,210486,336252,0.374023054137968,"ukb-a",4.27113490501643
+"ukb-a-203","Illnesses of father: None of the above (group 2)","European","SD",222710,75577,292053,0.762567068306095,"ukb-a",5.52307573891503
+"ukb-a-449","Medication for cholesterol  blood pressure  diabetes  or take exogenous hormones: None of the above","European","SD",124239,55964,180203,0.689439132533865,"ukb-a",4.67043506806109
+"ukb-a-443","Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Blood clot in the leg (DVT)","European","SD",6905,329877,336782,0.0205028772321561,"ukb-a",49.794574332565
+"ukb-a-149","Treatment/medication code: doxazosin","European","SD",3803,333356,337159,0.0112795446658698,"ukb-a",89.6674692287109
+"ukb-a-472","Pain type(s) experienced in last month: Neck or shoulder pain","European","SD",76404,260246,336650,0.226953809594534,"ukb-a",5.69976668541504
+"ukb-a-430","Mouth/teeth dental problems: Bleeding gums","European","SD",43469,292669,336138,0.129318910685492,"ukb-a",8.88134724159503
+"ukb-a-469","Pain type(s) experienced in last month: Headache","European","SD",66967,269683,336650,0.198921728798455,"ukb-a",6.27542037045751
+"ukb-a-444","Blood clot  DVT  bronchitis  emphysema  asthma  rhinitis  eczema  allergy diagnosed by doctor: Emphysema/chronic bronchitis","European","SD",5599,331183,336782,0.0166249977730401,"ukb-a",61.1672900581419
+"ukb-a-433","Mouth/teeth dental problems: Dentures","European","SD",56894,279244,336138,0.169257864329531,"ukb-a",7.11188793449357
+"ukb-a-460","Vitamin and mineral supplements: Vitamin B","European","SD",13498,322093,335591,0.0402215792437819,"ukb-a",25.9041830437651
+"ukb-a-478","Types of transport used (excluding work): Car/motor vehicle","European","SD",268888,66762,335650,0.801096380157903,"ukb-a",6.27584983890163
+"ukb-a-217","Illnesses of siblings: Heart disease","European","SD",26382,235200,259921,0.101500071175473,"ukb-a",10.9651759827424
+"ukb-a-322","Ever taken oral contraceptive pill","European","SD",149365,31384,180749,0.8263669508545,"ukb-a",6.96938839903608
+"ukb-a-534","Diagnoses - main ICD10: I25 Chronic ischaemic heart disease","European","SD",8755,328444,337199,0.0259638966900851,"ukb-a",39.5416759786402
+"ukb-a-467","Why stopped smoking: Health precaution","European","SD",51560,30522,82082,0.628152335469409,"ukb-a",4.2812438308371
+"ukb-a-296","Ever had bowel cancer screening","European","SD",107072,224939,332011,0.322495339009852,"ukb-a",4.57682461465903
+"ukb-a-528","Diagnoses - main ICD10: G56 Mononeuropathies of upper limb","European","SD",5886,331313,337199,0.0174555677804501,"ukb-a",58.3060769247998
+"ukb-a-486","Types of physical activity in last 4 weeks: Light DIY (eg: pruning  watering the lawn)","European","SD",175376,160223,335599,0.522576050584179,"ukb-a",4.00817150831369
+"ukb-a-329","Ever stopped smoking for 6+ months","European","SD",35064,46474,81538,0.430032622826167,"ukb-a",4.07989135324326
+"ukb-a-425","Eye problems/disorders: Injury or trauma resulting in loss of vision","European","SD",1998,106819,108817,0.0183611016661,"ukb-a",55.4816675005452
+"ukb-a-132","Treatment/medication code: aspirin","European","SD",45012,292147,337159,0.133503777149653,"ukb-a",8.64449789633886
+"ukb-a-121","Treatment/medication code: simvastatin","European","SD",38492,298667,337159,0.114165720031202,"ukb-a",9.88807603664796
+"ukb-a-171","Treatment/medication code: alendronate sodium","European","SD",3773,333386,337159,0.0111905658754475,"ukb-a",90.3723031647032
+"ukb-a-441","Fractured bone site(s): Other bones","European","SD",17380,318166,335546,0.0517961769772252,"ukb-a",20.3610697615369
+"ukb-a-49","Fed-up feelings","European","SD",134124,196425,330549,0.405761324342231,"ukb-a",4.14732850314474
+"ukb-a-418","Illness  injury  bereavement  stress in last 2 years: Financial difficulties","European","SD",37284,297935,335219,0.111222812549408,"ukb-a",10.1161026601505
+"ukb-a-381","Leg pain on walking","European","SD",24101,86236,110337,0.218430807435402,"ukb-a",5.85758604064721
+"ukb-a-214","Illnesses of mother: Chronic bronchitis/emphysema","European","SD",18252,291541,308780,0.0591100459874344,"ukb-a",17.9804216202932
+"ukb-a-225","Smoking status: Current","European","SD",33928,302096,336024,0.100968978406304,"ukb-a",11.0163407380001
+"ukb-a-129","Treatment/medication code: omeprazole","European","SD",19668,317491,337159,0.058334495000875,"ukb-a",18.2044639743485
+"ukb-a-341","Neck/shoulder pain for 3+ months","European","SD",52253,23398,75651,0.690711292646495,"ukb-a",4.68100796438819
+"ukb-a-416","Illness  injury  bereavement  stress in last 2 years: Death of a close relative","European","SD",69921,265298,335219,0.208583045710416,"ukb-a",6.05780996817843
+"ukb-a-459","Vitamin and mineral supplements: None of the above","European","SD",231424,104167,335591,0.689601330190619,"ukb-a",4.6717765027903
+"ukb-a-223","Illnesses of siblings: Diabetes","European","SD",21747,239328,259921,0.0836677298102116,"ukb-a",13.0433465573307
+"ukb-a-303","Hair/balding pattern: Pattern 4","European","SD",28389,126599,154988,0.183169019536996,"ukb-a",6.68368199235438
+"ukb-a-46","Miserableness","European","SD",141755,190101,331856,0.427158164987223,"ukb-a",4.08673578385483
+"ukb-a-437","Vascular/heart problems diagnosed by doctor: High blood pressure","European","SD",91033,245650,336683,0.270381931965677,"ukb-a",5.06905207631674
+"ukb-a-151","Treatment/medication code: salbutamol","European","SD",3972,333187,337159,0.0117807918519156,"ukb-a",85.8958587963621
+"ukb-a-399","Qualifications: A levels/AS levels or equivalent","European","SD",91710,242360,334070,0.274523303499267,"ukb-a",5.02108203382761
+"ukb-a-411","Transport type for commuting to job workplace: Public transport","European","SD",35908,141642,177550,0.202241622078288,"ukb-a",6.19809297112609
+"ukb-a-519","Diagnoses - main ICD10: C50 Malignant neoplasm of breast","European","SD",5510,331689,337199,0.0163404992304248,"ukb-a",62.2142526000908
+"ukb-a-376","Ever unenthusiastic/disinterested for a whole week","European","SD",39154,67714,106868,0.366377213010443,"ukb-a",4.30765345774777
+"ukb-a-204","Illnesses of father: Prostate cancer","European","SD",22534,270176,292053,0.0771572283112997,"ukb-a",14.0441567102116
+"ukb-a-156","Treatment/medication code: diclofenac","European","SD",7116,330043,337159,0.021105769088175,"ukb-a",48.4019711698118
+"ukb-a-260","Tobacco smoking: Ex-smoker","European","SD",30184,52949,83133,0.363080846354637,"ukb-a",4.3242655074874
+"ukb-a-294","Wheeze or whistling in the chest in last year","European","SD",68531,262726,331257,0.206881665896872,"ukb-a",6.09452700811138
+"ukb-a-530","Diagnoses - main ICD10: H26 Other cataract","European","SD",6025,331174,337199,0.017867787271018,"ukb-a",56.9848318574531
+"ukb-a-150","Treatment/medication code: amlodipine","European","SD",13693,323466,337159,0.040612885908429,"ukb-a",25.6650590560491
+"ukb-a-487","Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding  lawn mowing  carpentry  digging)","European","SD",147922,187677,335599,0.440770085727311,"ukb-a",4.05692980454791
+"ukb-a-148","Treatment/medication code: bisoprolol","European","SD",4985,332174,337159,0.0147853090085093,"ukb-a",68.6497113073613
+"ukb-a-454","Medication for pain relief  constipation  heartburn: Ibuprofen (e.g. Nurofen)","European","SD",49411,284170,333581,0.148122944652123,"ukb-a",7.92502684195749
+"ukb-a-400","Qualifications: O levels/GCSEs or equivalent","European","SD",159730,174340,334070,0.478133325350974,"ukb-a",4.00766508364705
+"ukb-a-522","Diagnoses - main ICD10: D25 Leiomyoma of uterus","European","SD",4351,332848,337199,0.0129033597371285,"ukb-a",78.5122676201012
+"ukb-a-406","Current employment status: Looking after home and/or family","European","SD",16722,319530,336252,0.0497305592234396,"ukb-a",21.1606933582515
+"ukb-a-188","Treatment/medication code: glucosamine product","European","SD",22914,314245,337159,0.0679620001245703,"ukb-a",15.7870225419918
+"ukb-a-532","Diagnoses - main ICD10: I20 Angina pectoris","European","SD",4837,332362,337199,0.0143446451501932,"ukb-a",70.7269784654862
+"ukb-a-483","Types of physical activity in last 4 weeks: None of the above","European","SD",19551,316048,335599,0.0582570269875655,"ukb-a",18.2271720938556
+"ukb-a-108","Non-cancer illness code  self-reported: high cholesterol","European","SD",41296,295863,337159,0.122482270976008,"ukb-a",9.30402503534525
+"ukb-a-373","Ever depressed for a whole week","European","SD",58468,50761,109229,0.535279092548682,"ukb-a",4.02001346612716
+"ukb-a-385","Tinnitus: Yes  but not now  but have in the past","European","SD",12076,97335,109411,0.110372814433649,"ukb-a",10.1842684223867
+"ukb-a-456","Medication for pain relief  constipation  heartburn: Omeprazole (e.g. Zanprol)","European","SD",20058,313523,333581,0.0601293239123331,"ukb-a",17.6947967878191
+"ukb-a-216","Illnesses of mother: Diabetes","European","SD",28875,281078,308780,0.0935131809054991,"ukb-a",11.7968396543942
+"ukb-a-313","Light smokers  at least 100 smokes in lifetime","European","SD",41027,49490,90517,0.453251875338334,"ukb-a",4.03527454873354

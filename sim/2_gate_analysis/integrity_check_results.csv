@@ -1,0 +1,28 @@
+,value
+expected chunks,1196
+chunk files present,1196
+missing chunks,0
+unexpected files,0
+leftover .tmp,0
+chunks with wrong row count,0
+total release records,425600
+"duplicate (set,cell,rep,pipeline,p_supplied_as)",0
+replicate seeds in plan,59800
+unique replicate seeds,59800
+data sets tuning,4800
+data sets test,55000
+logistic non-converged data sets,175
+Firth non-converged data sets,0
+data sets with any SPA fallback,0
+mean SPA success fraction,1.0
+non-finite sigma_hat outside sufficiency abstentions,0
+sufficiency abstentions (records),20820
+hash matches FREEZE: SIMULATION_PROTOCOL.md,True
+hash matches FREEZE: sim_scale.py,True
+hash matches FREEZE: run_sim.py,True
+hash matches FREEZE: analyse_sim.py,True
+versions,numpy 2.4.6 scipy 1.17.1 pandas 2.3.3 pyarrow 25.0.0
+regeneration: cells sampled,110
+regeneration: records compared,784
+regeneration: label / n_pass / finiteness mismatches,0
+regeneration: max abs diff in continuous fields,0.0

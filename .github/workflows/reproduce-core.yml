@@ -1,0 +1,114 @@
+name: Reproduce and validate analyses
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Validate manuscript-to-repository mapping and release manifest
+        run: python3 tests/validate_repository_map.py
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11.15'
+
+      - name: Install pinned Python packages
+        run: python -m pip install numpy==2.4.6 scipy==1.17.1 pandas==2.3.3 openpyxl==3.1.5
+
+      - name: Recompute every claim in the claim-evidence manifest
+        run: python tests/validate_claims.py
+
+      - name: Validate simulation, comparator, audit, case-study and figure layers
+        run: python tests/validate_sync_layers.py
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.4.1'
+          use-public-rspm: true
+
+      - name: Install pinned analysis packages
+        shell: Rscript {0}
+        run: |
+          repos <- Sys.getenv("RSPM", "https://cloud.r-project.org")
+          install.packages("remotes", repos = repos)
+          remotes::install_version("ggplot2", version = "4.0.0", repos = repos, upgrade = "never")
+          install.packages(c(
+            "cowplot", "data.table", "dplyr", "glmnet", "gridExtra",
+            "ieugwasr", "jsonlite", "knitr", "magrittr", "meta", "pbapply",
+            "plotly", "plyr", "psych", "reshape2", "rmarkdown"
+          ), repos = repos)
+          tsmr_tar <- tempfile(fileext = ".tar.gz")
+          mrmix_tar <- tempfile(fileext = ".tar.gz")
+          presso_tar <- tempfile(fileext = ".tar.gz")
+          radial_tar <- tempfile(fileext = ".tar.gz")
+          download.file("https://codeload.github.com/MRCIEU/TwoSampleMR/tar.gz/acc737c9972997f21d74b4e6dfb056a21b6f47d2", tsmr_tar, mode = "wb")
+          download.file("https://codeload.github.com/gqi/MRMix/tar.gz/56afdb2bc96760842405396f5d3f02e60e305039", mrmix_tar, mode = "wb")
+          download.file("https://codeload.github.com/rondolab/MR-PRESSO/tar.gz/3e3c92d7eda6dce0d1d66077373ec0f7ff4f7e87", presso_tar, mode = "wb")
+          download.file("https://codeload.github.com/WSpiller/RadialMR/tar.gz/42b28738b3db525e47aaf152a4f51a4996682e4e", radial_tar, mode = "wb")
+          remotes::install_local(mrmix_tar, dependencies = FALSE, upgrade = "never")
+          remotes::install_local(presso_tar, dependencies = FALSE, upgrade = "never")
+          remotes::install_local(radial_tar, dependencies = FALSE, upgrade = "never")
+          remotes::install_local(tsmr_tar, dependencies = FALSE, upgrade = "never")
+
+      - name: Reproduce analysis
+        run: Rscript effect_scale_mr_analysis.R
+
+      - name: Regenerated outputs must equal the committed outputs
+        shell: bash
+        run: |
+          # Nine R result tables are compared by tests/compare_regenerated_outputs.py (structure, text,
+          # missing values and integers exact; floating-point cells within a measured tolerance).
+          # results/sessionInfo.txt is environment-specific. Every other tracked file must be byte-identical.
+          tolerance_tables=(
+            results/MR_rerun_egger_intercept.csv results/MR_rerun_five_estimators.csv
+            results/MR_rerun_heterogeneity.csv results/calibration_reanalysis.csv
+            results/invariance_MRPRESSO_unit_test.csv results/invariance_egger_unit_test.csv
+            results/invariance_estimator_unit_test.csv results/invariance_heterogeneity_unit_test.csv
+            results/repository_scale_reanalysis.csv
+          )
+          excludes=(':(exclude)results/sessionInfo.txt')
+          for f in "${tolerance_tables[@]}"; do excludes+=(":(exclude)$f"); done
+
+          status=0
+          if ! git diff --quiet -- . "${excludes[@]}"; then
+            echo "Files that must be byte-identical differ:"
+            git diff --stat -- . "${excludes[@]}"
+            git diff -U0 --word-diff=plain --word-diff-regex='[^,"]+' -- . "${excludes[@]}"
+            status=1
+          fi
+
+          unexpected_outputs="$(git ls-files --others --exclude-standard -- results data)"
+          if [ -n "$unexpected_outputs" ]; then
+            printf 'Unexpected untracked outputs:\n%s\n' "$unexpected_outputs"
+            status=1
+          fi
+
+          python tests/compare_regenerated_outputs.py || status=1
+
+          echo "Environment-specific difference (reported, not asserted):"
+          git diff -- results/sessionInfo.txt || true
+          exit $status
+
+      - name: Recompute every claim from the regenerated outputs
+        if: ${{ !cancelled() }}
+        run: python tests/validate_claims.py
+
+      - name: Validate headline outputs
+        run: Rscript tests/validate_outputs.R
+
+      - name: Validate phenotype-architecture outputs and source-version check
+        run: python tests/validate_scheme_c.py

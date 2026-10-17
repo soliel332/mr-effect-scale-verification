@@ -1,0 +1,13 @@
+FREEZE — recorded before any simulated release was classified
+UTC: 2026-09-24T15:54:05+00:00
+python 3.11.15 | numpy 2.4.6 | scipy 1.17.1 | pandas 2.3.3
+root seed: numpy.random.SeedSequence(20260924); tuning stream spawned first
+
+26e4ed5d420617f5e4d64232a4b5f34e125f43e445ae29843df46347858c17b1  sim/SIMULATION_PROTOCOL.md
+2b1bcb0401aacd82df494cee887e138c9ff919d64c00339f0900907fb34e9a05  sim/sim_scale.py
+b0b7a73603dfbc5f8ebf14ed3d097ea47d76fb39a9651a7cded5a54bd67e1e17  sim/run_sim.py
+4d2284bfe054ba79a53c46895106ba9418e3f6838999faccc722fbb6880151bf  sim/precheck_results.csv
+cbd2b5827afcf441a7f85fc62fbf6e2b7c3f9f1146e06702bf07b8665efa20ba  sim/precheck_V3b_spa_vs_montecarlo.csv
+
+analysis script, written before any result was inspected:
+a0e5d614842d52545cc18e4faeea9c46e4439129f6342783bc7608e1415f9381  sim/analyse_sim.py   (UTC 2026-09-24T15:54:58Z)

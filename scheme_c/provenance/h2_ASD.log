@@ -1,0 +1,32 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 3.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out work/psychiatric_extension_rerun_20260911/ldsc_results/h2_ASD \
+--h2 work/psychiatric_extension_rerun_20260911/ldsc_sumstats/ASD.sumstats.gz \
+--ref-ld-chr work/psychiatric_extension_rerun_20260911/ldsc_reference_repo/GRCh37/results/ldscores/EUR/ \
+--w-ld-chr work/psychiatric_extension_rerun_20260911/ldsc_reference_repo/GRCh37/results/ldscores/EUR/ 
+
+Beginning analysis at Fri Sep 11 22:40:26 2026
+Reading summary statistics from work/psychiatric_extension_rerun_20260911/ldsc_sumstats/ASD.sumstats.gz ...
+Read summary statistics for 1046070 SNPs.
+Reading reference panel LD Score from work/psychiatric_extension_rerun_20260911/ldsc_reference_repo/GRCh37/results/ldscores/EUR/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1201354 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from work/psychiatric_extension_rerun_20260911/ldsc_reference_repo/GRCh37/results/ldscores/EUR/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1201354 SNPs.
+After merging with reference panel LD, 1046043 SNPs remain.
+After merging with regression SNP LD, 1046043 SNPs remain.
+Using two-step estimator with cutoff at 30.
+Total Observed scale h2: 0.1965 (0.0167)
+Lambda GC: 1.1715
+Mean Chi^2: 1.2001
+Intercept: 1.0076 (0.0097)
+Ratio: 0.038 (0.0485)
+Analysis finished at Fri Sep 11 22:40:30 2026
+Total time elapsed: 3.22s

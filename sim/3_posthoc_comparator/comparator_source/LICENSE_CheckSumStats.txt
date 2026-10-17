@@ -1,0 +1,4 @@
+The file CheckSumStats_make_plot_predlnor_ba67076.R is R/make_plot_predlnor.R from the CheckSumStats R package
+(https://github.com/MRCIEU/CheckSumStats), commit ba670767d42a9f6041b65e4a155b64a3ac096434, redistributed unmodified.
+CheckSumStats is licensed under the MIT licence (DESCRIPTION: 'License: MIT + file LICENSE'; LICENSE: YEAR: 2021,
+COPYRIGHT HOLDER: Philip Haycock). The MIT licence text is reproduced in the repository's LICENSE file.

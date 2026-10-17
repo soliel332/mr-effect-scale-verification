@@ -1,0 +1,52 @@
+arm,level,p_supplied_as,group,primary_wrong_mean,primary_wrong_worst_cell,abstain_sufficiency_mean,adequacy_wrong_worst_cell,adequacy_alarm_mean
+A1,lamz10,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A1,lamz10,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A1,lamz10,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.002
+A1,lamz20,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A1,lamz20,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A1,lamz20,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.009
+A2,maf0.01-0.05,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A2,maf0.01-0.05,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A2,maf0.01-0.05,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.285
+A3,gammaLog2,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A3,gammaLog2,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A3,gammaLog2,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.002
+A3,gammaLog4,case_fraction,P1 linear probability,0.000,0.000,0.015,0.000,0.000
+A3,gammaLog4,case_fraction,P2 standardised,0.000,0.000,0.015,0.000,0.000
+A3,gammaLog4,case_fraction,P3-P7 log odds,0.000,0.000,0.013,0.000,0.002
+A4,prev0.01,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A4,prev0.01,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A4,prev0.01,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.000
+A4,prev0.01,prevalence,P1 linear probability,1.000,1.000,0.000,0.000,1.000
+A4,prev0.01,prevalence,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A4,prev0.01,prevalence,P3-P7 log odds,1.000,1.000,0.000,0.000,1.000
+A5,Nx0.5,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,1.000
+A5,Nx0.5,case_fraction,P2 standardised,0.185,0.740,0.000,0.000,1.000
+A5,Nx0.5,case_fraction,P3-P7 log odds,0.078,0.738,0.000,0.000,1.000
+A5,Nx2.0,case_fraction,P1 linear probability,0.060,0.240,0.001,0.000,1.000
+A5,Nx2.0,case_fraction,P2 standardised,0.059,0.234,0.001,0.000,1.000
+A5,Nx2.0,case_fraction,P3-P7 log odds,0.000,0.000,0.001,0.000,0.999
+A5,Nx5.0,case_fraction,P1 linear probability,0.750,1.000,0.000,1.000,0.500
+A5,Nx5.0,case_fraction,P2 standardised,0.750,1.000,0.000,1.000,0.500
+A5,Nx5.0,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,1.000
+A6,freqerr_0.2,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A6,freqerr_0.2,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A6,freqerr_0.2,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.003
+A6,freqerr_0.5,case_fraction,P1 linear probability,0.000,0.000,0.001,0.000,0.002
+A6,freqerr_0.5,case_fraction,P2 standardised,0.000,0.000,0.001,0.000,0.002
+A6,freqerr_0.5,case_fraction,P3-P7 log odds,0.000,0.000,0.001,0.000,0.007
+A6,freqerr_flip,case_fraction,P1 linear probability,0.000,0.000,0.000,0.000,0.000
+A6,freqerr_flip,case_fraction,P2 standardised,0.000,0.000,0.000,0.000,0.000
+A6,freqerr_flip,case_fraction,P3-P7 log odds,0.000,0.000,0.000,0.000,0.002
+A7,nhet_matched,case_fraction,P1 linear probability,0.000,0.000,0.003,0.000,0.000
+A7,nhet_matched,case_fraction,P2 standardised,0.000,0.000,0.003,0.000,0.000
+A7,nhet_matched,case_fraction,P3-P7 log odds,0.000,0.000,0.006,0.000,0.001
+A7,nhet_severe,case_fraction,P1 linear probability,0.000,0.000,0.037,0.000,0.000
+A7,nhet_severe,case_fraction,P2 standardised,0.000,0.000,0.037,0.000,0.000
+A7,nhet_severe,case_fraction,P3-P7 log odds,0.000,0.000,0.046,0.000,0.004
+A8,info0.5,case_fraction,P1 linear probability,0.005,0.022,0.924,0.000,0.076
+A8,info0.5,case_fraction,P2 standardised,0.005,0.022,0.924,0.000,0.076
+A8,info0.5,case_fraction,P3-P7 log odds,0.000,0.000,0.929,0.000,0.071
+A8,info0.8,case_fraction,P1 linear probability,0.000,0.000,0.018,0.000,0.000
+A8,info0.8,case_fraction,P2 standardised,0.000,0.000,0.018,0.000,0.000
+A8,info0.8,case_fraction,P3-P7 log odds,0.000,0.000,0.022,0.000,0.001

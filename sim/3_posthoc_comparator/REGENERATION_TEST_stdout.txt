@@ -1,0 +1,22 @@
+log-odds frame records (case fraction supplied): 120400 | cells: 86
+records: 120400
+test_cells: 86
+label_agreement_sd_est_totalN_vs_sigma_hat: 0.99671926910299
+label_disagreements: 395
+corr_log_declSD_slope_vs_minus_log_sigma_hat: 0.9978368794916043
+median_declSD_slope_times_sigma_hat: 0.9984206979522006
+selfnormalised_alarm_P1_core: 0.0
+core_label_accuracy_default_ncontrol_p0.01: 1.0
+core_label_accuracy_default_ncontrol_p0.02: 1.0
+core_label_accuracy_default_ncontrol_p0.05: 1.0
+core_label_accuracy_default_ncontrol_p0.1: 1.0
+core_label_accuracy_default_ncontrol_p0.2: 1.0
+core_label_accuracy_default_ncontrol_p0.35: 1.0
+core_label_accuracy_default_ncontrol_p0.5: 0.8012392755004767
+core_label_accuracy_default_ncontrol_p0.75: 0.14285714285714285
+        per_release_median_factor  per_release_max_variant_factor  release_ratio_sd_est_totalN_over_sigma_hat  release_ratio_sd_est_default_ncontrol_over_sigma_hat
+min                       1.00016                         1.00020                                     1.00015                                               0.49344
+median                    1.00096                         1.00141                                     1.00099                                               0.89584
+p99                       1.00484                         1.00612                                     1.00492                                               0.99610
+max                       1.00548                         1.00839                                     1.00624                                               0.99765
+{'S16': 21, 'S17': 51, 'S18': 57, 'S19': 57, 'S20': 4}
