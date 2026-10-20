@@ -138,6 +138,8 @@ distributed layer tables.
 
 ## Software environments
 
+The post hoc bridge comparison (`case_study/bridge/`) is computed in Python and was verified directly with `TwoSampleMR::mr_ivw_mre` in the pinned R environment by `case_study/bridge/verify_bridge_pinned.R` (b, SE, OR, 95% CI, P, Q and I2 within tolerance; CI run https://github.com/soliel332/mr-effect-scale-verification/actions/runs/39426399151).
+
 Each analysis records the environment in which it was run. The records are distributed as generated, except that the local path of the software environment is replaced by `<LOCAL_CONDA_ENV>`; `SESSION_RECORD_REDACTION.csv` lists the nine affected files with their SHA-256 before and after.
 
 | Component | Environment | Record |
