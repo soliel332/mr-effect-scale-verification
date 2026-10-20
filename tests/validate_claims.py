@@ -84,6 +84,32 @@ RECOMPUTE = {
     "ADHD source-version overlapping variants": lambda: source("n"),
 }
 
+def prior(col):
+    return float(pd.read_csv(f("prior_studies/reexpressed_estimates.csv")).set_index("exposure_accession").loc["ukb-b-6991", col])
+
+
+RECOMPUTE.update({
+    "Prior study (Yan 2024) case-fraction factor lambda": lambda: prior("lambda_full"),
+    "Prior study (Yan 2024) re-expressed OR": lambda: prior("reexpressed_or_full"),
+    "Prior study (Yan 2024) re-expressed CI lower": lambda: prior("reexpressed_ci_low_full"),
+    "Prior study (Yan 2024) re-expressed CI upper": lambda: prior("reexpressed_ci_high_full"),
+    "Prior study (Yan 2024) change in Wald z": lambda: prior("z_after") - prior("z_before"),
+})
+
+
+def bridge(col):
+    t = pd.read_csv(f("case_study/bridge/bridge_estimates.csv"))
+    return float(t.loc[t.analysis.str.startswith("Bridge"), col].iloc[0])
+
+
+RECOMPUTE.update({
+    "Bridge comparison OR (same 35 variants)": lambda: bridge("OR"),
+    "Bridge comparison CI lower": lambda: bridge("CI_low"),
+    "Bridge comparison CI upper": lambda: bridge("CI_high"),
+    "Bridge variants allele-aligned": lambda: float(pd.read_csv(f("case_study/bridge/bridge_variant_summary.csv")).allele_aligned.iloc[0]),
+})
+
+
 rows = list(csv.DictReader(open(f("results/claim_evidence_manifest.csv"), newline="")))
 missing = [r["claim"] for r in rows if r["claim"] not in RECOMPUTE]
 assert not missing, f"claims without a recomputation: {missing}"

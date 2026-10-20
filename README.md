@@ -12,6 +12,19 @@ Online Resources 1 and 2 to its evidence files. `results/claim_evidence_manifest
 numerical claims, each with its evidence file and manuscript location; `tests/validate_claims.py`
 recomputes every one of them.
 
+## Interpretation corrections
+
+Two historical records are kept unchanged, because one is an output of the frozen core script and the other
+carries a recorded hash. Read them with the linked notes:
+
+- `results/repository_scale_summary.csv`: the rows `median_classification_margin` and
+  `minimum_classification_margin` are margins from the core script's two-signature comparison. For
+  interpretation they are superseded by the three-signature geometry (Online Resource 1, Table S3b); every
+  assignment is the same. See [`results/repository_scale_summary_NOTE.md`](results/repository_scale_summary_NOTE.md).
+- `sim/2_gate_analysis/VALIDATION_GATE.md`: rows of its gate-verdict table are revised by errata E2–E4 later in
+  the same document; where they differ, the errata apply. See
+  [`sim/2_gate_analysis/READ_FIRST_ERRATA.md`](sim/2_gate_analysis/READ_FIRST_ERRATA.md).
+
 ## Repository structure
 
 | Folder or file | Contents | Manuscript |
@@ -21,7 +34,8 @@ recomputes every one of them.
 | `results/` | Machine-readable outputs of the core analysis and the claim–evidence manifest | Tables 2–4; Online Resource 1 |
 | `sim/` | Pre-specified simulation (frozen protocol and code), its analysis, and the post hoc CheckSumStats comparison | Methods and Results on simulated operating characteristics; Online Resource 1, Tables S16–S20 |
 | `audit/` | Three-signature implementation of the audit rule and its sensitivity to reported sample size | Methods on the conditional scale-attribution rule; Results on the repository audit; Figure 2; Online Resource 1, Tables S3b, S14 |
-| `case_study/` | Direct scale diagnostic, MR-PRESSO in the pinned environment, leave-one-out | Results on the effect-scale assessment, replacement-release reanalysis and corrected estimates; Online Resource 1, Tables S9, S21 |
+| `case_study/` | Direct scale diagnostic, MR-PRESSO in the pinned environment, leave-one-out, post hoc bridge comparison (`bridge/`) | Results on the effect-scale assessment, replacement-release reanalysis and corrected estimates; Online Resource 1, Tables S9, S21, S22 |
+| `prior_studies/` | Post hoc provenance check of the cited depression–asthma MR studies and re-expression of one published estimate | Discussion |
 | `scheme_c/` | Exploratory phenotype-architecture analysis (LDSC, Genomic SEM) | Online Resource 1, Section S9 |
 | `online_resource_2/` | Export of the instrument-level workbook (Online Resource 2) | Online Resource 2 |
 | `figures/` | Plotting code, submitted figure files and plotted values | Figures 1–3 |
@@ -98,6 +112,8 @@ Rscript effect_scale_mr_analysis.R              # core MR, calibration and audit
 Rscript tests/validate_outputs.R                # headline values of the core outputs
 python3 tests/validate_claims.py                # every claim in results/claim_evidence_manifest.csv
 python3 tests/validate_sync_layers.py           # simulation, comparator, audit, case-study and figure layers
+python3 tests/validate_prior_studies.py         # prior-study provenance and re-expression (v1.1)
+python3 tests/validate_bridge.py                # post hoc bridge comparison (v1.1)
 python3 tests/validate_scheme_c.py              # phenotype-architecture outputs and source-version check
 python3 tests/validate_repository_map.py        # manuscript map, source manifest and FILE_MANIFEST.csv
 python3 tests/compare_regenerated_outputs.py    # after the R rerun: regenerated tables against the committed ones
@@ -156,7 +172,7 @@ and then requires:
   cells within |Δ| ≤ 2×10⁻¹³ + 2×10⁻¹⁴ × max(|old|, |new|) and identical at four decimal places and four
   significant figures; residual columns that are zero in exact arithmetic (`absolute_*_difference`)
   at most 2×10⁻¹³ on both platforms;
-- all 26 claims recomputed from the regenerated tables (`tests/validate_claims.py`).
+- all 35 claims recomputed from the regenerated tables (`tests/validate_claims.py`).
 
 These tables cannot be required to be byte-identical across platforms: in the first Linux run
 (17 October 2026) 92 floating-point cells differed in the last one or two of 15 significant digits
