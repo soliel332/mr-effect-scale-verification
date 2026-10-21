@@ -6,7 +6,7 @@ copies on 25 September 2026 (all match).
 
 | Layer | Status | Contents |
 |---|---|---|
-| `1_frozen_prespecified/` | **Pre-specified.** Frozen 24 Sep 2026 15:54:05 UTC, root seed `SeedSequence(20260924)`, before any simulated release was classified. | protocol, simulator, runner, analysis script (hashed at 15:54:58 UTC, before results existed), pre-execution checks, run log, record-level output (425,600 releases; 1,196 chunks consolidated), τ |
+| `1_frozen_prespecified/` | **Protocol-frozen** (designed after the repository audit; pre-specified with respect to its own outcomes only; not a preregistration). Frozen 24 Sep 2026 15:54:05 UTC, root seed `SeedSequence(20260924)`, before any simulated release was classified. | protocol, simulator, runner, analysis script (hashed at 15:54:58 UTC, before results existed), pre-execution checks, run log, record-level output (425,600 releases; 1,196 chunks consolidated), τ |
 | `2_gate_analysis/` | Output of the frozen analysis script plus integrity checks and the gate report. The gate report carries appended errata E1–E3 and an A7 erratum; the frozen protocol was not rewritten. `gate_audit_coverage_posthoc.csv` is labelled post hoc. | |
 | `3_posthoc_comparator/` | **POST HOC — not pre-specified.** CheckSumStats implementation benchmark, commit `ba670767d42a9f6041b65e4a155b64a3ac096434`, reimplemented from `R/make_plot_predlnor.R`. | scripts, record-level outputs for both frames, execution logs, regeneration checks, derived tables, adjudication |
 

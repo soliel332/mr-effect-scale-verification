@@ -34,7 +34,7 @@ carries a recorded hash. Read them with the linked notes:
 | `effect_scale_mr_analysis.R` | Core analysis: invariance checks, calibration, repository audit, corrected case-study MR | Methods and Results on invariance, calibration, repository audit and the case study |
 | `data/` | Derived inputs: calibration pairs (`calibration/`), harmonised case-study instruments (`mr/`), repository catalogue and audit sample (`repository/`) | Tables 1–4 |
 | `results/` | Machine-readable outputs of the core analysis and the claim–evidence manifest | Tables 2–4; Online Resource 1 |
-| `sim/` | Pre-specified simulation (frozen protocol and code), its analysis, and the post hoc CheckSumStats comparison | Methods and Results on simulated operating characteristics; Online Resource 1, Tables S16–S20 |
+| `sim/` | Protocol-frozen simulation (protocol and code hash-frozen before any simulated release was classified), its analysis, and the post hoc CheckSumStats comparison | Methods and Results on simulated operating characteristics; Online Resource 1, Tables S16–S20 |
 | `audit/` | Three-signature implementation of the audit rule and its sensitivity to reported sample size | Methods on the conditional scale-attribution rule; Results on the repository audit; Figure 2; Online Resource 1, Tables S3b, S14 |
 | `case_study/` | Direct scale diagnostic, MR-PRESSO in the pinned environment, leave-one-out, post hoc bridge comparison (`bridge/`) | Results on the effect-scale assessment, replacement-release reanalysis and corrected estimates; Online Resource 1, Tables S9, S21, S22 |
 | `prior_studies/` | Post hoc provenance check of the cited depression–asthma MR studies and re-expression of one published estimate | Discussion |
@@ -100,9 +100,10 @@ a conflict with the declared unit should be resolved against the source publicat
   reports the median and mode estimators; the claim is not extended to them.
 - **Calibration.** Three paired-release calibrations of the scale signatures
   (`results/calibration_reanalysis.csv`; Main Table 2, Figure 1).
-- **Pre-specified simulation** (`sim/1_frozen_prespecified/`, `sim/2_gate_analysis/`). Protocol,
+- **Protocol-frozen simulation** (`sim/1_frozen_prespecified/`, `sim/2_gate_analysis/`). The
+  simulation was designed after the case-study anomaly and the repository audit. Its protocol,
   simulator, runner and analysis script were frozen, with the hashes in `FREEZE.txt`, before any
-  simulated release was classified. In the core grid, 168,000 releases with correct sample size and
+  simulated release was classified; this was not a preregistration, and the folder name is historical. In the core grid, 168,000 releases with correct sample size and
   case counts received no wrong scale attribution.
 - **Post hoc comparison with CheckSumStats** (`sim/3_posthoc_comparator/`). **Not pre-specified.**
   CheckSumStats `R/make_plot_predlnor.R` at commit `ba670767d42a9f6041b65e4a155b64a3ac096434` was
