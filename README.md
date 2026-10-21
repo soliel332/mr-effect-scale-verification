@@ -5,7 +5,9 @@ supporting the study *Effect-scale metadata discordance in binary-trait GWAS sum
 repository audit and worked depression–asthma case study reported in the manuscript and its Online
 Resources 1 and 2.
 
-Version 1.0 accompanies the manuscript submitted to the *European Journal of Epidemiology*.
+Release `v1.1` is the version cited in the manuscript submitted to the *European Journal of Epidemiology*. It adds
+post hoc materials to the first release, `v1.0`, which is kept unchanged. Later commits on `main` change documentation only
+unless a new release says otherwise.
 
 `MANUSCRIPT_TO_REPOSITORY_MAP.csv` links each table, figure and result block of the main text and of
 Online Resources 1 and 2 to its evidence files. `results/claim_evidence_manifest.csv` lists the
@@ -56,6 +58,37 @@ python3 tests/validate_claims.py           # recomputes every numerical claim in
 ```
 
 `Running the checks` below lists the remaining checks.
+
+## Applying the check to another release
+
+The scale-attribution rule (manuscript Sections 2.2–2.3) is implemented as `classify()` in the frozen simulation code,
+`sim/1_frozen_prespecified/sim_scale.py`, and can be applied unchanged to any binary-trait release. It needs, for each
+instrument, the reported standard error and effect-allele frequency, together with the reported sample size and the case
+fraction of the analysis sample. The example below applies it to the originally analysed help-seeking release
+(ukb-b-6991), using the harmonised file distributed here:
+
+```python
+import sys
+import pandas as pd
+sys.path.insert(0, "sim/1_frozen_prespecified")
+from sim_scale import classify
+
+d = pd.read_csv("data/mr/Tier_2_superseded_mixed_scale__UK_Biobank_asthma_harmonised_kept.csv")
+r = classify(se=d["se.exposure"].values,          # reported standard errors
+             f_rep=d["eaf.exposure"].values,      # effect-allele frequencies
+             N_rep=d["samplesize.exposure"].values,  # reported sample size
+             p_sup=0.3450365567)                  # case fraction of the analysis sample
+print(r["assigned"], round(r["d_min"], 4), round(r["rel_sep"], 2))
+# linear_probability 0.0143 1.0
+```
+
+`assigned` is the nearest of `linear_probability`, `standardised` and `log_odds`, or `abstain_sufficiency` when fewer
+than five instruments have a usable standard error and allele frequency. `d_min` is the log distance to the assigned
+signature and `rel_sep` its separation from the runner-up relative to the attainable ceiling. Passing `tau=0.163276`
+(`sim/1_frozen_prespecified/sim_tau.txt`) adds an adequacy check that abstains when the fit is poor; that threshold was
+applied to the audit records post hoc. The output indicates which convention the summary statistics are consistent with;
+a conflict with the declared unit should be resolved against the source publication or pipeline documentation
+(manuscript Section 4.2). `tests/validate_readme_example.py` runs this example.
 
 ## What the repository reproduces
 
@@ -114,6 +147,7 @@ python3 tests/validate_claims.py                # every claim in results/claim_e
 python3 tests/validate_sync_layers.py           # simulation, comparator, audit, case-study and figure layers
 python3 tests/validate_prior_studies.py         # prior-study provenance and re-expression (v1.1)
 python3 tests/validate_bridge.py                # post hoc bridge comparison (v1.1)
+python3 tests/validate_readme_example.py        # the example under 'Applying the check to another release'
 python3 tests/validate_scheme_c.py              # phenotype-architecture outputs and source-version check
 python3 tests/validate_repository_map.py        # manuscript map, source manifest and FILE_MANIFEST.csv
 python3 tests/compare_regenerated_outputs.py    # after the R rerun: regenerated tables against the committed ones
