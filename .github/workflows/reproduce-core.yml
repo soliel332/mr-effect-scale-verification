@@ -40,6 +40,9 @@ jobs:
       - name: Validate post hoc bridge comparison
         run: python tests/validate_bridge.py
 
+      - name: Validate Figure 3 and Online Resource 1 Fig. S1 (v1.2)
+        run: python tests/validate_figures.py
+
       - name: Run the README example
         run: python tests/validate_readme_example.py
 

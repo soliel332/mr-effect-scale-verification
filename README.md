@@ -5,9 +5,26 @@ supporting the study *Effect-scale metadata discordance in binary-trait GWAS sum
 repository audit and worked depression–asthma case study reported in the manuscript and its Online
 Resources 1 and 2.
 
-Release `v1.1` is the version cited in the manuscript submitted to the *European Journal of Epidemiology*. It adds
-post hoc materials to the first release, `v1.0`, which is kept unchanged. Later commits on `main` change documentation only
-unless a new release says otherwise.
+Release `v1.2` is the version cited in the manuscript submitted to the *European Journal of Epidemiology*. It adds the
+four-row main-text Figure 3 and Online Resource 1, Fig. S1 (see below) to `v1.1`, which added post hoc materials to the
+first release, `v1.0`. No analysis result changed between releases, and earlier releases are kept unchanged. Later commits
+on `main` change documentation only unless a new release says otherwise.
+
+### Changes in v1.2
+
+- **Figure 3** now shows four quantities: the original mixed-scale estimate, its arithmetic rescaling, the post hoc bridge
+  comparison and the replacement-release analysis with its own instrument set. It is drawn by `figures/code/make_fig3.R`
+  from `case_study/bridge/bridge_estimates.csv`. The three-row v1.1 figure is kept in `figures/superseded_v1.1/`.
+- **Online Resource 1, Fig. S1**: scatter and leave-one-out plots of the original and the arithmetically rescaled Tier 2
+  analysis (`figures/code/make_mr_plots.R`, outputs in `figures/online_resource_1/`). The script also writes the same
+  plots for the six analyses of Table 4; these are not part of the manuscript.
+- `tests/validate_figures.py` checks both figures against the result files and checks every leave-one-out estimate
+  drawn against the committed TwoSampleMR leave-one-out output.
+- Terms. The manuscript calls the second Tier 2 release the *replacement release* and the deterministic conversion
+  *arithmetic rescaling*. Some machine-generated labels keep the earlier wording: `Help-seeking (corrected)` and
+  `Tier_2_help_seeking_corrected` denote the replacement-release analysis, and `Arithmetic re-expression` in
+  `case_study/bridge/bridge_estimates.csv` denotes the arithmetic rescaling. They are not renamed, because the files are
+  outputs of checked scripts.
 
 `MANUSCRIPT_TO_REPOSITORY_MAP.csv` links each table, figure and result block of the main text and of
 Online Resources 1 and 2 to its evidence files. `results/claim_evidence_manifest.csv` lists the
@@ -40,7 +57,7 @@ carries a recorded hash. Read them with the linked notes:
 | `prior_studies/` | Post hoc provenance check of the cited depression–asthma MR studies and re-expression of one published estimate | Discussion |
 | `scheme_c/` | Exploratory phenotype-architecture analysis (LDSC, Genomic SEM) | Online Resource 1, Section S9 |
 | `online_resource_2/` | Export of the instrument-level workbook (Online Resource 2) | Online Resource 2 |
-| `figures/` | Plotting code, submitted figure files and plotted values | Figures 1–3 |
+| `figures/` | Plotting code, submitted figure files and plotted values | Figures 1–3; Online Resource 1, Fig. S1 |
 | `tests/` | Checks that recompute the reported values; run by `.github/workflows/reproduce-core.yml` | — |
 | `release_assets/` | Names and hashes of the three record-level simulation files attached to release `v1.0`, and a download script | — |
 
@@ -119,15 +136,17 @@ a conflict with the declared unit should be resolved against the source publicat
   inputs (`case_study/direct_diagnostic/`); corrected univariable MR against UK Biobank and FinnGen
   asthma with five estimators, heterogeneity, MR-Egger intercepts and instrument strength (`results/`);
   MR-PRESSO for the six analyses in the pinned environment (`case_study/pinned_mrpresso/`);
-  leave-one-out estimates (`case_study/leave_one_out/`); and the three distinct quantities of Figure 3
-  — the superseded original mixed-scale estimate (OR 3.12), its arithmetic rescaling (OR 1.29) and the
-  replacement-GWAS reanalysis (OR 1.07). These are separate quantities, not one corrected sequence.
+  leave-one-out estimates (`case_study/leave_one_out/`); and the four quantities of Figure 3 — the
+  superseded original mixed-scale estimate (OR 3.12), its arithmetic rescaling (OR 1.29), the post hoc
+  bridge comparison (OR 1.28; `case_study/bridge/`) and the replacement-release analysis with its own
+  instrument set (OR 1.07). These answer different questions and are not one corrected sequence.
 - **Exploratory phenotype-architecture analysis** (`scheme_c/`; Online Resource 1, Section S9),
   including the source-version check of the public input files against the retained instrument-level
   effects (`scheme_c/source_version_check/`).
 - **Online Resource 2.** `online_resource_2/export_or2.py` writes the instrument-level workbook from
   `data/mr/`; `online_resource_2/check_or2_docx.py` checks the Word rendering cell by cell.
-- **Figures 1–3** (`figures/`): plotting code, submitted files, plotted values and export records.
+- **Figures 1–3 and Online Resource 1, Fig. S1** (`figures/`): plotting code, submitted files, plotted values and
+  export records.
 
 ## What is not included
 
@@ -148,6 +167,7 @@ python3 tests/validate_claims.py                # every claim in results/claim_e
 python3 tests/validate_sync_layers.py           # simulation, comparator, audit, case-study and figure layers
 python3 tests/validate_prior_studies.py         # prior-study provenance and re-expression (v1.1)
 python3 tests/validate_bridge.py                # post hoc bridge comparison (v1.1)
+python3 tests/validate_figures.py               # Figure 3 and Online Resource 1 Fig. S1 (v1.2)
 python3 tests/validate_readme_example.py        # the example under 'Applying the check to another release'
 python3 tests/validate_scheme_c.py              # phenotype-architecture outputs and source-version check
 python3 tests/validate_repository_map.py        # manuscript map, source manifest and FILE_MANIFEST.csv
@@ -175,7 +195,7 @@ distributed layer tables.
 
 The post hoc bridge comparison (`case_study/bridge/`) is computed in Python and was verified directly with `TwoSampleMR::mr_ivw_mre` in the pinned R environment by `case_study/bridge/verify_bridge_pinned.R` (b, SE, OR, 95% CI, P, Q and I2 within tolerance; CI run https://github.com/soliel332/mr-effect-scale-verification/actions/runs/39426399151).
 
-Each analysis records the environment in which it was run. The records are distributed as generated, except that the local path of the software environment is replaced by `<LOCAL_CONDA_ENV>`; `SESSION_RECORD_REDACTION.csv` lists the nine affected files with their SHA-256 before and after.
+Each analysis records the environment in which it was run. The records are distributed as generated, except that the local path of the software environment is replaced by `<LOCAL_CONDA_ENV>`; `SESSION_RECORD_REDACTION.csv` lists the ten affected files with their SHA-256 before and after.
 
 | Component | Environment | Record |
 |---|---|---|
@@ -183,7 +203,8 @@ Each analysis records the environment in which it was run. The records are distr
 | MR-PRESSO, six analyses | R 4.4.1, MRPRESSO 1.0 (commit `3e3c92d`) | `case_study/pinned_mrpresso/mrpresso_pinned_sessionInfo.txt` |
 | Leave-one-out | R 4.5.3, TwoSampleMR 0.7.9; reproduced independently in Python by `check_leave_one_out.py` | `case_study/leave_one_out/rerun_session_info.txt` |
 | Simulation and comparator | Python 3.11.15, NumPy 2.4.6, SciPy 1.17.1, pandas 2.3.3 | `sim/1_frozen_prespecified/FREEZE.txt`, `sim/ENVIRONMENT.txt` |
-| Figures 1 and 3, submitted export | R 4.5.3, ggplot2 4.0.3 | `figures/submitted/fig13_sessionInfo.txt` (original record) |
+| Figure 1, submitted export (and the v1.1 Figure 3) | R 4.5.3, ggplot2 4.0.3 | `figures/submitted/fig13_sessionInfo.txt` (original record) |
+| Figure 3 (v1.2) and Online Resource 1, Fig. S1 | R 4.4.1, ggplot2 4.0.3, cowplot 1.2.0 | `figures/online_resource_1/v12_figures_sessionInfo.txt` |
 | Figure 2, submitted export | Matplotlib 3.11.0; Python version not recorded | header of `figures/submitted/fig2_margins.eps` |
 | Phenotype architecture | R 4.4.1, GenomicSEM 0.0.5, LDSC commit `6c67395` | `scheme_c/provenance/` |
 
