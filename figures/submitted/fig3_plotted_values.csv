@@ -1,4 +1,9 @@
-"analysis","OR","low","high"
-"Original mixed-scale",3.1217485705749,1.72085410456517,5.66306818924022
-"Arithmetic rescaling",1.29338307178027,1.13051136702904,1.47971954918415
-"Replacement GWAS",1.06794887832226,0.879316649202063,1.29704675527836
+"analysis","OR","low","high","post_hoc"
+"Original mixed-scale analysis
+(35 variants)",3.1217485705749,1.72087292924183,5.66300624078035,FALSE
+"Arithmetic rescaling
+(35 variants)",1.29338307177734,1.13051416175063,1.47971589119216,FALSE
+"Bridge: replacement-release
+exposure coefficients (35 variants)",1.27860647653943,1.11887867698775,1.46113654274823,TRUE
+"Replacement release, own
+instrument set (26 variants)",1.06794887832226,0.87931978810023,1.29704212522484,FALSE

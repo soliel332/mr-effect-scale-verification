@@ -1,0 +1,8 @@
+"figure","analysis","K","ivw_matches_results","loo_rows_matched","loo_max_abs_diff_b","loo_max_abs_diff_se"
+"figS2","Help-seeking (corrected) | UK Biobank asthma",26,TRUE,26,2.77555756156289e-16,4.85722573273506e-16
+"figS3","Help-seeking (corrected) | FinnGen asthma",26,TRUE,26,4.71844785465692e-16,6.93889390390723e-17
+"figS4","Affective instability | UK Biobank asthma",41,TRUE,41,6.66133814775094e-16,4.85722573273506e-17
+"figS5","Affective instability | FinnGen asthma",38,TRUE,38,5.27355936696949e-16,5.55111512312578e-17
+"figS6","Major depression meta-analysis | UK Biobank asthma",39,TRUE,39,6.66133814775094e-16,5.55111512312578e-17
+"figS7","Major depression meta-analysis | FinnGen asthma",46,TRUE,46,5.55111512312578e-16,8.32667268468867e-17
+"figS1","Tier 2 original vs rescaled, UK Biobank",35,TRUE,35,2.66453525910038e-15,2.71050543121376e-18

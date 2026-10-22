@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite the article and this repository."
 title: "Analysis materials for effect-scale verification in summary-data Mendelian randomization"
-version: "1.1"
-date-released: "2026-10-20"
+version: "1.2"
+date-released: "2026-10-22"
 repository-code: "https://github.com/soliel332/mr-effect-scale-verification"
 license: MIT
 authors:

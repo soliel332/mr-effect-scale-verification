@@ -17,7 +17,7 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 
 
 mapping = read_csv(ROOT / "MANUSCRIPT_TO_REPOSITORY_MAP.csv")
-assert len(mapping) == 19, f"expected 19 manuscript-artifact mappings, got {len(mapping)}"
+assert len(mapping) == 20, f"expected 20 manuscript-artifact mappings, got {len(mapping)}"
 
 missing: list[str] = []
 for record in mapping:
