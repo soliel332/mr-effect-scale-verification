@@ -19,7 +19,8 @@ on `main` change documentation only unless a new release says otherwise.
   analysis (`figures/code/make_mr_plots.R`, outputs in `figures/online_resource_1/`). The script also writes the same
   plots for the six analyses of Table 4; these are not part of the manuscript.
 - `tests/validate_figures.py` checks both figures against the result files and checks every leave-one-out estimate
-  drawn against the committed TwoSampleMR leave-one-out output.
+  drawn against the committed TwoSampleMR leave-one-out output. These checks, with the full reproduction of the core analysis, passed in
+  CI run https://github.com/soliel332/mr-effect-scale-verification/actions/runs/39817857655.
 - Terms. The manuscript calls the second Tier 2 release the *replacement release* and the deterministic conversion
   *arithmetic rescaling*. Some machine-generated labels keep the earlier wording: `Help-seeking (corrected)` and
   `Tier_2_help_seeking_corrected` denote the replacement-release analysis, and `Arithmetic re-expression` in
